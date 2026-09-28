@@ -23,7 +23,8 @@ jobs:
         run: |
           echo "Validating current affairs database schema..."
           node -e "
-            const ca = require('./src/data/currentAffairs/currentAffairs.json');
+            import fs from 'fs';
+            const ca = JSON.parse(fs.readFileSync('./src/data/currentAffairs/currentAffairs.json', 'utf8'));
             console.log('Current Affairs items count:', ca.length);
             ca.forEach(item => {
               if (!item.id || !item.headline || !item.mcqs) {
