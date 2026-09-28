@@ -26,12 +26,15 @@ import { NoticesView } from './components/views/NoticesView';
 import { 
   getStoredLanguage, 
   setStoredLanguage, 
+  getStoredTheme,
+  setStoredTheme,
   getErrorNotes, 
   getBookmarkedIds 
 } from './utils/storage';
 
 export function App() {
   const [language, setLanguage] = useState<'hi' | 'en'>(getStoredLanguage());
+  const [theme, setTheme] = useState<'dark' | 'light'>(getStoredTheme());
   const [currentView, setCurrentView] = useState<ViewType>('home');
   const [viewContext, setViewContext] = useState<any>(null);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -39,6 +42,23 @@ export function App() {
 
   const [errorCount, setErrorCount] = useState<number>(getErrorNotes().length);
   const [bookmarkCount, setBookmarkCount] = useState<number>(getBookmarkedIds().length);
+
+  // Sync theme with document element and persistence
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+    if (theme === 'dark') {
+      document.documentElement.classList.add('dark');
+      document.documentElement.classList.remove('light');
+    } else {
+      document.documentElement.classList.add('light');
+      document.documentElement.classList.remove('dark');
+    }
+    setStoredTheme(theme);
+  }, [theme]);
+
+  const handleToggleTheme = () => {
+    setTheme(prev => (prev === 'dark' ? 'light' : 'dark'));
+  };
 
   // Sync language changes
   const handleToggleLanguage = () => {
@@ -114,11 +134,15 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans selection:bg-amber-500 selection:text-slate-950">
+    <div className={`min-h-screen flex flex-col font-sans selection:bg-amber-500 selection:text-slate-950 transition-colors duration-200 theme-root ${
+      theme === 'dark' ? 'bg-slate-950 text-slate-100' : 'bg-slate-100 text-slate-900'
+    }`}>
       
       {/* Sticky Header */}
       <Header
         language={language}
+        theme={theme}
+        onToggleTheme={handleToggleTheme}
         onToggleLanguage={handleToggleLanguage}
         onOpenSearch={() => setIsSearchOpen(true)}
         onToggleSidebar={() => setIsSidebarOpen(prev => !prev)}
@@ -133,6 +157,8 @@ export function App() {
           currentView={currentView}
           onSelectView={handleNavigate}
           language={language}
+          theme={theme}
+          onToggleTheme={handleToggleTheme}
           isOpen={isSidebarOpen}
           onClose={() => setIsSidebarOpen(false)}
           errorCount={errorCount}

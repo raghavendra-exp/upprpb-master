@@ -1,15 +1,18 @@
-import React from 'react';
 import { 
   Shield, 
   Search, 
   Languages, 
   Menu, 
   ExternalLink,
-  Bell
+  Bell,
+  Sun,
+  Moon
 } from 'lucide-react';
 
 interface HeaderProps {
   language: 'hi' | 'en';
+  theme: 'dark' | 'light';
+  onToggleTheme: () => void;
   onToggleLanguage: () => void;
   onOpenSearch: () => void;
   onToggleSidebar: () => void;
@@ -18,6 +21,8 @@ interface HeaderProps {
 
 export const Header: React.FC<HeaderProps> = ({
   language,
+  theme,
+  onToggleTheme,
   onToggleLanguage,
   onOpenSearch,
   onToggleSidebar,
@@ -96,10 +101,42 @@ export const Header: React.FC<HeaderProps> = ({
               <span className="absolute top-1.5 right-1.5 w-2 h-2 rounded-full bg-red-500"></span>
             </button>
 
+            {/* Theme Toggle */}
+            <button
+              onClick={onToggleTheme}
+              className={`flex items-center space-x-1.5 px-2.5 sm:px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold transition border shadow-sm cursor-pointer theme-toggle-btn ${
+                theme === 'dark'
+                  ? 'bg-slate-800 hover:bg-slate-700 text-amber-300 border-slate-700'
+                  : 'bg-slate-100 hover:bg-slate-200 text-slate-800 border-slate-300'
+              }`}
+              title={
+                theme === 'dark'
+                  ? (language === 'hi' ? 'लाइट थीम सक्रिय करें (Light Mode)' : 'Switch to Light Theme')
+                  : (language === 'hi' ? 'डार्क थीम सक्रिय करें (Dark Mode)' : 'Switch to Dark Theme')
+              }
+              aria-label="Toggle Dark / Light Theme"
+            >
+              {theme === 'dark' ? (
+                <>
+                  <Sun className="w-4 h-4 text-amber-400" />
+                  <span className="hidden sm:inline font-bold">
+                    {language === 'hi' ? 'लाइट' : 'Light'}
+                  </span>
+                </>
+              ) : (
+                <>
+                  <Moon className="w-4 h-4 text-indigo-600" />
+                  <span className="hidden sm:inline font-bold">
+                    {language === 'hi' ? 'डार्क' : 'Dark'}
+                  </span>
+                </>
+              )}
+            </button>
+
             {/* Bilingual Toggle */}
             <button
               onClick={onToggleLanguage}
-              className="flex items-center space-x-1.5 bg-gradient-to-r from-blue-700 to-indigo-700 hover:from-blue-600 hover:to-indigo-600 text-white px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold shadow-sm transition border border-blue-500/40"
+              className="flex items-center space-x-1.5 bg-gradient-to-r from-blue-700 to-indigo-700 hover:from-blue-600 hover:to-indigo-600 text-white px-3 py-1.5 rounded-lg text-xs sm:text-sm font-semibold shadow-sm transition border border-blue-500/40 cursor-pointer"
               title="Toggle Hindi / English"
             >
               <Languages className="w-4 h-4" />

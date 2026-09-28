@@ -15,7 +15,9 @@ import {
   Bell, 
   Clock, 
   Sparkles,
-  X
+  X,
+  Sun,
+  Moon
 } from 'lucide-react';
 
 export type ViewType = 
@@ -43,6 +45,8 @@ interface SidebarProps {
   currentView: ViewType;
   onSelectView: (view: ViewType) => void;
   language: 'hi' | 'en';
+  theme: 'dark' | 'light';
+  onToggleTheme: () => void;
   isOpen: boolean;
   onClose: () => void;
   errorCount: number;
@@ -53,6 +57,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
   currentView,
   onSelectView,
   language,
+  theme,
+  onToggleTheme,
   isOpen,
   onClose,
   errorCount,
@@ -152,6 +158,28 @@ export const Sidebar: React.FC<SidebarProps> = ({
               </button>
             );
           })}
+        </div>
+
+        {/* Theme Toggle in Sidebar */}
+        <div className="p-3 border-t border-slate-800 bg-slate-900/60">
+          <button
+            onClick={onToggleTheme}
+            className="w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold transition bg-slate-800/80 hover:bg-slate-700/80 text-slate-200 border border-slate-700/60 cursor-pointer"
+          >
+            <div className="flex items-center space-x-2">
+              {theme === 'dark' ? (
+                <Sun className="w-4 h-4 text-amber-400" />
+              ) : (
+                <Moon className="w-4 h-4 text-indigo-500" />
+              )}
+              <span>{language === 'hi' ? 'थीम मोड' : 'Theme Mode'}</span>
+            </div>
+            <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
+              theme === 'dark' ? 'bg-amber-500/20 text-amber-300 border border-amber-500/30' : 'bg-indigo-500/20 text-indigo-400 border border-indigo-500/30'
+            }`}>
+              {theme === 'dark' ? (language === 'hi' ? 'डार्क' : 'Dark') : (language === 'hi' ? 'लाइट' : 'Light')}
+            </span>
+          </button>
         </div>
 
         {/* Sidebar Footer: Official Helpline & Disclaimer */}

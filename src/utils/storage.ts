@@ -3,12 +3,35 @@ import { ErrorNote, RunningLogEntry, Question } from '../types';
 
 const STORAGE_KEYS = {
   LANGUAGE: 'upprpb_lang',
+  THEME: 'upprpb_theme',
   BOOKMARKS: 'upprpb_bookmarks',
   ERROR_NOTES: 'upprpb_errors',
   FLASHCARDS_STATE: 'upprpb_flashcards',
   RUNNING_LOGS: 'upprpb_running_logs',
   MOCK_RESULTS: 'upprpb_mock_results',
   PLANNER_CONFIG: 'upprpb_planner'
+};
+
+export const getStoredTheme = (): 'dark' | 'light' => {
+  try {
+    const saved = localStorage.getItem(STORAGE_KEYS.THEME);
+    if (saved === 'dark' || saved === 'light') return saved;
+    // Default to dark for police navy theme, unless user system preference is explicitly light
+    if (typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+      return 'light';
+    }
+  } catch {
+    // fallback
+  }
+  return 'dark';
+};
+
+export const setStoredTheme = (theme: 'dark' | 'light') => {
+  try {
+    localStorage.setItem(STORAGE_KEYS.THEME, theme);
+  } catch {
+    // ignore
+  }
 };
 
 export const getStoredLanguage = (): 'hi' | 'en' => {
