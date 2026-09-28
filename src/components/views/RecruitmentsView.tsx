@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { 
   CheckCircle2, 
   Clock, 
@@ -8,7 +8,11 @@ import {
   Scale, 
   Activity, 
   BookOpen, 
-  Filter
+  Filter,
+  ChevronLeft,
+  ChevronRight,
+  LayoutGrid,
+  SlidersHorizontal
 } from 'lucide-react';
 import { ViewType } from '../common/Sidebar';
 import { Breadcrumb } from '../common/Breadcrumb';
@@ -46,8 +50,44 @@ export const RecruitmentsView: React.FC<RecruitmentsViewProps> = ({
 
   const [activePostId, setActivePostId] = useState<string>(selectedPostKey || 'UPPRPB-CONSTABLE-2025');
   const [filterStatus, setFilterStatus] = useState<string>('all');
+  const [isGridView, setIsGridView] = useState(false);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(true);
+
+  const tabsRef = useRef<HTMLDivElement>(null);
+  const selectedTabRef = useRef<HTMLButtonElement>(null);
 
   const currentRecruitment = recruitments.find(r => r.id === activePostId || r.postKey === activePostId) || recruitments[0];
+
+  const checkScroll = () => {
+    if (tabsRef.current) {
+      const { scrollLeft, scrollWidth, clientWidth } = tabsRef.current;
+      setCanScrollLeft(scrollLeft > 10);
+      setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 10);
+    }
+  };
+
+  useEffect(() => {
+    checkScroll();
+    const handleResize = () => checkScroll();
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+  // Auto center selected tab on change
+  useEffect(() => {
+    if (selectedTabRef.current && !isGridView) {
+      selectedTabRef.current.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+    }
+  }, [activePostId, isGridView]);
+
+  const scrollTabs = (dir: 'left' | 'right') => {
+    if (tabsRef.current) {
+      const amount = dir === 'left' ? -260 : 260;
+      tabsRef.current.scrollBy({ left: amount, behavior: 'smooth' });
+      setTimeout(checkScroll, 300);
+    }
+  };
 
   const getStatusBadge = (status: string) => {
     switch (status) {
@@ -96,7 +136,7 @@ export const RecruitmentsView: React.FC<RecruitmentsViewProps> = ({
           <select 
             value={filterStatus}
             onChange={(e) => setFilterStatus(e.target.value)}
-            className="bg-slate-800 border border-slate-700 text-xs text-slate-200 rounded-lg px-2.5 py-1.5 focus:outline-none focus:ring-1 focus:ring-amber-500"
+            className="bg-slate-800 border border-slate-700 text-xs text-slate-200 rounded-lg px-2.5 py-1.5 focus:outline-none focus:ring-1 focus:ring-amber-500 cursor-pointer"
           >
             <option value="all">{language === 'hi' ? 'सभी स्थितियां (All Status)' : 'All Statuses'}</option>
             <option value="active">{language === 'hi' ? 'सक्रिय प्रक्रिया (Active)' : 'Active Stages'}</option>
@@ -105,25 +145,101 @@ export const RecruitmentsView: React.FC<RecruitmentsViewProps> = ({
         </div>
       </div>
 
-      {/* Cadre Tabs Selector */}
-      <div className="flex space-x-2 overflow-x-auto pb-2 scrollbar-none">
-        {recruitments.map((r) => {
-          const isSelected = r.id === currentRecruitment.id;
-          return (
+      {/* Cadre Navigation Bar with Controls */}
+      <div className="space-y-2">
+        <div className="flex items-center justify-between text-xs text-slate-400 px-1">
+          <div className="flex items-center space-x-2">
+            <span className="font-bold text-slate-200">
+              {language === 'hi' ? 'संवर्ग चयन (8 पद):' : 'Select Cadre (8 Posts):'}
+            </span>
+            <span className="hidden sm:inline text-slate-400 text-[11px]">
+              {language === 'hi' ? '• माउस व्हील या बाण (< >) से स्क्रोल करें' : '• Scroll with mouse wheel or arrows (< >)'}
+            </span>
+          </div>
+
+          <div className="flex items-center space-x-2">
             <button
-              key={r.id}
-              onClick={() => setActivePostId(r.id)}
-              className={`flex-shrink-0 px-3.5 py-2 rounded-xl text-xs sm:text-sm font-semibold transition border ${
-                isSelected
-                  ? 'bg-blue-600 text-white border-blue-500 shadow-md shadow-blue-900/30'
-                  : 'bg-slate-900 text-slate-300 border-slate-800 hover:bg-slate-800/80 hover:text-white'
-              }`}
+              onClick={() => setIsGridView(prev => !prev)}
+              className="flex items-center space-x-1.5 px-3 py-1 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 transition text-xs font-semibold cursor-pointer"
+              title={isGridView ? 'Switch to horizontal scroll view' : 'Show all 8 cadres in a grid'}
             >
-              <span>{language === 'hi' ? r.postHi : r.post}</span>
-              <span className="ml-2 text-[10px] opacity-80 font-mono">({r.vacancies})</span>
+              {isGridView ? (
+                <>
+                  <SlidersHorizontal className="w-3.5 h-3.5 text-amber-400" />
+                  <span>{language === 'hi' ? 'स्क्रोल पट्टी' : 'Scroll View'}</span>
+                </>
+              ) : (
+                <>
+                  <LayoutGrid className="w-3.5 h-3.5 text-amber-400" />
+                  <span>{language === 'hi' ? 'ग्रिड में सभी 8 देखें' : 'View All 8 (Grid)'}</span>
+                </>
+              )}
             </button>
-          );
-        })}
+          </div>
+        </div>
+
+        {/* Tab Scroller with Left & Right Arrow Buttons */}
+        <div className="relative group">
+          {!isGridView && canScrollLeft && (
+            <button
+              onClick={() => scrollTabs('left')}
+              className="absolute left-0 top-1/2 -translate-y-1/2 z-20 p-2 rounded-full bg-slate-900/95 hover:bg-blue-600 text-white shadow-xl border border-slate-700 backdrop-blur-md -ml-2 sm:-ml-3 transition transform hover:scale-110 cursor-pointer"
+              aria-label="Scroll cadres left"
+              title="Scroll left"
+            >
+              <ChevronLeft className="w-4 h-4 text-amber-400 hover:text-white" />
+            </button>
+          )}
+
+          {!isGridView && canScrollRight && (
+            <button
+              onClick={() => scrollTabs('right')}
+              className="absolute right-0 top-1/2 -translate-y-1/2 z-20 p-2 rounded-full bg-slate-900/95 hover:bg-blue-600 text-white shadow-xl border border-slate-700 backdrop-blur-md -mr-2 sm:-mr-3 transition transform hover:scale-110 cursor-pointer"
+              aria-label="Scroll cadres right"
+              title="Scroll right"
+            >
+              <ChevronRight className="w-4 h-4 text-amber-400 hover:text-white" />
+            </button>
+          )}
+
+          <div
+            ref={tabsRef}
+            onScroll={checkScroll}
+            onWheel={(e) => {
+              if (!isGridView && tabsRef.current && e.deltaY !== 0) {
+                tabsRef.current.scrollLeft += e.deltaY;
+              }
+            }}
+            className={
+              isGridView
+                ? "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2.5 pb-2"
+                : "flex space-x-2.5 overflow-x-auto pb-2.5 scroll-smooth scrollable-tabs px-1"
+            }
+          >
+            {recruitments.map((r) => {
+              const isSelected = r.id === currentRecruitment.id;
+              return (
+                <button
+                  key={r.id}
+                  ref={isSelected ? selectedTabRef : null}
+                  onClick={() => setActivePostId(r.id)}
+                  className={`flex-shrink-0 px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold transition border cursor-pointer ${
+                    isSelected
+                      ? 'bg-blue-600 text-white border-blue-500 shadow-md shadow-blue-900/40 ring-2 ring-blue-400/50'
+                      : 'bg-slate-900 text-slate-300 border-slate-800 hover:bg-slate-800/90 hover:text-white'
+                  } ${isGridView ? 'w-full text-left flex items-center justify-between' : ''}`}
+                >
+                  <span className="truncate">{language === 'hi' ? r.postHi : r.post}</span>
+                  <span className={`ml-2 text-[10px] font-mono px-2 py-0.5 rounded-md ${
+                    isSelected ? 'bg-blue-700 text-blue-100' : 'bg-slate-800 text-amber-400'
+                  }`}>
+                    {r.vacancies}
+                  </span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
       </div>
 
       {/* Active Recruitment Card Detail */}

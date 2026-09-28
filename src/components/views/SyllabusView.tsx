@@ -113,7 +113,10 @@ export const SyllabusView: React.FC<SyllabusViewProps> = ({
 
       {/* Subject Tabs and Search */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-        <div className="flex space-x-2 overflow-x-auto pb-1 scrollbar-none">
+        <div 
+          onWheel={(e) => { if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY; }}
+          className="flex space-x-2 overflow-x-auto pb-1 scrollable-tabs scroll-smooth"
+        >
           {currentSyllabus.subjects.map((sub) => {
             const isSubActive = sub.id === activeSubject.id;
             return (

@@ -145,7 +145,10 @@ export const PracticeView: React.FC<PracticeViewProps> = ({
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
           
           {/* Practice Modes */}
-          <div className="flex space-x-1.5 overflow-x-auto pb-1 scrollbar-none">
+          <div 
+            onWheel={(e) => { if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY; }}
+            className="flex space-x-1.5 overflow-x-auto pb-1 scrollable-tabs scroll-smooth"
+          >
             <button
               onClick={() => { setMode('quick'); handleResetQuiz(); }}
               className={`px-3 py-1.5 rounded-xl text-xs font-bold transition ${

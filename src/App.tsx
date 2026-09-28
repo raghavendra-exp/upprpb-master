@@ -166,7 +166,7 @@ export function App() {
         />
 
         {/* Dynamic View Content Area */}
-        <main className="flex-1 px-4 sm:px-6 lg:px-8 py-6 w-full max-w-full overflow-hidden">
+        <main className="flex-1 px-4 sm:px-6 lg:px-8 py-6 w-full max-w-full min-w-0">
           {renderActiveView()}
         </main>
 
