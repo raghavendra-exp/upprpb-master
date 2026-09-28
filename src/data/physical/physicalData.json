@@ -1,0 +1,100 @@
+{
+  "standards": [
+    {
+      "post": "Constable Civil Police & PAC",
+      "malePst": {
+        "heightGenObcSc": "168 cm",
+        "heightSt": "160 cm",
+        "chestGenObcSc": "79 cm (unexpanded) to 84 cm (expanded) - min 5 cm expansion",
+        "chestSt": "77 cm (unexpanded) to 82 cm (expanded) - min 5 cm expansion"
+      },
+      "femalePst": {
+        "heightGenObcSc": "152 cm",
+        "heightSt": "147 cm",
+        "weightMin": "40 kg"
+      },
+      "petRunning": {
+        "maleDistance": "4.8 km (4800 meters)",
+        "maleTimeLimit": "25 minutes (1500 seconds)",
+        "femaleDistance": "2.4 km (2400 meters)",
+        "femaleTimeLimit": "14 minutes (840 seconds)",
+        "method": "RFID Electronic Chip on foot, tracked over 400m synthetic or ground track (12 laps for male, 6 laps for female)",
+        "qualifyingOnly": true
+      }
+    },
+    {
+      "post": "Sub-Inspector (Civil Police) & Platoon Commander",
+      "malePst": {
+        "heightGenObcSc": "168 cm",
+        "heightSt": "160 cm",
+        "chestGenObcSc": "79 cm to 84 cm (min 5 cm expansion)",
+        "chestSt": "77 cm to 82 cm (min 5 cm expansion)"
+      },
+      "femalePst": {
+        "heightGenObcSc": "152 cm",
+        "heightSt": "147 cm",
+        "weightMin": "40 kg"
+      },
+      "petRunning": {
+        "maleDistance": "4.8 km (4800 meters)",
+        "maleTimeLimit": "28 minutes (1680 seconds)",
+        "femaleDistance": "2.4 km (2400 meters)",
+        "femaleTimeLimit": "16 minutes (960 seconds)",
+        "method": "RFID electronic timing on standard ground track",
+        "qualifyingOnly": true
+      }
+    },
+    {
+      "post": "Assistant Sub-Inspector (Clerk / Accounts) Ministerial",
+      "malePst": {
+        "heightGenObcSc": "163 cm (Relaxed)",
+        "heightSt": "156 cm",
+        "chestGenObcSc": "77 cm to 82 cm",
+        "chestSt": "75 cm to 80 cm"
+      },
+      "femalePst": {
+        "heightGenObcSc": "150 cm",
+        "heightSt": "145 cm",
+        "weightMin": "40 kg"
+      },
+      "petRunning": {
+        "maleDistance": "Exempt from Running PET (Only Typing / Skill Test applicable)",
+        "maleTimeLimit": "N/A",
+        "femaleDistance": "Exempt from Running PET",
+        "femaleTimeLimit": "N/A",
+        "method": "Skill test (Hindi 25 wpm, English 30 wpm)",
+        "qualifyingOnly": true
+      }
+    }
+  ],
+  "trainingSchedule8Weeks": [
+    {
+      "week": "Week 1-2: Aerobic Base Building",
+      "weekHi": "सप्ताह 1-2: एरोबिक आधार एवं सहनशक्ति निर्माण",
+      "focus": "Brisk walk and slow jog intervals. Build joint durability and lung capacity.",
+      "plan": "Day 1-6: 2 km brisk walk + 1 km light jog. Total 30 mins continuous movement. Sunday: Active recovery & stretching.",
+      "targetPace": "7:30 to 8:00 min/km"
+    },
+    {
+      "week": "Week 3-4: Distance Progression",
+      "weekHi": "सप्ताह 3-4: दूरी में क्रमिक वृद्धि",
+      "focus": "Increase continuous running distance to 3 km without walking.",
+      "plan": "Day 1, 3, 5: 3.5 km continuous run at comfortable pace. Day 2, 4: Core exercises (planks, squats, calf raises) + 2 km brisk jog. Day 6: 4 km slow long run.",
+      "targetPace": "6:30 to 7:00 min/km"
+    },
+    {
+      "week": "Week 5-6: Pace Control & Track Laps",
+      "weekHi": "सप्ताह 5-6: गति नियंत्रण एवं 400 मीटर ट्रैक अभ्यास",
+      "focus": "Practice on standard 400m ground track. Learn lap pacing (target 1 min 55 sec to 2 min per lap).",
+      "plan": "Track sessions: 10 laps (4 km) timed. Maintain consistent lap splits. Add tempo intervals.",
+      "targetPace": "5:30 to 6:00 min/km"
+    },
+    {
+      "week": "Week 7-8: Race Simulation & Tapering",
+      "weekHi": "सप्ताह 7-8: वास्तविक 4.8 किमी / 2.4 किमी सिमुलेशन",
+      "focus": "Full distance mock PET under morning conditions. Hydration and breathing cadence.",
+      "plan": "2 Full Mock PET runs (4.8 km in < 24 mins for male, 2.4 km in < 13 mins for female). Light taper 3 days prior.",
+      "targetPace": "5:00 to 5:15 min/km"
+    }
+  ]
+}

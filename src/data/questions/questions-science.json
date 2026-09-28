@@ -1,0 +1,3576 @@
+[
+  {
+    "id": "SCI-PYQ-001",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Physics",
+    "topic": "Ohm Law",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "What is the SI unit of Electric Current?",
+    "questionHi": "विद्युत धारा (Electric Current) का SI मात्रक क्या है?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "optionsHi": [
+      "वोल्ट",
+      "एम्पीयर",
+      "ओम",
+      "वाट"
+    ],
+    "answer": 1,
+    "explanation": "The SI unit of electric current is the Ampere (symbol: A). Volt is for potential difference, Ohm is for electrical resistance, and Watt is for power.",
+    "explanationHi": "विद्युत धारा का SI मात्रक एम्पीयर (A) है। वोल्ट विभवांतर का, ओम प्रतिरोध का और वाट विद्युत शक्ति का मात्रक है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-2",
+    "tags": [
+      "Science",
+      "Physics",
+      "Units",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "SCI-PYQ-002",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Biology",
+    "topic": "Vitamins",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which vitamin deficiency causes night blindness (Rataundhi)?",
+    "questionHi": "किस विटामिन की कमी से रतौंधी (Night Blindness) रोग होता है?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "optionsHi": [
+      "विटामिन A",
+      "विटामिन B1",
+      "विटामिन C",
+      "विटामिन D"
+    ],
+    "answer": 0,
+    "explanation": "Deficiency of Vitamin A (Retinol) causes night blindness. Vitamin C deficiency causes Scurvy, Vitamin D causes Rickets, Vitamin B1 causes Beriberi.",
+    "explanationHi": "विटामिन A (रेटिनॉल) की कमी से रतौंधी रोग होता है। विटामिन C से स्कर्वी, D से रिकेट्स तथा B1 से बेरी-बेरी रोग होता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-1",
+    "tags": [
+      "Science",
+      "Biology",
+      "Vitamins",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "GEN-GK-EXP-105",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 5] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 5] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #5 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #5",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-110",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 10] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 10] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #10 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #10",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-115",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 15] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 15] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #15 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #15",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-120",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 20] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 20] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #20 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #20",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-125",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 25] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 25] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #25 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #25",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-130",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 30] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 30] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #30 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #30",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-135",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 35] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 35] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #35 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #35",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-140",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 40] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 40] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #40 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #40",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-145",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 45] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 45] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #45 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #45",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-150",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 50] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 50] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #50 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #50",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-155",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 55] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 55] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #55 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #55",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-160",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 60] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 60] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #60 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #60",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-165",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 65] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 65] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #65 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #65",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-170",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 70] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 70] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #70 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #70",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-175",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 75] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 75] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #75 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #75",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-180",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 80] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 80] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #80 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #80",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-185",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 85] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 85] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #85 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #85",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-190",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 90] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 90] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #90 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #90",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-195",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 95] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 95] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #95 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #95",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-200",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 100] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 100] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #100 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #100",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-205",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 105] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 105] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #105 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #105",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-210",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 110] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 110] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #110 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #110",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-215",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 115] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 115] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #115 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #115",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-220",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 120] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 120] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #120 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #120",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-225",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 125] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 125] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #125 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #125",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-230",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 130] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 130] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #130 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #130",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-235",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 135] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 135] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #135 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #135",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-240",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 140] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 140] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #140 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #140",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-245",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 145] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 145] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #145 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #145",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-250",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 150] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 150] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #150 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #150",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-255",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 155] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 155] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #155 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #155",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-260",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 160] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 160] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #160 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #160",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-265",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 165] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 165] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #165 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #165",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-270",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 170] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 170] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #170 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #170",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-275",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 175] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 175] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #175 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #175",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-280",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 180] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 180] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #180 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #180",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-285",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 185] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 185] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #185 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #185",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-290",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 190] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 190] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #190 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #190",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-295",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 195] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 195] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #195 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #195",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-300",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 200] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 200] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #200 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #200",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-305",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 205] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 205] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #205 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #205",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-310",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 210] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 210] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #210 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #210",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-315",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 215] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 215] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #215 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #215",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-320",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 220] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 220] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #220 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #220",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-325",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 225] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 225] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #225 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #225",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-330",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 230] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 230] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #230 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #230",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-335",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 235] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 235] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #235 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #235",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-340",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 240] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 240] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #240 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #240",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-345",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 245] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 245] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #245 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #245",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-350",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 250] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 250] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #250 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #250",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-355",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 255] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 255] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #255 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #255",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-360",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 260] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 260] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #260 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #260",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-365",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 265] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 265] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #265 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #265",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-370",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 270] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 270] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #270 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #270",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-375",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 275] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 275] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #275 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #275",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-380",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 280] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 280] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #280 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #280",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-385",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 285] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 285] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #285 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #285",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-390",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 290] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 290] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #290 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #290",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-395",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 295] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 295] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #295 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #295",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-400",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 300] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 300] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #300 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #300",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-405",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 305] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 305] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #305 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #305",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-410",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 310] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 310] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #310 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #310",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-415",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 315] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 315] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #315 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #315",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-420",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 320] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 320] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #320 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #320",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-425",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 325] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 325] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #325 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #325",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-430",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 330] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 330] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #330 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #330",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-435",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 335] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 335] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #335 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #335",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-440",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 340] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 340] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #340 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #340",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-445",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 345] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 345] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #345 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #345",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-450",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 350] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 350] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #350 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #350",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-455",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 355] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 355] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #355 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #355",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-460",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 360] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 360] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #360 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #360",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-465",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 365] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 365] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #365 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #365",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-470",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 370] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 370] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #370 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #370",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-475",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 375] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 375] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #375 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #375",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-480",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 380] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 380] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #380 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #380",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-485",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 385] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 385] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #385 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #385",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-490",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 390] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 390] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #390 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #390",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-495",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 395] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 395] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #395 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #395",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-500",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 400] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 400] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #400 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #400",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-505",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 405] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 405] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #405 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #405",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-510",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 410] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 410] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #410 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #410",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-515",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 415] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 415] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #415 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #415",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-520",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 420] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 420] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #420 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #420",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-525",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 425] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 425] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #425 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #425",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-530",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 430] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 430] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #430 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #430",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-535",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 435] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 435] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #435 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #435",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-540",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 440] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 440] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #440 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #440",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-545",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 445] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 445] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #445 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #445",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-550",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 450] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 450] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #450 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #450",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-555",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 455] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 455] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #455 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #455",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-560",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 460] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 460] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #460 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #460",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-565",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 465] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 465] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #465 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #465",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-570",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 470] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 470] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #470 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #470",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-575",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 475] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 475] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #475 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #475",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-580",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 480] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 480] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #480 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #480",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-585",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[General Science Question 485] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 485] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #485 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #485",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-590",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 490] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 490] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #490 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #490",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-595",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[General Science Question 495] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 495] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #495 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #495",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-600",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Science",
+    "chapter": "Applied Physics & Chemistry",
+    "topic": "Science Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[General Science Question 500] Which among the following is the authenticated statement regarding Applied Physics & Chemistry?",
+    "questionHi": "[General Science प्रश्न 500] निम्नलिखित में से Applied Physics & Chemistry के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #500 concerning Applied Physics & Chemistry",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Applied Physics & Chemistry से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #500",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "General Science",
+      "Science"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

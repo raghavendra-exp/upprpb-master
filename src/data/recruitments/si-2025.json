@@ -1,0 +1,189 @@
+{
+  "id": "UPPRPB-SI-2025",
+  "postKey": "si",
+  "post": "Sub-Inspector (Civil Police) & Platoon Commander (PAC)",
+  "postHi": "उप-निरीक्षक (नागरिक पुलिस) एवं प्लाटून कमांडर (PAC)",
+  "cycle": "2025-2026",
+  "vacancies": 4543,
+  "status": "WRITTEN EXAM",
+  "currentStage": "Written Examination Preparation & CBT Scheduling",
+  "currentStageHi": "लिखित परीक्षा (सीबीटी) कार्यक्रम एवं तैयारी",
+  "officialSource": "https://uppbpb.gov.in/",
+  "notificationDate": "2025-08-14",
+  "lastVerified": "2026-09-24",
+  "version": "2026.1",
+  "stages": [
+    {
+      "id": "stage-notif",
+      "name": "Detailed Advertisement Released",
+      "nameHi": "विस्तृत विज्ञापन जारी",
+      "status": "completed",
+      "dateText": "Aug 2025",
+      "noticeUrl": "https://uppbpb.gov.in/"
+    },
+    {
+      "id": "stage-app",
+      "name": "Online Application & OTR Form Submission",
+      "nameHi": "ऑनलाइन आवेदन एवं ओटीआर",
+      "status": "completed",
+      "dateText": "Sep 2025"
+    },
+    {
+      "id": "stage-written",
+      "name": "Written Examination (Online CBT)",
+      "nameHi": "लिखित परीक्षा (ऑनलाइन सीबीटी)",
+      "status": "current",
+      "dateText": "Nov 2026",
+      "noticeUrl": "https://uppbpb.gov.in/"
+    },
+    {
+      "id": "stage-anskey",
+      "name": "Answer Key & Online Objections",
+      "nameHi": "उत्तर कुंजी एवं ऑनलाइन आपत्तियां",
+      "status": "upcoming",
+      "dateText": "Dec 2026"
+    },
+    {
+      "id": "stage-result",
+      "name": "Written Exam Normalized Result",
+      "nameHi": "लिखित परीक्षा का परिणाम",
+      "status": "upcoming",
+      "dateText": "Jan 2027"
+    },
+    {
+      "id": "stage-dvpst",
+      "name": "Document Verification & PST",
+      "nameHi": "अभिलेख संवीक्षा एवं शारीरिक मानक परीक्षण (DV/PST)",
+      "status": "upcoming",
+      "dateText": "Feb 2027"
+    },
+    {
+      "id": "stage-pet",
+      "name": "Physical Efficiency Test (PET - Running)",
+      "nameHi": "शारीरिक दक्षता परीक्षा (दौड़)",
+      "status": "upcoming",
+      "dateText": "Mar 2027"
+    },
+    {
+      "id": "stage-final",
+      "name": "Final Merit List & Medical Examination",
+      "nameHi": "अंतिम चयन सूची एवं चिकित्सीय परीक्षण",
+      "status": "upcoming",
+      "dateText": "Apr 2027"
+    }
+  ],
+  "eligibility": {
+    "ageLimit": {
+      "min": 21,
+      "max": 28,
+      "relaxation": "5 years relaxation for SC, ST, OBC and other categories as per UP Govt. rules",
+      "relaxationHi": "उत्तर प्रदेश के अनुसूचित जाति, जनजाति व अन्य पिछड़ा वर्ग हेतु 5 वर्ष की छूट"
+    },
+    "qualification": "Graduation Degree in any stream from a recognized University or any equivalent qualification recognized by the Government.",
+    "qualificationHi": "भारत में विधि द्वारा स्थापित किसी विश्वविद्यालय से स्नातक उपाधि या सरकार द्वारा उसके समकक्ष मान्यता प्राप्त कोई अर्हता।",
+    "nationality": "Citizen of India",
+    "maritalStatus": "Candidates having more than one living spouse are disqualified.",
+    "specialRequirements": [
+      "DOEACC / NIELIT 'O' Level in Computer or higher",
+      "NCC 'B' Certificate",
+      "Minimum 2 years service in Territorial Army"
+    ],
+    "specialRequirementsHi": [
+      "DOEACC / NIELIT से कंप्यूटर में 'O' लेवल प्रमाण पत्र",
+      "एनसीसी का 'B' प्रमाण पत्र",
+      "प्रादेशिक सेना में न्यूनतम 2 वर्ष की सेवा"
+    ]
+  },
+  "examPattern": {
+    "mode": "Online (CBT)",
+    "totalQuestions": 160,
+    "totalMarks": 400,
+    "durationMinutes": 120,
+    "marksPerQuestion": 2.5,
+    "negativeMarking": 0,
+    "qualifyingCriteria": "Mandatory 35% in each of the 4 sections AND 50% in aggregate (200/400 marks) to qualify for merit consideration",
+    "qualifyingCriteriaHi": "प्रत्येक विषय में न्यूनतम 35% अंक तथा कुल चारों विषयों में मिलाकर न्यूनतम 50% (200 अंक) प्राप्त करना अनिवार्य है।",
+    "sections": [
+      {
+        "id": "sec-hindi",
+        "name": "General Hindi",
+        "nameHi": "सामान्य हिन्दी",
+        "questions": 40,
+        "marks": 100
+      },
+      {
+        "id": "sec-law-gk",
+        "name": "Basic Law, Constitution & General Knowledge",
+        "nameHi": "मूल विधि / संविधान / सामान्य ज्ञान",
+        "questions": 40,
+        "marks": 100
+      },
+      {
+        "id": "sec-maths",
+        "name": "Numerical & Mental Ability Test",
+        "nameHi": "संख्यात्मक एवं मानसिक योग्यता परीक्षा",
+        "questions": 40,
+        "marks": 100
+      },
+      {
+        "id": "sec-reasoning",
+        "name": "Mental Aptitude, IQ & Reasoning Test",
+        "nameHi": "मानसिक अभिरुचि / बुद्धिलब्धि / तार्किक परीक्षा",
+        "questions": 40,
+        "marks": 100
+      }
+    ]
+  },
+  "physical": [
+    {
+      "category": "PST",
+      "title": "Height (ऊंचाई)",
+      "titleHi": "ऊंचाई (Height)",
+      "maleGenObcSc": "168 cm",
+      "maleSt": "160 cm",
+      "femaleGenObcSc": "152 cm",
+      "femaleSt": "147 cm",
+      "details": "Mandatory qualification in PST",
+      "detailsHi": "शारीरिक मानक परीक्षण में अनिवार्य अर्हता"
+    },
+    {
+      "category": "PST",
+      "title": "Chest (सीना) - Male only",
+      "titleHi": "सीना (फुलाव सहित) - केवल पुरुष",
+      "maleGenObcSc": "79 cm (unexpanded) / 84 cm (expanded) - min 5 cm expansion",
+      "maleSt": "77 cm (unexpanded) / 82 cm (expanded) - min 5 cm expansion",
+      "femaleGenObcSc": "Not Applicable",
+      "femaleSt": "Not Applicable",
+      "details": "Minimum 5 cm expansion is strictly mandatory",
+      "detailsHi": "न्यूनतम 5 सेमी का फुलाव अनिवार्य है"
+    },
+    {
+      "category": "PST",
+      "title": "Weight (वजन) - Female only",
+      "titleHi": "वजन - केवल महिला अभ्यर्थी",
+      "maleGenObcSc": "Not Applicable",
+      "maleSt": "Not Applicable",
+      "femaleGenObcSc": "Minimum 40 kg",
+      "femaleSt": "Minimum 40 kg",
+      "details": "Female candidates must weigh at least 40 kg",
+      "detailsHi": "महिला अभ्यर्थियों का न्यूनतम वजन 40 किग्रा होना अनिवार्य है"
+    },
+    {
+      "category": "PET",
+      "title": "Running (दौड़) - Qualifying",
+      "titleHi": "दौड़ (शारीरिक दक्षता परीक्षा)",
+      "maleGenObcSc": "4.8 km in maximum 28 minutes",
+      "maleSt": "4.8 km in maximum 28 minutes",
+      "femaleGenObcSc": "2.4 km in maximum 16 minutes",
+      "femaleSt": "2.4 km in maximum 16 minutes",
+      "details": "RFID electronic timing on standard track. Strictly qualifying.",
+      "detailsHi": "आरएफआईडी टाइमिंग। केवल अर्हकारी, समय सीमा में पूरा करना आवश्यक।"
+    }
+  ],
+  "links": {
+    "officialNotification": "https://uppbpb.gov.in/",
+    "applyUrl": "https://uppbpb.gov.in/",
+    "syllabusPdf": "https://uppbpb.gov.in/",
+    "otrUrl": "https://uppbpb.gov.in/"
+  }
+}

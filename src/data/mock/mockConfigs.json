@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mock-constable-01",
+    "title": "UP Police Constable Official Pattern Full Mock Test 1",
+    "titleHi": "उत्तर प्रदेश पुलिस आरक्षी आधिकारिक पैटर्न फुल मॉक टेस्ट 1",
+    "post": "Constable Civil Police & PAC",
+    "totalQuestions": 150,
+    "totalMarks": 300,
+    "durationMinutes": 120,
+    "marksPerQuestion": 2,
+    "negativeMarking": 0.5,
+    "sections": [
+      { "id": "sec-gk", "name": "General Knowledge", "nameHi": "सामान्य ज्ञान", "questions": 38, "marks": 76 },
+      { "id": "sec-hindi", "name": "General Hindi", "nameHi": "सामान्य हिन्दी", "questions": 37, "marks": 74 },
+      { "id": "sec-maths", "name": "Numerical & Mental Ability", "nameHi": "संख्यात्मक एवं मानसिक योग्यता", "questions": 38, "marks": 76 },
+      { "id": "sec-reasoning", "name": "Reasoning & Aptitude", "nameHi": "तार्किक क्षमता एवं मानसिक अभिरुचि", "questions": 37, "marks": 74 }
+    ],
+    "qualifyingNote": "Merit based on aggregate score. -0.5 marks deducted for wrong answers."
+  },
+  {
+    "id": "mock-si-01",
+    "title": "UP Police Sub-Inspector (SI) CBT Full Mock Test 1",
+    "titleHi": "उत्तर प्रदेश पुलिस उप-निरीक्षक (दरोगा) सीबीटी फुल मॉक टेस्ट 1",
+    "post": "Sub-Inspector (Civil Police)",
+    "totalQuestions": 160,
+    "totalMarks": 400,
+    "durationMinutes": 120,
+    "marksPerQuestion": 2.5,
+    "negativeMarking": 0,
+    "sections": [
+      { "id": "sec-hindi", "name": "General Hindi", "nameHi": "सामान्य हिन्दी", "questions": 40, "marks": 100 },
+      { "id": "sec-law-gk", "name": "Basic Law (BNS/BNSS) & Constitution", "nameHi": "मूल विधि / संविधान / सामान्य ज्ञान", "questions": 40, "marks": 100 },
+      { "id": "sec-maths", "name": "Numerical Ability Test", "nameHi": "संख्यात्मक एवं मानसिक योग्यता परीक्षा", "questions": 40, "marks": 100 },
+      { "id": "sec-reasoning", "name": "Reasoning & IQ Test", "nameHi": "तार्किक परीक्षा एवं बुद्धिलब्धि", "questions": 40, "marks": 100 }
+    ],
+    "qualifyingNote": "Strict Sectional Cutoff: Minimum 35% (35/100 marks) in each of the 4 sections, AND Minimum 50% (200/400 marks) in aggregate."
+  },
+  {
+    "id": "mock-computer-01",
+    "title": "UP Police Computer Operator Grade-A Full Mock Test 1",
+    "titleHi": "उत्तर प्रदेश पुलिस कंप्यूटर ऑपरेटर ग्रेड-ए फुल मॉक टेस्ट 1",
+    "post": "Computer Operator Grade-A",
+    "totalQuestions": 160,
+    "totalMarks": 200,
+    "durationMinutes": 120,
+    "marksPerQuestion": 1.25,
+    "negativeMarking": 0,
+    "sections": [
+      { "id": "sec-gk", "name": "General Knowledge", "nameHi": "सामान्य ज्ञान", "questions": 20, "marks": 25 },
+      { "id": "sec-aptitude", "name": "Mental Aptitude", "nameHi": "मानसिक अभिरुचि", "questions": 20, "marks": 25 },
+      { "id": "sec-reasoning", "name": "Reasoning", "nameHi": "तर्कशक्ति", "questions": 40, "marks": 50 },
+      { "id": "sec-cs", "name": "Computer Science (Core)", "nameHi": "कंप्यूटर विज्ञान", "questions": 80, "marks": 100 }
+    ],
+    "qualifyingNote": "Qualifying aggregate 40% marks required for typing test shortlist."
+  },
+  {
+    "id": "mock-radio-01",
+    "title": "UP Police Radio Police (Assistant/Head Operator) Mock",
+    "titleHi": "उत्तर प्रदेश पुलिस रेडियो संवर्ग (सहायक/प्रधान परिचालक) मॉक टेस्ट",
+    "post": "Radio Police",
+    "totalQuestions": 160,
+    "totalMarks": 400,
+    "durationMinutes": 150,
+    "marksPerQuestion": 2.5,
+    "negativeMarking": 0,
+    "sections": [
+      { "id": "sec-hindi", "name": "General Hindi", "nameHi": "सामान्य हिन्दी", "questions": 40, "marks": 100 },
+      { "id": "sec-science-gk", "name": "Science (Physics) & GK", "nameHi": "विज्ञान (भौतिकी) एवं सामान्य ज्ञान", "questions": 40, "marks": 100 },
+      { "id": "sec-maths", "name": "Numerical Ability", "nameHi": "संख्यात्मक योग्यता", "questions": 40, "marks": 100 },
+      { "id": "sec-reasoning", "name": "Reasoning & Aptitude", "nameHi": "तार्किक क्षमता", "questions": 40, "marks": 100 }
+    ],
+    "qualifyingNote": "Mandatory 50% normalized marks in each section."
+  }
+]

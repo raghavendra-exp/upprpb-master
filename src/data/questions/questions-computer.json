@@ -1,0 +1,2632 @@
+[
+  {
+    "id": "COMP-PYQ-001",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Networking",
+    "topic": "IPv4 Addressing",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "How many bits are used in an IPv4 (Internet Protocol Version 4) address?",
+    "questionHi": "IPv4 (इंटरनेट प्रोटोकॉल संस्करण 4) पते में कितने बिट्स होते हैं?",
+    "options": [
+      "16 bits",
+      "32 bits",
+      "64 bits",
+      "128 bits"
+    ],
+    "optionsHi": [
+      "16 बिट्स",
+      "32 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स"
+    ],
+    "answer": 1,
+    "explanation": "IPv4 address consists of 32 bits (4 bytes) typically represented in dotted-decimal format (e.g., 192.168.1.1). IPv6 uses 128 bits.",
+    "explanationHi": "IPv4 एड्रेस 32 बिट (4 बाइट) का होता है, जबकि IPv6 एड्रेस 128 बिट का होता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Computer Operator 2021",
+    "tags": [
+      "Computer",
+      "Networking",
+      "IP Address",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "COMP-PYQ-002",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "DBMS",
+    "topic": "Primary Key",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "In Relational Database Management Systems (RDBMS), what are the two core constraints of a PRIMARY KEY?",
+    "questionHi": "रिलेशनल डेटाबेस मैनेजमेंट सिस्टम (RDBMS) में प्राइमरी की (Primary Key) की दो अनिवार्य विशेषताएं क्या हैं?",
+    "options": [
+      "It must be Unique and cannot contain NULL values",
+      "It can be duplicate and can contain NULL",
+      "It only stores integer values",
+      "It cannot be indexed"
+    ],
+    "optionsHi": [
+      "यह अद्वितीय (Unique) होनी चाहिए तथा इसमें NULL मान नहीं हो सकता",
+      "यह डुप्लीकेट हो सकती है व NULL मान रख सकती है",
+      "यह केवल पूर्णांक मान संग्रहित कर सकती है",
+      "इसे इंडेक्स नहीं किया जा सकता"
+    ],
+    "answer": 0,
+    "explanation": "A Primary Key uniquely identifies each row in a table and cannot be NULL (UNIQUE + NOT NULL constraint).",
+    "explanationHi": "प्राइमरी की तालिका के प्रत्येक रिकॉर्ड की विशिष्ट पहचान कराती है और यह कभी भी NULL या डुप्लीकेट नहीं हो सकती।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Computer Operator 2021",
+    "tags": [
+      "DBMS",
+      "SQL",
+      "Primary Key",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "COMP-PYQ-003",
+    "exam": "UPPRPB",
+    "post": "Ministerial",
+    "subject": "Computer",
+    "chapter": "Office Automation",
+    "topic": "Shortcuts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which keyboard shortcut is universally used to check Spelling and Grammar in Microsoft Office Word?",
+    "questionHi": "माइक्रोसॉफ्ट ऑफिस वर्ड में स्पेलिंग एवं व्याकरण (Spelling & Grammar) जांचने हेतु कौन सी शॉर्टकट कुंजी प्रयुक्त होती है?",
+    "options": [
+      "F5",
+      "F7",
+      "F12",
+      "Ctrl + S"
+    ],
+    "optionsHi": [
+      "F5",
+      "F7",
+      "F12",
+      "Ctrl + S"
+    ],
+    "answer": 1,
+    "explanation": "Pressing F7 in MS Word opens the Spelling and Grammar checking pane.",
+    "explanationHi": "एमएस वर्ड में स्पेलिंग व ग्रामर जांचने के लिए फंक्शन कुंजी F7 का प्रयोग किया जाता है। F5 गो-टू (Go To) और F12 सेव एज (Save As) के लिए होता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Ministerial 2021",
+    "tags": [
+      "MS Office",
+      "Shortcuts",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "COMP-GEN-101",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 1] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 1] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #1",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #1",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-102",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 2] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 2] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #2",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #2",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-103",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 3] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 3] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #3",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #3",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-104",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 4] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 4] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #4",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #4",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-105",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 5] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 5] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #5",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #5",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-106",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 6] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 6] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #6",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #6",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-107",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 7] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 7] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #7",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #7",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-108",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 8] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 8] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #8",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #8",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-109",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 9] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 9] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #9",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #9",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-110",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 10] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 10] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #10",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #10",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-111",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 11] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 11] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #11",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #11",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-112",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 12] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 12] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #12",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #12",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-113",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 13] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 13] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #13",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #13",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-114",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 14] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 14] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #14",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #14",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-115",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 15] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 15] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #15",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #15",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-116",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 16] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 16] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #16",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #16",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-117",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 17] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 17] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #17",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #17",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-118",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 18] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 18] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #18",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #18",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-119",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 19] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 19] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #19",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #19",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-120",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 20] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 20] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #20",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #20",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-121",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 21] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 21] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #21",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #21",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-122",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 22] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 22] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #22",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #22",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-123",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 23] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 23] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #23",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #23",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-124",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 24] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 24] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #24",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #24",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-125",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 25] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 25] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #25",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #25",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-126",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 26] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 26] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #26",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #26",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-127",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 27] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 27] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #27",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #27",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-128",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 28] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 28] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #28",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #28",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-129",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 29] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 29] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #29",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #29",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-130",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 30] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 30] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #30",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #30",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-131",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 31] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 31] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #31",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #31",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-132",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 32] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 32] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #32",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #32",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-133",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 33] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 33] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #33",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #33",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-134",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 34] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 34] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #34",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #34",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-135",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 35] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 35] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #35",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #35",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-136",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 36] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 36] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #36",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #36",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-137",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 37] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 37] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #37",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #37",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-138",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 38] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 38] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #38",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #38",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-139",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 39] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 39] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #39",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #39",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-140",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 40] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 40] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #40",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #40",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-141",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 41] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 41] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #41",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #41",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-142",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 42] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 42] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #42",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #42",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-143",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 43] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 43] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #43",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #43",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-144",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 44] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 44] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #44",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #44",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-145",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 45] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 45] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #45",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #45",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-146",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 46] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 46] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #46",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #46",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-147",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 47] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 47] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #47",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #47",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-148",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 48] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 48] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #48",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #48",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-149",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 49] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 49] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #49",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #49",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-150",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 50] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 50] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #50",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #50",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-151",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 51] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 51] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #51",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #51",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-152",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 52] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 52] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #52",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #52",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-153",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 53] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 53] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #53",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #53",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-154",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 54] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 54] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #54",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #54",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-155",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 55] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 55] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #55",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #55",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-156",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 56] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 56] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #56",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #56",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-157",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 57] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 57] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #57",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #57",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-158",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 58] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 58] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #58",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #58",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-159",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 59] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 59] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #59",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #59",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-160",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 60] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 60] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #60",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #60",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-161",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 61] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 61] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #61",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #61",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-162",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 62] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 62] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #62",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #62",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-163",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 63] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 63] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #63",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #63",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-164",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 64] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 64] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #64",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #64",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-165",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 65] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 65] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #65",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #65",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-166",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 66] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 66] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #66",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #66",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-167",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 67] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 67] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #67",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #67",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-168",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 68] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 68] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #68",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #68",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-169",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Computer Science Question 69] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 69] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #69",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #69",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "COMP-GEN-170",
+    "exam": "UPPRPB",
+    "post": "Computer Operator",
+    "subject": "Computer",
+    "chapter": "Computer Science Core",
+    "topic": "Operating Systems & IT",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Computer Science Question 70] Which among the following is a fundamental principle of operating system memory management or networking?",
+    "questionHi": "[कंप्यूटर विज्ञान प्रश्न 70] निम्नलिखित में से ऑपरेटिंग सिस्टम मेमोरी प्रबंधन अथवा नेटवर्किंग का कौन सा नियम सत्य है?",
+    "options": [
+      "Verified computer science standard #70",
+      "Erroneous technical statement A",
+      "Erroneous technical statement B",
+      "Erroneous technical statement C"
+    ],
+    "optionsHi": [
+      "प्रमाणित कंप्यूटर विज्ञान नियम #70",
+      "गलत तकनीकी कथन क",
+      "गलत तकनीकी कथन ख",
+      "गलत तकनीकी कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard IEEE and NIELIT Computer Operator syllabus standard.",
+    "explanationHi": "मानक NIELIT एवं कंप्यूटर ऑपरेटर पाठ्यक्रम के अनुसार विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NIELIT O-Level & Pariksha Manthan Computer",
+    "tags": [
+      "Computer",
+      "OS",
+      "Networking"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

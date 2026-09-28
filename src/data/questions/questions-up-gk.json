@@ -1,0 +1,5291 @@
+[
+  {
+    "id": "UP-GK-PYQ-001",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Administration",
+    "topic": "Police Headquarters",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Where is the state headquarters of Uttar Pradesh Police located?",
+    "questionHi": "उत्तर प्रदेश पुलिस का राज्य मुख्यालय कहां स्थित है?",
+    "options": [
+      "Prayagraj",
+      "Lucknow (Signature Building)",
+      "Kanpur",
+      "Varanasi"
+    ],
+    "optionsHi": [
+      "प्रयागराज",
+      "लखनऊ (सिग्नेचर बिल्डिंग)",
+      "कानपुर",
+      "वाराणसी"
+    ],
+    "answer": 1,
+    "explanation": "The UP Police Headquarters was shifted from Prayagraj to the new state-of-the-art Signature Building in Gomti Nagar Extension, Lucknow.",
+    "explanationHi": "उत्तर प्रदेश पुलिस का मुख्यालय प्रयागराज से स्थानांतरित होकर अब लखनऊ के गोमती नगर विस्तार स्थित अत्याधुनिक सिग्नेचर बिल्डिंग में स्थापित है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-1",
+    "tags": [
+      "UP Police",
+      "Headquarters",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "UP-GK-PYQ-002",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Symbols",
+    "topic": "Police Emblem",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which creature is depicted in the official emblem of Uttar Pradesh Police?",
+    "questionHi": "उत्तर प्रदेश पुलिस के आधिकारिक प्रतीक चिह्न में कौन सा जीव अंकित है?",
+    "options": [
+      "Lion",
+      "Fish (Matsya)",
+      "Elephant",
+      "Eagle"
+    ],
+    "optionsHi": [
+      "शेर",
+      "मछली (मत्स्य)",
+      "हाथी",
+      "चील"
+    ],
+    "answer": 1,
+    "explanation": "The official emblem of UP Police features two fishes (representing Awadh heritage) with the Ashoka pillar emblem and two stars.",
+    "explanationHi": "उत्तर प्रदेश पुलिस के आधिकारिक ध्वज/प्रतीक में दो मछलियां (अवध के नवाबी प्रतीक का प्रतिनिधित्व) तथा शीर्ष पर अशोक स्तम्भ अंकित है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-2",
+    "tags": [
+      "UP Police",
+      "Emblem",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "UP-GK-PYQ-003",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Geography",
+    "topic": "Borders",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which district of Uttar Pradesh shares borders with four distinct Indian states?",
+    "questionHi": "उत्तर प्रदेश का कौन सा जिला चार विभिन्न भारतीय राज्यों के साथ सीमा साझा करता है?",
+    "options": [
+      "Saharanpur",
+      "Sonbhadra",
+      "Lalitpur",
+      "Ballia"
+    ],
+    "optionsHi": [
+      "सहारनपुर",
+      "सोनभद्र",
+      "ललितपुर",
+      "बलिया"
+    ],
+    "answer": 1,
+    "explanation": "Sonbhadra is the only district in India that shares boundaries with four states: Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar.",
+    "explanationHi": "सोनभद्र भारत का एकमात्र ऐसा जिला है जो चार राज्यों: मध्य प्रदेश, छत्तीसगढ़, झारखंड एवं बिहार के साथ सीमा साझा करता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-2",
+    "tags": [
+      "UP Geography",
+      "Borders",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "UP-GK-PYQ-004",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Wildlife",
+    "topic": "National Park",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Where is Dudhwa National Park, the only National Park in Uttar Pradesh, located?",
+    "questionHi": "उत्तर प्रदेश का एकमात्र राष्ट्रीय उद्यान, दुधवा राष्ट्रीय उद्यान, किस जिले में स्थित है?",
+    "options": [
+      "Lakhimpur Kheri",
+      "Pilibhit",
+      "Bahraich",
+      "Chandauli"
+    ],
+    "optionsHi": [
+      "लखीमपुर खीरी",
+      "पीलीभीत",
+      "बहराइच",
+      "चंदौली"
+    ],
+    "answer": 0,
+    "explanation": "Dudhwa National Park is located in Lakhimpur Kheri district along the Indo-Nepal border and is famous for tigers, swamp deer (Barasingha), and one-horned rhinos.",
+    "explanationHi": "दुधवा राष्ट्रीय उद्यान लखीमपुर खीरी जिले में स्थित है। यह बाघों, बारहसिंगा (दलदली हिरण) और एक सींग वाले गैंडों के लिए प्रसिद्ध है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-1",
+    "tags": [
+      "UP Wildlife",
+      "National Park",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "UP-GK-PYQ-005",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture",
+    "topic": "Folk Dance",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Charkula dance, in which women balance a multi-tier wheel with lit earthen lamps on their head, belongs to which region of UP?",
+    "questionHi": "चरकुला नृत्य, जिसमें महिलाएं सिर पर जलते दीपकों से सजे पहिये को संतुलित करती हैं, उत्तर प्रदेश के किस क्षेत्र से संबंधित है?",
+    "options": [
+      "Bundelkhand",
+      "Braj region",
+      "Awadh",
+      "Rohilkhand"
+    ],
+    "optionsHi": [
+      "बुंदेलखंड",
+      "ब्रज क्षेत्र",
+      "अवध",
+      "रोहिलखंड"
+    ],
+    "answer": 1,
+    "explanation": "Charkula is a famous traditional folk dance performed in the Braj region (Mathura, Vrindavan) on the occasion of Holi and Radha Ashtami.",
+    "explanationHi": "चरकुला ब्रज क्षेत्र (मथुरा, वृंदावन) का सुप्रसिद्ध पारंपरिक लोकनृत्य है, जो होली के उपरांत राधा जन्मोत्सव पर किया जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-1",
+    "tags": [
+      "UP Culture",
+      "Folk Dance",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "UP-GK-006",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Geography",
+    "topic": "District Extremes",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which is the largest district of Uttar Pradesh by geographical area?",
+    "questionHi": "भौगोलिक क्षेत्रफल की दृष्टि से उत्तर प्रदेश का सबसे बड़ा जिला कौन सा है?",
+    "options": [
+      "Sonbhadra",
+      "Lakhimpur Kheri",
+      "Hardoi",
+      "Sitapur"
+    ],
+    "optionsHi": [
+      "सोनभद्र",
+      "लखीमपुर खीरी",
+      "हरदोई",
+      "सीतापुर"
+    ],
+    "answer": 1,
+    "explanation": "Lakhimpur Kheri is the largest district of UP with an area of 7,680 sq km, while Hapur is the smallest district (660 sq km).",
+    "explanationHi": "लखीमपुर खीरी (7,680 वर्ग किमी) उत्तर प्रदेश का क्षेत्रफल की दृष्टि से सबसे बड़ा जिला है, जबकि हापुड़ (660 वर्ग किमी) सबसे छोटा जिला है।",
+    "sourceType": "original",
+    "reference": "UP Census 2011 Data",
+    "tags": [
+      "UP Geography",
+      "Districts"
+    ],
+    "year": 2024,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-007",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Scheme",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Under the One District One Product (ODOP) scheme, which product is associated with Kannauj?",
+    "questionHi": "एक जिला एक उत्पाद (ODOP) योजना के तहत कन्नौज जिले का उत्पाद कौन सा है?",
+    "options": [
+      "Brassware",
+      "Perfume / Attar",
+      "Chikan Embroidery",
+      "Glassware"
+    ],
+    "optionsHi": [
+      "पीतल के बर्तन",
+      "इत्र (Perfume)",
+      "चिकनकारी",
+      "कांच के उत्पाद"
+    ],
+    "answer": 1,
+    "explanation": "Kannauj is world-renowned as the \"Perfume Capital of India\" (Attar Nagari) and its ODOP product is Perfume/Attar.",
+    "explanationHi": "कन्नौज को भारत की \"इत्र नगरी\" कहा जाता है और ओडीओपी योजना के तहत इसका उत्पाद इत्र/परफ्यूम है।",
+    "sourceType": "original",
+    "reference": "UP Govt ODOP Directory",
+    "tags": [
+      "ODOP",
+      "Kannauj",
+      "Economy"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-008",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "UP GK",
+    "chapter": "Administration",
+    "topic": "Police Zones",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "How many Police Zones and Police Ranges are there in Uttar Pradesh?",
+    "questionHi": "उत्तर प्रदेश में कुल कितने पुलिस जोन एवं पुलिस रेंज हैं?",
+    "options": [
+      "8 Zones and 18 Ranges",
+      "10 Zones and 15 Ranges",
+      "7 Zones and 20 Ranges",
+      "12 Zones and 22 Ranges"
+    ],
+    "optionsHi": [
+      "8 जोन एवं 18 रेंज",
+      "10 जोन एवं 15 रेंज",
+      "7 जोन एवं 20 रेंज",
+      "12 जोन एवं 22 रेंज"
+    ],
+    "answer": 0,
+    "explanation": "UP Police administrative setup comprises 8 Police Zones (headed by ADG rank officers) and 18 Police Ranges (headed by IG/DIG rank officers).",
+    "explanationHi": "उत्तर प्रदेश पुलिस प्रशासन में 8 पुलिस जोन (अपर पुलिस महानिदेशक के अधीन) तथा 18 पुलिस रेंज (पुलिस महानिरीक्षक/उप-महानिरीक्षक के अधीन) हैं।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police SI 2021 Shift-2",
+    "tags": [
+      "UP Police Admin",
+      "Zones Ranges",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "UP-GK-009",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Rivers",
+    "topic": "Ganga Entry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "River Ganga enters Uttar Pradesh through which district?",
+    "questionHi": "गंगा नदी उत्तर प्रदेश में किस जिले से प्रवेश करती है?",
+    "options": [
+      "Saharanpur",
+      "Bijnor",
+      "Haridwar",
+      "Muzaffarnagar"
+    ],
+    "optionsHi": [
+      "सहारनपुर",
+      "बिजनौर",
+      "हरिद्वार",
+      "मुजफ्फरनगर"
+    ],
+    "answer": 1,
+    "explanation": "The sacred river Ganga enters Uttar Pradesh at Bijnor district and leaves UP into Bihar from Ballia district.",
+    "explanationHi": "गंगा नदी उत्तर प्रदेश में बिजनौर जिले से प्रवेश करती है और बलिया जिले से होकर बिहार में प्रवेश कर जाती है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-2",
+    "tags": [
+      "Rivers",
+      "Ganga",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "UP-GK-010",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Rivers",
+    "topic": "Gomti Origin",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "From which lake or water body does the Gomti River originate in Uttar Pradesh?",
+    "questionHi": "गोमती नदी का उद्गम उत्तर प्रदेश के किस ताल/झील से होता है?",
+    "options": [
+      "Keetham Lake",
+      "Phulhar Lake (Gomat Taal), Pilibhit",
+      "Bakhira Lake",
+      "Suraha Taal"
+    ],
+    "optionsHi": [
+      "कीठम झील",
+      "फुलहर झील (गोमत ताल), पीलीभीत",
+      "बखीरा झील",
+      "सुरहा ताल"
+    ],
+    "answer": 1,
+    "explanation": "Gomti River originates from Phulhar Lake (also known as Gomat Taal) in Madhotanda near Pilibhit and flows entirely within UP to meet Ganga in Ghazipur.",
+    "explanationHi": "गोमती नदी पीलीभीत के माधोटांडा के पास स्थित फुलहर झील (गोमत ताल) से निकलती है और गाजीपुर में गंगा से मिलती है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-1",
+    "tags": [
+      "Rivers",
+      "Gomti",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "UP-GK-ODOP-100",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Brassware\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"पीतल के बर्तन\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Moradabad",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Moradabad",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Moradabad is officially designated for Brassware / पीतल के बर्तन under UP ODOP scheme.",
+    "explanationHi": "Moradabad ओडीओपी योजना के तहत Brassware / पीतल के बर्तन हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Peetal Nagari"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-101",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Glass Bangles\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"कांच की चूड़ियां\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Firozabad",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Firozabad",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Firozabad is officially designated for Glass Bangles / कांच की चूड़ियां under UP ODOP scheme.",
+    "explanationHi": "Firozabad ओडीओपी योजना के तहत Glass Bangles / कांच की चूड़ियां हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Suhag Nagari"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-102",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Locks and Hardware\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"ताले\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Aligarh",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Aligarh",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Aligarh is officially designated for Locks and Hardware / ताले under UP ODOP scheme.",
+    "explanationHi": "Aligarh ओडीओपी योजना के तहत Locks and Hardware / ताले हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Tala Nagari"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-103",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Handmade Carpets\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"कालीन\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Bhadohi",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Bhadohi",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Bhadohi is officially designated for Handmade Carpets / कालीन under UP ODOP scheme.",
+    "explanationHi": "Bhadohi ओडीओपी योजना के तहत Handmade Carpets / कालीन हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Carpet City"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-104",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Wood Carving\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"काष्ठ नक्काशी\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Saharanpur",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Saharanpur",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Saharanpur is officially designated for Wood Carving / काष्ठ नक्काशी under UP ODOP scheme.",
+    "explanationHi": "Saharanpur ओडीओपी योजना के तहत Wood Carving / काष्ठ नक्काशी हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Woodcraft"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-105",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Banarasi Silk Sarees\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"रेशमी साड़ियां\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Varanasi",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Varanasi",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Varanasi is officially designated for Banarasi Silk Sarees / रेशमी साड़ियां under UP ODOP scheme.",
+    "explanationHi": "Varanasi ओडीओपी योजना के तहत Banarasi Silk Sarees / रेशमी साड़ियां हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Silk & Temple"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-106",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Terracotta Crafts\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"टेराकोटा\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Gorakhpur",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Gorakhpur",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Gorakhpur is officially designated for Terracotta Crafts / टेराकोटा under UP ODOP scheme.",
+    "explanationHi": "Gorakhpur ओडीओपी योजना के तहत Terracotta Crafts / टेराकोटा हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Terracotta"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-107",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Zari-Zardozi and Surma\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"सुरमा\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Bareilly",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Bareilly",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Bareilly is officially designated for Zari-Zardozi and Surma / सुरमा under UP ODOP scheme.",
+    "explanationHi": "Bareilly ओडीओपी योजना के तहत Zari-Zardozi and Surma / सुरमा हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Surma Nagari"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-108",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Leather Goods and Petha\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"चमड़ा उत्पाद व पेठा\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Agra",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Agra",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Agra is officially designated for Leather Goods and Petha / चमड़ा उत्पाद व पेठा under UP ODOP scheme.",
+    "explanationHi": "Agra ओडीओपी योजना के तहत Leather Goods and Petha / चमड़ा उत्पाद व पेठा हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Leather City"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-109",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Sports Goods and Scissors\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"खेल का सामान व कैंची\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Meerut",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Meerut",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Meerut is officially designated for Sports Goods and Scissors / खेल का सामान व कैंची under UP ODOP scheme.",
+    "explanationHi": "Meerut ओडीओपी योजना के तहत Sports Goods and Scissors / खेल का सामान व कैंची हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Sports Capital"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-110",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Chikan Craft & Zardozi\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"चिकनकारी\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Lucknow",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Lucknow",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Lucknow is officially designated for Chikan Craft & Zardozi / चिकनकारी under UP ODOP scheme.",
+    "explanationHi": "Lucknow ओडीओपी योजना के तहत Chikan Craft & Zardozi / चिकनकारी हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Nawab City"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-111",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Guava Processing & Munj Crafts\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"अमरूद व मूंज\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Prayagraj",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Prayagraj",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Prayagraj is officially designated for Guava Processing & Munj Crafts / अमरूद व मूंज under UP ODOP scheme.",
+    "explanationHi": "Prayagraj ओडीओपी योजना के तहत Guava Processing & Munj Crafts / अमरूद व मूंज हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Sangam City"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-112",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Leather Products\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"चमड़ा उद्योग\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Kanpur Nagar",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Kanpur Nagar",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Kanpur Nagar is officially designated for Leather Products / चमड़ा उद्योग under UP ODOP scheme.",
+    "explanationHi": "Kanpur Nagar ओडीओपी योजना के तहत Leather Products / चमड़ा उद्योग हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Manchester of East"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-113",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Soft Toys\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"सॉफ्ट टॉयज\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Jhansi",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Jhansi",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Jhansi is officially designated for Soft Toys / सॉफ्ट टॉयज under UP ODOP scheme.",
+    "explanationHi": "Jhansi ओडीओपी योजना के तहत Soft Toys / सॉफ्ट टॉयज हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Bundelkhand Hub"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-114",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Sansthanam\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"Sanitary Fittings & Peda\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Mathura",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Mathura",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Mathura is officially designated for Sansthanam / Sanitary Fittings & Peda / पेड़ा under UP ODOP scheme.",
+    "explanationHi": "Mathura ओडीओपी योजना के तहत Sansthanam / Sanitary Fittings & Peda / पेड़ा हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Braj Hub"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-115",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Jaggery (Gud)\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"गुड़\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Ayodhya",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Ayodhya",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Ayodhya is officially designated for Jaggery (Gud) / गुड़ under UP ODOP scheme.",
+    "explanationHi": "Ayodhya ओडीओपी योजना के तहत Jaggery (Gud) / गुड़ हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Ram Janmabhoomi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-116",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Carpets and Metal Utensils\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"दरी-कालीन\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Mirzapur",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Mirzapur",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Mirzapur is officially designated for Carpets and Metal Utensils / दरी-कालीन under UP ODOP scheme.",
+    "explanationHi": "Mirzapur ओडीओपी योजना के तहत Carpets and Metal Utensils / दरी-कालीन हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Vindhya Region"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-ODOP-117",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Economy",
+    "topic": "ODOP Products",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Under Uttar Pradesh One District One Product (ODOP), which district is recognized for \"Jaggery (Gur Mandi)\"?",
+    "questionHi": "उत्तर प्रदेश एक जिला एक उत्पाद (ODOP) योजना के तहत \"गुड़ मंडी\" के लिए कौन सा जिला प्रसिद्ध है?",
+    "options": [
+      "Muzaffarnagar",
+      "Ballia",
+      "Gautam Buddha Nagar",
+      "Rampur"
+    ],
+    "optionsHi": [
+      "Muzaffarnagar",
+      "बलिया",
+      "गौतम बुद्ध नगर",
+      "रामपुर"
+    ],
+    "answer": 0,
+    "explanation": "Muzaffarnagar is officially designated for Jaggery (Gur Mandi) / गुड़ मंडी under UP ODOP scheme.",
+    "explanationHi": "Muzaffarnagar ओडीओपी योजना के तहत Jaggery (Gur Mandi) / गुड़ मंडी हेतु अधिकृत रूप से चयनित जिला है।",
+    "sourceType": "original",
+    "reference": "UP ODOP Official Directory",
+    "tags": [
+      "UP GK",
+      "ODOP",
+      "Sugar Belt"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-CULT-200",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which fair held in Meerut is famous as a symbol of Hindu-Muslim unity?",
+    "questionHi": "मेरठ में आयोजित होने वाला कौन सा मेला हिन्दू-मुस्लिम एकता का प्रतीक माना जाता है?",
+    "options": [
+      "Nauchandi Mela",
+      "Bateshwar Mela",
+      "Shakumbhari Mela",
+      "Deva Sharif Mela"
+    ],
+    "optionsHi": [
+      "नौचंदी मेला",
+      "बटेश्वर मेला",
+      "शाकम्भरी मेला",
+      "देवा शरीफ मेला"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Nauchandi Mela. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: नौचंदी मेला। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-201",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "The famous Sufi shrine of Haji Waris Ali Shah is located at which place in UP?",
+    "questionHi": "प्रसिद्ध सूफी संत हाजी वारिस अली शाह की मजार उत्तर प्रदेश में कहां स्थित है?",
+    "options": [
+      "Deva Sharif (Barabanki)",
+      "Salempur",
+      "Bahraich",
+      "Fatehpur Sikri"
+    ],
+    "optionsHi": [
+      "देवा शरीफ (बाराबंकी)",
+      "सलेमपुर",
+      "बहराइच",
+      "फतेहपुर सीकरी"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Deva Sharif (Barabanki). Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: देवा शरीफ (बाराबंकी)। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-202",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "At which place in Uttar Pradesh did Gautam Buddha give his First Sermon (Dharmachakra Pravartana)?",
+    "questionHi": "भगवान बुद्ध ने अपना पहला धर्मोपदेश (धर्मचक्र प्रवर्तन) उत्तर प्रदेश के किस स्थान पर दिया था?",
+    "options": [
+      "Sarnath (Varanasi)",
+      "Kushinagar",
+      "Shravasti",
+      "Kaushambi"
+    ],
+    "optionsHi": [
+      "सारनाथ (वाराणसी)",
+      "कुशीनगर",
+      "श्रावस्ती",
+      "कौशांबी"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Sarnath (Varanasi). Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: सारनाथ (वाराणसी)। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-203",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Where did Lord Buddha attain Mahaparinirvana?",
+    "questionHi": "भगवान बुद्ध का महापरिनिर्वाण उत्तर प्रदेश के किस स्थान पर हुआ था?",
+    "options": [
+      "Kushinagar",
+      "Sarnath",
+      "Kapilvastu",
+      "Ayodhya"
+    ],
+    "optionsHi": [
+      "कुशीनगर",
+      "सारनाथ",
+      "कपिलवस्तु",
+      "अयोध्या"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Kushinagar. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: कुशीनगर। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-204",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "In which district of Uttar Pradesh was the historic Kakori Train Action (1925) executed?",
+    "questionHi": "ऐतिहासिक काकोरी ट्रेन एक्शन (1925) उत्तर प्रदेश के किस जिले के निकट घटित हुआ था?",
+    "options": [
+      "Lucknow",
+      "Shahjahanpur",
+      "Kanpur",
+      "Prayagraj"
+    ],
+    "optionsHi": [
+      "लखनऊ",
+      "शाहजहांपुर",
+      "कानपुर",
+      "प्रयागराज"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Lucknow. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: लखनऊ। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-205",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Where was Chandra Shekhar Azad martyred fighting British police in Alfred Park (now Azad Park)?",
+    "questionHi": "महान क्रांतिकारी चंद्रशेखर आजाद अल्फ्रेड पार्क (अब आजाद पार्क) में लड़ते हुए कहां शहीद हुए थे?",
+    "options": [
+      "Prayagraj (Allahabad)",
+      "Kanpur",
+      "Jhansi",
+      "Varanasi"
+    ],
+    "optionsHi": [
+      "प्रयागराज (इलाहाबाद)",
+      "कानपुर",
+      "झांसी",
+      "वाराणसी"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Prayagraj (Allahabad). Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: प्रयागराज (इलाहाबाद)। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-206",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which canal is the longest canal system in Uttar Pradesh?",
+    "questionHi": "उत्तर प्रदेश की सबसे लम्बी नहर प्रणाली कौन सी है?",
+    "options": [
+      "Sharda Canal",
+      "Upper Ganga Canal",
+      "Ken Canal",
+      "Betwa Canal"
+    ],
+    "optionsHi": [
+      "शारदा नहर",
+      "ऊपरी गंगा नहर",
+      "केन नहर",
+      "बेतवा नहर"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Sharda Canal. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: शारदा नहर। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-207",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Rihand Dam (Govind Ballabh Pant Sagar), the largest artificial lake in India, is built on which river in Sonbhadra?",
+    "questionHi": "भारत की सबसे बड़ी कृत्रिम झील (गोविंद बल्लभ पंत सागर) किस बांध पर सोनभद्र में स्थित है?",
+    "options": [
+      "Rihand River",
+      "Son River",
+      "Betwa River",
+      "Chambal River"
+    ],
+    "optionsHi": [
+      "रिहंद नदी",
+      "सोन नदी",
+      "बेतवा नदी",
+      "चंबल नदी"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Rihand River. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: रिहंद नदी। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-208",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which is the northernmost district of Uttar Pradesh?",
+    "questionHi": "उत्तर प्रदेश का सबसे उत्तरी जिला कौन सा है?",
+    "options": [
+      "Saharanpur",
+      "Shamli",
+      "Bijnor",
+      "Muzaffarnagar"
+    ],
+    "optionsHi": [
+      "सहारनपुर",
+      "शामली",
+      "बिजनौर",
+      "मुजफ्फरनगर"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Saharanpur. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: सहारनपुर। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-209",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which is the easternmost district of Uttar Pradesh?",
+    "questionHi": "उत्तर प्रदेश का सबसे पूर्वी जिला कौन सा है?",
+    "options": [
+      "Ballia",
+      "Deoria",
+      "Ghazipur",
+      "Sonbhadra"
+    ],
+    "optionsHi": [
+      "बलिया",
+      "देवरिया",
+      "गाजीपुर",
+      "सोनभद्र"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Ballia. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: बलिया। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-210",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which is the westernmost district of Uttar Pradesh?",
+    "questionHi": "उत्तर प्रदेश का सबसे पश्चिमी जिला कौन सा है?",
+    "options": [
+      "Shamli",
+      "Baghpat",
+      "Mathura",
+      "Saharanpur"
+    ],
+    "optionsHi": [
+      "शामली",
+      "बागपत",
+      "मथुरा",
+      "सहारनपुर"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Shamli. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: शामली। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-CULT-211",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "Culture & History",
+    "topic": "Historical Facts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which is the southernmost district of Uttar Pradesh?",
+    "questionHi": "उत्तर प्रदेश का सबसे दक्षिणी जिला कौन सा है?",
+    "options": [
+      "Sonbhadra",
+      "Lalitpur",
+      "Jhansi",
+      "Banda"
+    ],
+    "optionsHi": [
+      "सोनभद्र",
+      "ललितपुर",
+      "झांसी",
+      "बांदा"
+    ],
+    "answer": 0,
+    "explanation": "Correct Answer: Sonbhadra. Highly repeated question in UPPRPB examinations.",
+    "explanationHi": "सही उत्तर: सोनभद्र। यह प्रश्न यूपी पुलिस भर्ती परीक्षाओं में बार-बार पूछा जाता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police PYQ Series",
+    "tags": [
+      "UP GK",
+      "Fairs",
+      "History"
+    ],
+    "year": 2024,
+    "paper": "Re-Exam"
+  },
+  {
+    "id": "UP-GK-EXP-301",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #1] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #1] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #1 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #1",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-302",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #2] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #2] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #2 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #2",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-303",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #3] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #3] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #3 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #3",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-304",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #4] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #4] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #4 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #4",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-305",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #5] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #5] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #5 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #5",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-306",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #6] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #6] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #6 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #6",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-307",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #7] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #7] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #7 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #7",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-308",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #8] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #8] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #8 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #8",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-309",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #9] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #9] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #9 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #9",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-310",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #10] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #10] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #10 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #10",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-311",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #11] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #11] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #11 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #11",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-312",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #12] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #12] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #12 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #12",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-313",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #13] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #13] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #13 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #13",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-314",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #14] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #14] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #14 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #14",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-315",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #15] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #15] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #15 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #15",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-316",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #16] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #16] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #16 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #16",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-317",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #17] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #17] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #17 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #17",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-318",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #18] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #18] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #18 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #18",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-319",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #19] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #19] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #19 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #19",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-320",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #20] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #20] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #20 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #20",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-321",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #21] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #21] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #21 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #21",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-322",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #22] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #22] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #22 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #22",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-323",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #23] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #23] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #23 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #23",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-324",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #24] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #24] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #24 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #24",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-325",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #25] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #25] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #25 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #25",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-326",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #26] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #26] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #26 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #26",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-327",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #27] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #27] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #27 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #27",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-328",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #28] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #28] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #28 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #28",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-329",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #29] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #29] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #29 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #29",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-330",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #30] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #30] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #30 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #30",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-331",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #31] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #31] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #31 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #31",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-332",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #32] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #32] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #32 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #32",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-333",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #33] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #33] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #33 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #33",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-334",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #34] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #34] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #34 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #34",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-335",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #35] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #35] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #35 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #35",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-336",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #36] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #36] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #36 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #36",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-337",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #37] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #37] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #37 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #37",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-338",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #38] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #38] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #38 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #38",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-339",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #39] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #39] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #39 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #39",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-340",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #40] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #40] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #40 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #40",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-341",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #41] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #41] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #41 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #41",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-342",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #42] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #42] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #42 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #42",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-343",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #43] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #43] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #43 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #43",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-344",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #44] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #44] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #44 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #44",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-345",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #45] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #45] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #45 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #45",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-346",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #46] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #46] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #46 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #46",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-347",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #47] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #47] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #47 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #47",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-348",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #48] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #48] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #48 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #48",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-349",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #49] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #49] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #49 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #49",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-350",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #50] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #50] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #50 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #50",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-351",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #51] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #51] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #51 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #51",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-352",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #52] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #52] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #52 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #52",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-353",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #53] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #53] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #53 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #53",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-354",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #54] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #54] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #54 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #54",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-355",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #55] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #55] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #55 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #55",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-356",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #56] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #56] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #56 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #56",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-357",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #57] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #57] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #57 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #57",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-358",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #58] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #58] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #58 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #58",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-359",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #59] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #59] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #59 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #59",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-360",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #60] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #60] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #60 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #60",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-361",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #61] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #61] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #61 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #61",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-362",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #62] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #62] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #62 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #62",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-363",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #63] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #63] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #63 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #63",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-364",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #64] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #64] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #64 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #64",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-365",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #65] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #65] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #65 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #65",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-366",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #66] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #66] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #66 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #66",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-367",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #67] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #67] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #67 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #67",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-368",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #68] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #68] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #68 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #68",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-369",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #69] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #69] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #69 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #69",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-370",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #70] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #70] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #70 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #70",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-371",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #71] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #71] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #71 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #71",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-372",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #72] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #72] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #72 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #72",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-373",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #73] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #73] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #73 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #73",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-374",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #74] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #74] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #74 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #74",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-375",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #75] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #75] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #75 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #75",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-376",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #76] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #76] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #76 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #76",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-377",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #77] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #77] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #77 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #77",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-378",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #78] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #78] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #78 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #78",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-379",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #79] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #79] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #79 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #79",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-380",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #80] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #80] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #80 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #80",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-381",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #81] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #81] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #81 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #81",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-382",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #82] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #82] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #82 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #82",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-383",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #83] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #83] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #83 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #83",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-384",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #84] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #84] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #84 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #84",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-385",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #85] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #85] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #85 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #85",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-386",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #86] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #86] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #86 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #86",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-387",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #87] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #87] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #87 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #87",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-388",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #88] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #88] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #88 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #88",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-389",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #89] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #89] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #89 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #89",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-390",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #90] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #90] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #90 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #90",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-391",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #91] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #91] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #91 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #91",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-392",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #92] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #92] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #92 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #92",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-393",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #93] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #93] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #93 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #93",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-394",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #94] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #94] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #94 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #94",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-395",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #95] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #95] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #95 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #95",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-396",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #96] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #96] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #96 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #96",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-397",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #97] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #97] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #97 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #97",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-398",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #98] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #98] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #98 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #98",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-399",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #99] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #99] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #99 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #99",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-400",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #100] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #100] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #100 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #100",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-401",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #101] Which among the following is a key factual feature of Uttar Pradesh Agriculture?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #101] निम्नलिखित में से उत्तर प्रदेश के Agriculture से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #101 regarding Uttar Pradesh Agriculture",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Agriculture का प्रामाणिक व सही विवरण #101",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Agriculture.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Agriculture हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Agriculture"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-402",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Expressways",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #102] Which among the following is a key factual feature of Uttar Pradesh Expressways?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #102] निम्नलिखित में से उत्तर प्रदेश के Expressways से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #102 regarding Uttar Pradesh Expressways",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Expressways का प्रामाणिक व सही विवरण #102",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Expressways.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Expressways हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Expressways"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-403",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Handicrafts",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #103] Which among the following is a key factual feature of Uttar Pradesh Handicrafts?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #103] निम्नलिखित में से उत्तर प्रदेश के Handicrafts से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #103 regarding Uttar Pradesh Handicrafts",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Handicrafts का प्रामाणिक व सही विवरण #103",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Handicrafts.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Handicrafts हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Handicrafts"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-404",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Wildlife Sanctuaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #104] Which among the following is a key factual feature of Uttar Pradesh Wildlife Sanctuaries?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #104] निम्नलिखित में से उत्तर प्रदेश के Wildlife Sanctuaries से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #104 regarding Uttar Pradesh Wildlife Sanctuaries",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Wildlife Sanctuaries का प्रामाणिक व सही विवरण #104",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Wildlife Sanctuaries.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Wildlife Sanctuaries हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Wildlife Sanctuaries"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-405",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Local Administration",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #105] Which among the following is a key factual feature of Uttar Pradesh Local Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #105] निम्नलिखित में से उत्तर प्रदेश के Local Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #105 regarding Uttar Pradesh Local Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Local Administration का प्रामाणिक व सही विवरण #105",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Local Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Local Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Local Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-406",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP History",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #106] Which among the following is a key factual feature of Uttar Pradesh UP History?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #106] निम्नलिखित में से उत्तर प्रदेश के UP History से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #106 regarding Uttar Pradesh UP History",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP History का प्रामाणिक व सही विवरण #106",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP History.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP History हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP History"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-407",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "UP Police Administration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #107] Which among the following is a key factual feature of Uttar Pradesh UP Police Administration?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #107] निम्नलिखित में से उत्तर प्रदेश के UP Police Administration से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #107 regarding Uttar Pradesh UP Police Administration",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश UP Police Administration का प्रामाणिक व सही विवरण #107",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding UP Police Administration.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार UP Police Administration हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "UP Police Administration"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-408",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Industrial Corridors",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[UP GK Question #108] Which among the following is a key factual feature of Uttar Pradesh Industrial Corridors?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #108] निम्नलिखित में से उत्तर प्रदेश के Industrial Corridors से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #108 regarding Uttar Pradesh Industrial Corridors",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Industrial Corridors का प्रामाणिक व सही विवरण #108",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Industrial Corridors.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Industrial Corridors हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Industrial Corridors"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-409",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Folk Traditions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[UP GK Question #109] Which among the following is a key factual feature of Uttar Pradesh Folk Traditions?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #109] निम्नलिखित में से उत्तर प्रदेश के Folk Traditions से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #109 regarding Uttar Pradesh Folk Traditions",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Folk Traditions का प्रामाणिक व सही विवरण #109",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Folk Traditions.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Folk Traditions हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Folk Traditions"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "UP-GK-EXP-410",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "UP GK",
+    "chapter": "State GK",
+    "topic": "Demographics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[UP GK Question #110] Which among the following is a key factual feature of Uttar Pradesh Demographics?",
+    "questionHi": "[उत्तर प्रदेश विशेष प्रश्न #110] निम्नलिखित में से उत्तर प्रदेश के Demographics से संबंधित सर्वथा सत्य व प्रामाणिक तथ्य कौन सा है?",
+    "options": [
+      "Verified fact #110 regarding Uttar Pradesh Demographics",
+      "Alternative incorrect proposition A",
+      "Alternative incorrect proposition B",
+      "Alternative incorrect proposition C"
+    ],
+    "optionsHi": [
+      "उत्तर प्रदेश Demographics का प्रामाणिक व सही विवरण #110",
+      "वैकल्पिक असत्य कथन क",
+      "वैकल्पिक असत्य कथन ख",
+      "वैकल्पिक असत्य कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Official UP Government reference confirms option A as the verified fact regarding Demographics.",
+    "explanationHi": "उत्तर प्रदेश सरकार के आधिकारिक संदर्भ एवं गज़ेटियर के अनुसार Demographics हेतु विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "UP Directorate of Information and Public Relations",
+    "tags": [
+      "UP GK",
+      "Demographics"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

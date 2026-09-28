@@ -1,0 +1,139 @@
+{
+  "roadmapLevels": [
+    {
+      "level": 0,
+      "title": "Recruitment & Rulebook Decoded",
+      "titleHi": "लेवल 0: भर्ती नियमावली एवं परीक्षा पैटर्न की समझ",
+      "duration": "Day 1-2",
+      "actions": [
+        "Download official notification PDF from uppbpb.gov.in",
+        "Verify age limits, category relaxation, and educational qualifications",
+        "Understand exact negative marking scheme (-0.5 marks or normalized CBT formula)",
+        "Check Physical Standard Test (PST) minimum height and chest requirements"
+      ],
+      "status": "foundation"
+    },
+    {
+      "level": 1,
+      "title": "Core Foundation (NCERT & Basics)",
+      "titleHi": "लेवल 1: आधारभूत संकल्पनाएं एवं एनसीईआरटी अध्ययन",
+      "duration": "Day 3-15",
+      "actions": [
+        "Cover NCERT Class 8-10 History, Geography, and Polity fundamentals",
+        "Master Hindi Varnamala, Sandhi, Samas, and Tatsam-Tadbhav classification",
+        "Memorize Tables (1 to 30), Squares (1 to 40), Cubes (1 to 20), and Fraction-Percentage conversions"
+      ],
+      "status": "foundation"
+    },
+    {
+      "level": 2,
+      "title": "Complete Syllabus Subject Coverage",
+      "titleHi": "लेवल 2: विषयवार संपूर्ण पाठ्यक्रम का गहन अध्ययन",
+      "duration": "Day 16-45",
+      "actions": [
+        "Complete all 4 sections topic-by-topic according to official UPPRPB syllabus",
+        "For SI: Master Bharatiya Nyaya Sanhita (BNS), BNSS, and Special Criminal Acts",
+        "For Constable: Solve 50 questions daily in Numerical Ability and Reasoning",
+        "For Computer Operator: Cover DBMS, OS, Networking, and Boolean Algebra"
+      ],
+      "status": "in-progress"
+    },
+    {
+      "level": 3,
+      "title": "Uttar Pradesh Special GK Dominance",
+      "titleHi": "लेवल 3: उत्तर प्रदेश विशेष सामान्य ज्ञान पर अधिकार",
+      "duration": "Day 46-55",
+      "actions": [
+        "Memorize all 75 UP districts, borders, Sonbhadra quad-border, and Lakhimpur/Hapur extremes",
+        "One District One Product (ODOP) mapping for all 75 districts",
+        "UP Police Administrative Structure (8 Zones, 18 Ranges, PAC battalions, Dial 112)",
+        "UP Fairs (Nauchandi, Bateshwar, Magh Mela) and Folk Dances (Charkula, Nautanki)"
+      ],
+      "status": "in-progress"
+    },
+    {
+      "level": 4,
+      "title": "Verified PYQ Dissection & Trend Analysis",
+      "titleHi": "लेवल 4: विगत वर्षों के प्रामाणिक प्रश्नपत्रों (PYQ) का विश्लेषण",
+      "duration": "Day 56-65",
+      "actions": [
+        "Solve all shifts of UP Police Constable (2018, 2019, 2024 Re-Exam)",
+        "For SI: Solve all 54 shifts of UP SI 2021 CBT examination",
+        "Identify high-frequency repeated themes and question patterns"
+      ],
+      "status": "practice"
+    },
+    {
+      "level": 5,
+      "title": "Topic Sprints & Speed Practice",
+      "titleHi": "लेवल 5: टॉपिकवार गति अभ्यास एवं सटीकता सुधार",
+      "duration": "Day 66-80",
+      "actions": [
+        "Timed 20-question Topic Quizzes and 50-question Subject Sprints",
+        "Target minimum 85% accuracy in General Hindi and Reasoning",
+        "Save all incorrect questions directly to the Error Notebook"
+      ],
+      "status": "practice"
+    },
+    {
+      "level": 6,
+      "title": "Full Official Exam Mock Tests",
+      "titleHi": "लेवल 6: पूर्ण आधिकारिक पैटर्न पर आधारित मॉक टेस्ट",
+      "duration": "Day 81-100",
+      "actions": [
+        "Attempt 2 full-length 120-minute mocks per week under strict timer",
+        "Analyze question palette time expenditure and negative marking deductions",
+        "For SI: Ensure scoring minimum 35% in all 4 subjects to avoid sectional disqualification"
+      ],
+      "status": "mock"
+    },
+    {
+      "level": 7,
+      "title": "Error Notebook & Weakness Elimination",
+      "titleHi": "लेवल 7: त्रुटि पुस्तिका (Error Notebook) से कमजोरियों का निवारण",
+      "duration": "Day 101-110",
+      "actions": [
+        "Re-attempt all bookmarked and incorrect questions in Error Notebook",
+        "Clarify confusing concepts with original reference notes and books",
+        "Eliminate repeated mistakes in negative-marking subjects"
+      ],
+      "status": "refinement"
+    },
+    {
+      "level": 8,
+      "title": "Physical PET / PST Conditioning",
+      "titleHi": "लेवल 8: शारीरिक दक्षता परीक्षा (दौड़) की तैयारी",
+      "duration": "Continuous parallel",
+      "actions": [
+        "Morning running sessions: Build up to 4.8 km in 25 min (Male) or 2.4 km in 14 min (Female)",
+        "Track distance, time, and pace in the Running Tracker",
+        "Ensure chest expansion >= 5 cm for male candidates"
+      ],
+      "status": "physical"
+    },
+    {
+      "level": 9,
+      "title": "Spaced Repetition Revision Cycle",
+      "titleHi": "लेवल 9: अंतराल पुनरावृत्ति (1-3-7-15-30 दिन) चक्र",
+      "duration": "Day 111-120",
+      "actions": [
+        "Review flashcards for UP GK, Law, Polity Articles, and Hindi Grammar",
+        "Fast-track review of formulas, square roots, and reasoning shortcuts",
+        "Daily revision of Police & Security current affairs"
+      ],
+      "status": "revision"
+    },
+    {
+      "level": 10,
+      "title": "Exam Day Simulation & Peak Readiness",
+      "titleHi": "लेवल 10: वास्तविक परीक्षा सिमुलेशन एवं अंतिम विजय",
+      "duration": "Final 10 Days",
+      "actions": [
+        "Attempt 3 final all-India level simulated papers in the exact exam shift time (10 AM or 3 PM)",
+        "Zero new topic introductions; strictly consolidate mastered areas",
+        "Arrive at exam center relaxed, confident, and prepared for final selection"
+      ],
+      "status": "mastery"
+    }
+  ]
+}

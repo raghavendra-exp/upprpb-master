@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ca-sec-2026-01",
+    "date": "2026-09-20",
+    "category": "Police & Security",
+    "headline": "UP Police Upgrades 'Emergency Response Support System (ERSS) 112' with AI Automated Dispatch & Real-Time Incident Heatmaps",
+    "headlineHi": "उत्तर प्रदेश पुलिस ने 'डायल 112' आपातकालीन सेवा को एआई ऑटोमेटेड डिस्पैच और रियल-टाइम हॉटस्पॉट मैपिंग से किया अपग्रेड",
+    "summary": "The Uttar Pradesh Police Department has officially inaugurated its next-generation Dial 112 Command and Control System at the Police Headquarters in Lucknow. Integrated with artificial intelligence algorithms and geo-spatial analytics, the modernized platform reduces average police response times in urban commissionerates to under 7.5 minutes and rural districts to under 12 minutes. The system integrates seamless video-calling distress triggers for women via the 1090 Women Power Line backend and facilitates immediate automated alerting of the nearest Police Response Vehicle (PRV). Furthermore, dynamic incident heatmaps enable senior officers to preemptively patrol crime-prone intersections and sensitive highway corridors.",
+    "summaryHi": "उत्तर प्रदेश पुलिस ने लखनऊ मुख्यालय में अपनी अगली पीढ़ी की 'डायल 112' आपातकालीन प्रतिक्रिया प्रणाली का नवीनीकरण किया है। एआई और जीआईएस मैपिंग से लैस यह प्रणाली शहरी क्षेत्रों में पुलिस रिस्पांस टाइम को घटाकर 7.5 मिनट और ग्रामीण क्षेत्रों में 12 मिनट से कम करने में सक्षम है। इसमें महिला सुरक्षा हेतु 'वूमेन पावर लाइन 1090' का स्वतः एकीकरण तथा निकटतम पीआरवी वाहन को त्वरित जीपीएस अलर्ट भेजने की व्यवस्था की गई है।",
+    "keyFacts": [
+      "Average urban police response time targeted below 7.5 minutes",
+      "Direct integration between Dial 112, Women Power Line 1090, and Cyber Helpline 1930",
+      "Over 4,800 Police Response Vehicles (PRVs) equipped with MDTs (Mobile Data Terminals) and live GPS feeds",
+      "Central command center based at Signature Building, Lucknow with backup disaster recovery unit at Prayagraj"
+    ],
+    "keyFactsHi": [
+      "शहरी क्षेत्रों में पुलिस पहुंच समय 7.5 मिनट से कम करने का लक्ष्य",
+      "डायल 112, 1090 वूमेन पावर लाइन एवं 1930 साइबर हेल्पलाइन का प्रत्यक्ष समन्वय",
+      "4,800 से अधिक पुलिस रिस्पांस वाहन (PRV) मोबाइल डेटा टर्मिनल व जीपीएस से सुसज्जित",
+      "केंद्रीय कमांड सेंटर सिग्नेचर बिल्डिंग, लखनऊ में स्थित तथा आपदा बैकअप प्रयागराज में"
+    ],
+    "policeExamRelevance": "Crucial for Constable Mental Aptitude (Police System) and SI Mool Vidhi / Internal Security questions.",
+    "policeExamRelevanceHi": "कांस्टेबल मानसिक अभिरुचि (पुलिस प्रणाली) एवं एसआई आंतरिक सुरक्षा प्रश्नपत्र हेतु अत्यंत महत्वपूर्ण।",
+    "flashcard": {
+      "front": "What is the emergency helpline number of Uttar Pradesh Integrated Emergency Response System (ERSS)?",
+      "frontHi": "उत्तर प्रदेश एकीकृत आपातकालीन प्रतिक्रिया प्रणाली (ERSS) का हेल्पलाइन नंबर क्या है?",
+      "back": "Dial 112 (Integrates Police 112, Fire 101, Ambulance 108, and Women Safety 1090).",
+      "backHi": "डायल 112 (जिसमें पुलिस, फायर, एम्बुलेंस एवं महिला सुरक्षा का समन्वय है)।"
+    },
+    "source": {
+      "name": "UP Police Official Press Note & Department of Home, UP",
+      "url": "https://uppbpb.gov.in/",
+      "verifiedDate": "2026-09-24"
+    },
+    "mcqs": [
+      {
+        "id": "CA-MCQ-01-A",
+        "exam": "UPPRPB",
+        "post": "Constable",
+        "subject": "Current Affairs",
+        "chapter": "Police Administration",
+        "topic": "ERSS 112",
+        "difficulty": "easy",
+        "type": "mcq",
+        "question": "What is the integrated single emergency helpline number in Uttar Pradesh for police, fire, and medical assistance?",
+        "questionHi": "उत्तर प्रदेश में पुलिस, अग्निशमन और चिकित्सा सहायता हेतु एकल एकीकृत आपातकालीन नंबर क्या है?",
+        "options": ["100", "112", "1090", "1930"],
+        "optionsHi": ["100", "112", "1090", "1930"],
+        "answer": 1,
+        "explanation": "Dial 112 is the unified Pan-India Emergency Response Support System (ERSS) operating in UP.",
+        "explanationHi": "डायल 112 पूरे भारत एवं उत्तर प्रदेश में संचालित एकीकृत आपातकालीन हेल्पलाइन नंबर है।",
+        "sourceType": "original",
+        "reference": "UP Police ERSS Portal",
+        "tags": ["Current Affairs", "UP Police", "112"]
+      }
+    ]
+  },
+  {
+    "id": "ca-sec-2026-02",
+    "date": "2026-09-15",
+    "category": "Uttar Pradesh",
+    "headline": "Uttar Pradesh Government Expedites Bundelkhand Industrial Expressway and Green Energy Corridor",
+    "headlineHi": "उत्तर प्रदेश सरकार ने बुंदेलखंड औद्योगिक गलियारा एवं हरित ऊर्जा गलियारा परियोजना में लाई तेजी",
+    "summary": "To accelerate manufacturing, defense production, and logistics in the southern region of Uttar Pradesh, the state cabinet chaired by Chief Minister Yogi Adityanath sanctioned enhanced financial outlays for the Bundelkhand Industrial Development Authority (BIDA). Spanning 35,000 acres across Jhansi and surrounding tehsils, BIDA represents the first new planned industrial township in Uttar Pradesh since Noida in 1976. The node connects directly to the 296-km long Bundelkhand Expressway and the UP Defence Industrial Corridor, hosting artillery, drone, and electronics fabrication clusters.",
+    "summaryHi": "उत्तर प्रदेश मंत्रिमंडल ने झांसी और निकटवर्ती क्षेत्रों में 35,000 एकड़ में विस्तृत 'बुंदेलखंड औद्योगिक विकास प्राधिकरण (BIDA)' के त्वरित विकास हेतु अतिरिक्त वित्तीय प्रावधानों को स्वीकृति दी है। 1976 में नोएडा के गठन के उपरांत यह राज्य का पहला नया नियोजित औद्योगिक शहर है। यह नोड 296 किमी लम्बे बुंदेलखंड एक्सप्रेसवे तथा रक्षा औद्योगिक गलियारे से सीधे जुड़ा हुआ है।",
+    "keyFacts": [
+      "BIDA is the first new planned industrial authority in UP since Noida (1976)",
+      "Location: Jhansi district spanning over 35,000 acres",
+      "Direct linkage with 296-km Bundelkhand Expressway (starts at Chitrakoot, ends at Kudrail in Etawah connecting Agra-Lucknow Expressway)",
+      "Part of the Uttar Pradesh Defence Industrial Corridor comprising 6 nodes (Lucknow, Kanpur, Jhansi, Agra, Aligarh, Chitrakoot)"
+    ],
+    "keyFactsHi": [
+      "नोएडा (1976) के बाद BIDA उत्तर प्रदेश का पहला नया औद्योगिक विकास प्राधिकरण है",
+      "स्थिति: झांसी जिला, 35,000 एकड़ से अधिक क्षेत्रफल",
+      "296 किमी लम्बे बुंदेलखंड एक्सप्रेसवे (चित्रकूट से इटावा के कुदरैल तक) से सीधा जुड़ाव",
+      "यूपी रक्षा गलियारे के 6 नोड्स: लखनऊ, कानपुर, झांसी, आगरा, अलीगढ़, चित्रकूट"
+    ],
+    "policeExamRelevance": "High frequency topic for UP GK, Infrastructure, and Defense corridor MCQs.",
+    "policeExamRelevanceHi": "उत्तर प्रदेश भूगोल, अर्थव्यवस्था एवं रक्षा गलियारे के प्रश्नों हेतु अति महत्वपूर्ण।",
+    "flashcard": {
+      "front": "Which are the 6 official nodes of the Uttar Pradesh Defence Industrial Corridor?",
+      "frontHi": "उत्तर प्रदेश डिफेंस इंडस्ट्रियल कॉरिडोर के 6 अधिकृत नोड्स कौन से हैं?",
+      "back": "Lucknow, Kanpur, Jhansi, Agra, Aligarh, and Chitrakoot.",
+      "backHi": "लखनऊ, कानपुर, झांसी, आगरा, अलीगढ़ एवं चित्रकूट।"
+    },
+    "source": {
+      "name": "UP Information & Public Relations Department",
+      "url": "https://information.up.gov.in/",
+      "verifiedDate": "2026-09-24"
+    },
+    "mcqs": [
+      {
+        "id": "CA-MCQ-02-A",
+        "exam": "UPPRPB",
+        "post": "Constable",
+        "subject": "Current Affairs",
+        "chapter": "UP Infrastructure",
+        "topic": "Defence Corridor",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "Which of the following cities is NOT one of the six designated nodes of Uttar Pradesh Defence Industrial Corridor?",
+        "questionHi": "निम्नलिखित में से कौन सा शहर उत्तर प्रदेश डिफेंस इंडस्ट्रियल कॉरिडोर के छह घोषित नोड्स में शामिल नहीं है?",
+        "options": ["Jhansi", "Aligarh", "Prayagraj", "Kanpur"],
+        "optionsHi": ["झांसी", "अलीगढ़", "प्रयागराज", "कानपुर"],
+        "answer": 2,
+        "explanation": "The 6 nodes are Lucknow, Kanpur, Jhansi, Agra, Aligarh, and Chitrakoot. Prayagraj is not one of the six nodes.",
+        "explanationHi": "डिफेंस कॉरिडोर के 6 नोड्स लखनऊ, कानपुर, झांसी, आगरा, अलीगढ़ और चित्रकूट हैं। प्रयागराज इसमें शामिल नहीं है।",
+        "sourceType": "original",
+        "reference": "UP Defence Industrial Corridor Node Map",
+        "tags": ["Current Affairs", "UP GK", "Defence Corridor"]
+      }
+    ]
+  },
+  {
+    "id": "ca-sec-2026-03",
+    "date": "2026-09-10",
+    "category": "Police & Security",
+    "headline": "Implementation of Bharatiya Nyaya Sanhita (BNS) & Forensics-Led Criminal Investigations Completed Across All 75 Districts of UP",
+    "headlineHi": "उत्तर प्रदेश के सभी 75 जनपदों में भारतीय न्याय संहिता (BNS) एवं फोरेंसिक साक्ष्य संकलन का पूर्ण क्रियान्वयन",
+    "summary": "Following the nationwide enactment of the new criminal laws (BNS, BNSS, and BSA), Uttar Pradesh Police has fully deployed forensic mobile vans (Forensic Science Laboratory units) in every district headquarters. Under Section 176(3) of the BNSS, forensic videography and sample collection is mandatory for all offences carrying a sentence of 7 years or more. Special training capsules conducted by the UP State Institute of Forensic Sciences (UPSIFS), Lucknow have trained over 65,000 sub-inspectors and constables in chain-of-custody protocols for digital evidence under Section 63 BSA.",
+    "summaryHi": "नए आपराधिक कानूनों के प्रभावी होने के बाद, उत्तर प्रदेश पुलिस ने राज्य के सभी 75 जिलों में मोबाइल फोरेंसिक वैन तैनात की हैं। BNSS की धारा 176(3) के अनुसार 7 वर्ष या उससे अधिक की सजा वाले मामलों में फोरेंसिक साक्ष्य संकलन अनिवार्य है। लखनऊ स्थित 'यूपी स्टेट इंस्टीट्यूट ऑफ फोरेंसिक साइंसेज (UPSIFS)' द्वारा 65,000 से अधिक पुलिसकर्मियों को डिजिटल साक्ष्य संकलन में प्रशिक्षित किया गया है।",
+    "keyFacts": [
+      "Mandatory crime scene forensic visit for offences carrying >= 7 years imprisonment (BNSS 176(3))",
+      "Mandatory audio-video recording of search and seizure operations (BNSS 105)",
+      "Uttar Pradesh State Institute of Forensic Sciences (UPSIFS) is situated in Sarojini Nagar, Lucknow",
+      "Digital certificates for electronic evidence standardized under Section 63 BSA"
+    ],
+    "keyFactsHi": [
+      "7 वर्ष या अधिक सजा वाले अपराधों में फोरेंसिक टीम की उपस्थिति अनिवार्य (BNSS 176(3))",
+      "तलाशी व जब्ती की अनिवार्य वीडियोग्राफी (BNSS 105)",
+      "यूपी स्टेट इंस्टीट्यूट ऑफ फोरेंसिक साइंसेज (UPSIFS) सरोजनी नगर, लखनऊ में स्थित",
+      "डिजिटल साक्ष्य का प्रमाणीकरण BSA की धारा 63 के तहत मानकीकृत"
+    ],
+    "policeExamRelevance": "Top-tier question for UP Police SI Mool Vidhi and Constable Aptitude.",
+    "policeExamRelevanceHi": "यूपी पुलिस दरोगा मूल विधि एवं सिपाही मानसिक अभिरुचि के लिए सर्वाधिक संभावित विषय।",
+    "flashcard": {
+      "front": "Where is the Uttar Pradesh State Institute of Forensic Sciences (UPSIFS) established?",
+      "frontHi": "उत्तर प्रदेश स्टेट इंस्टीट्यूट ऑफ फोरेंसिक साइंसेज (UPSIFS) कहां स्थापित है?",
+      "back": "Lucknow (Sarojini Nagar, Piparsand).",
+      "backHi": "लखनऊ (सरोजनी नगर, पिपरसंड)।"
+    },
+    "source": {
+      "name": "Ministry of Home Affairs & UP Police Training Directorate",
+      "url": "https://uppbpb.gov.in/",
+      "verifiedDate": "2026-09-24"
+    },
+    "mcqs": [
+      {
+        "id": "CA-MCQ-03-A",
+        "exam": "UPPRPB",
+        "post": "SI",
+        "subject": "Law",
+        "chapter": "Criminal Procedure",
+        "topic": "Forensics under BNSS",
+        "difficulty": "medium",
+        "type": "mcq",
+        "question": "Under Section 176(3) of Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023, forensic team visit to crime scene is mandatory for offences punishable with imprisonment of:",
+        "questionHi": "भारतीय नागरिक सुरक्षा संहिता (BNSS) 2023 की धारा 176(3) के तहत अपराध स्थल पर फोरेंसिक टीम का दौरा कितनी अवधि के कारावास वाले अपराधों में अनिवार्य है?",
+        "options": ["3 years or more", "5 years or more", "7 years or more", "Only capital punishment cases"],
+        "optionsHi": ["3 वर्ष या उससे अधिक", "5 वर्ष या उससे अधिक", "7 वर्ष या उससे अधिक", "केवल मृत्युदंड वाले मामलों में"],
+        "answer": 2,
+        "explanation": "Section 176(3) BNSS explicitly mandates forensic investigation for offences punishable with 7 years or more imprisonment.",
+        "explanationHi": "BNSS की धारा 176(3) के अनुसार 7 वर्ष या उससे अधिक सजा वाले सभी गंभीर अपराधों में फोरेंसिक टीम का घटनास्थल पर जाना अनिवार्य है।",
+        "sourceType": "original",
+        "reference": "BNSS 2023 Section 176(3)",
+        "tags": ["Law", "BNSS", "Forensics"]
+      }
+    ]
+  }
+]

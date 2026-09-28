@@ -1,0 +1,34 @@
+name: Scheduled Current Affairs Pipeline
+
+on:
+  schedule:
+    # Run daily at 02:00 UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-current-affairs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Validate Current Affairs Integrity
+        run: |
+          echo "Validating current affairs database schema..."
+          node -e "
+            const ca = require('./src/data/currentAffairs/currentAffairs.json');
+            console.log('Current Affairs items count:', ca.length);
+            ca.forEach(item => {
+              if (!item.id || !item.headline || !item.mcqs) {
+                throw new Error('Invalid CA item: ' + item.id);
+              }
+            });
+            console.log('Current affairs pipeline validated successfully.');
+          "

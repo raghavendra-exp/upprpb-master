@@ -1,0 +1,147 @@
+{
+  "id": "UPPRPB-RADIO-POLICE-2025",
+  "postKey": "radio-police",
+  "post": "Radio Police (Head Operator, Assistant Operator, Workshop Hand)",
+  "postHi": "रेडियो पुलिस (प्रधान परिचालक, सहायक परिचालक, कर्मशाला कर्मचारी)",
+  "cycle": "2024-2025",
+  "vacancies": 2430,
+  "status": "DV/PST",
+  "currentStage": "Document Verification, PST & PET Execution",
+  "currentStageHi": "अभिलेख संवीक्षा, शारीरिक मानक एवं दक्षता परीक्षा",
+  "officialSource": "https://uppbpb.gov.in/",
+  "notificationDate": "2022-01-06",
+  "lastVerified": "2026-09-24",
+  "version": "2026.1",
+  "stages": [
+    {
+      "id": "stage-notif",
+      "name": "Notification Released",
+      "nameHi": "विज्ञप्ति जारी",
+      "status": "completed",
+      "dateText": "Jan 2022"
+    },
+    {
+      "id": "stage-written",
+      "name": "Online Written Examination (CBT)",
+      "nameHi": "ऑनलाइन लिखित परीक्षा (सीबीटी)",
+      "status": "completed",
+      "dateText": "Jan-Feb 2024"
+    },
+    {
+      "id": "stage-anskey",
+      "name": "Answer Key & Objections",
+      "nameHi": "उत्तर कुंजी एवं आपत्तियां",
+      "status": "completed",
+      "dateText": "Feb 2024"
+    },
+    {
+      "id": "stage-result",
+      "name": "Written Result & Cutoff",
+      "nameHi": "लिखित परीक्षा परिणाम",
+      "status": "completed",
+      "dateText": "2024"
+    },
+    {
+      "id": "stage-dvpst",
+      "name": "DV & Physical Standard Test",
+      "nameHi": "दस्तावेज सत्यापन एवं शारीरिक मानक परीक्षण",
+      "status": "current",
+      "dateText": "Ongoing"
+    },
+    {
+      "id": "stage-pet",
+      "name": "Physical Efficiency Test (Running)",
+      "nameHi": "शारीरिक दक्षता परीक्षा (दौड़)",
+      "status": "upcoming",
+      "dateText": "Following DV/PST"
+    },
+    {
+      "id": "stage-final",
+      "name": "Final Selection List",
+      "nameHi": "अंतिम चयन सूची",
+      "status": "upcoming"
+    }
+  ],
+  "eligibility": {
+    "ageLimit": {
+      "min": 18,
+      "max": 28,
+      "relaxation": "5 years relaxation for SC/ST/OBC of UP",
+      "relaxationHi": "उत्तर प्रदेश के आरक्षित वर्ग हेतु 5 वर्ष की छूट"
+    },
+    "qualification": "Assistant Operator: 10+2 with Physics and Maths; Head Operator: 3-Year Diploma in Electronics/Telecommunication/Electrical/CS/IT; Workshop Hand: 10th + ITI certificate.",
+    "qualificationHi": "सहायक परिचालक: 10+2 (भौतिकी एवं गणित); प्रधान परिचालक: इलेक्ट्रॉनिक्स/दूरसंचार/सीएस में 3 वर्षीय डिप्लोमा; कर्मशाला: 10वीं + आईटीआई।",
+    "nationality": "Citizen of India",
+    "specialRequirements": [
+      "Technical proficiency in basic electronics and communication laws"
+    ],
+    "specialRequirementsHi": [
+      "बुनियादी इलेक्ट्रॉनिक्स, भौतिकी व संचार प्रणाली का तकनीकी ज्ञान"
+    ]
+  },
+  "examPattern": {
+    "mode": "Online (CBT)",
+    "totalQuestions": 160,
+    "totalMarks": 400,
+    "durationMinutes": 150,
+    "marksPerQuestion": 2.5,
+    "negativeMarking": 0,
+    "qualifyingCriteria": "Candidate must secure minimum 50% normalized marks in each section separately.",
+    "qualifyingCriteriaHi": "प्रत्येक विषय में पृथक-पृथक न्यूनतम 50% प्रसामान्यीकृत अंक प्राप्त करना अनिवार्य है।",
+    "sections": [
+      {
+        "id": "sec-hindi",
+        "name": "General Hindi",
+        "nameHi": "सामान्य हिन्दी",
+        "questions": 40,
+        "marks": 100
+      },
+      {
+        "id": "sec-science-gk",
+        "name": "Science / General Knowledge (Physics & Tech)",
+        "nameHi": "विज्ञान / सामान्य ज्ञान (भौतिक विज्ञान एवं तकनीक)",
+        "questions": 40,
+        "marks": 100
+      },
+      {
+        "id": "sec-maths",
+        "name": "Numerical & Mental Ability Test",
+        "nameHi": "संख्यात्मक एवं मानसिक योग्यता परीक्षा",
+        "questions": 40,
+        "marks": 100
+      },
+      {
+        "id": "sec-reasoning",
+        "name": "Mental Aptitude, IQ & Reasoning Test",
+        "nameHi": "मानसिक अभिरुचि / बुद्धिलब्धि / तार्किक परीक्षा",
+        "questions": 40,
+        "marks": 100
+      }
+    ]
+  },
+  "physical": [
+    {
+      "category": "PST",
+      "title": "Height (ऊंचाई)",
+      "titleHi": "ऊंचाई (Height)",
+      "maleGenObcSc": "168 cm",
+      "maleSt": "160 cm",
+      "femaleGenObcSc": "152 cm",
+      "femaleSt": "147 cm"
+    },
+    {
+      "category": "PET",
+      "title": "Running (दौड़)",
+      "titleHi": "दौड़ (PET)",
+      "maleGenObcSc": "4.8 km in 28 minutes",
+      "maleSt": "4.8 km in 28 minutes",
+      "femaleGenObcSc": "2.4 km in 16 minutes",
+      "femaleSt": "2.4 km in 16 minutes"
+    }
+  ],
+  "links": {
+    "officialNotification": "https://uppbpb.gov.in/",
+    "applyUrl": "https://uppbpb.gov.in/",
+    "syllabusPdf": "https://uppbpb.gov.in/"
+  }
+}

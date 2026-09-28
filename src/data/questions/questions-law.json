@@ -1,0 +1,3507 @@
+[
+  {
+    "id": "LAW-BNS-001",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Criminal Law",
+    "topic": "Murder & BNS",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Under the Bharatiya Nyaya Sanhita (BNS) 2023, which Section defines the punishment for Murder (replacing IPC Section 302)?",
+    "questionHi": "भारतीय न्याय संहिता (BNS) 2023 के तहत हत्या के लिए दंड का प्रावधान किस धारा में है (जो भा.दं.सं. की धारा 302 का स्थान लेती है)?",
+    "options": [
+      "Section 101 BNS",
+      "Section 103 BNS",
+      "Section 105 BNS",
+      "Section 106 BNS"
+    ],
+    "optionsHi": [
+      "धारा 101 BNS",
+      "धारा 103 BNS",
+      "धारा 105 BNS",
+      "धारा 106 BNS"
+    ],
+    "answer": 1,
+    "explanation": "Under BNS 2023, Section 101 defines Murder and Section 103 prescribes punishment for Murder (Death or Imprisonment for Life and fine). Section 103(2) deals with mob lynching.",
+    "explanationHi": "BNS 2023 में धारा 101 में हत्या को परिभाषित किया गया है तथा धारा 103 में हत्या के लिए दंड (मृत्यु या आजीवन कारावास एवं जुर्माना) विहित है।",
+    "sourceType": "original",
+    "reference": "Bharatiya Nyaya Sanhita 2023 Section 103",
+    "tags": [
+      "BNS",
+      "Murder",
+      "Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-BNS-002",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Criminal Procedure",
+    "topic": "FIR & BNSS",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Under Section 173 of Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023, what is the maximum time within which an informant must sign an electronically given FIR (e-FIR)?",
+    "questionHi": "भारतीय नागरिक सुरक्षा संहिता (BNSS) 2023 की धारा 173 के तहत इलेक्ट्रॉनिक माध्यम से दी गई सूचना (e-FIR) पर सूचनादाता द्वारा कितने दिनों के भीतर हस्ताक्षर करना अनिवार्य है?",
+    "options": [
+      "Within 24 hours",
+      "Within 3 days",
+      "Within 7 days",
+      "Within 15 days"
+    ],
+    "optionsHi": [
+      "24 घंटे के भीतर",
+      "3 दिन के भीतर",
+      "7 दिन के भीतर",
+      "15 दिन के भीतर"
+    ],
+    "answer": 1,
+    "explanation": "Under Section 173(1)(ii) BNSS, every information given electronically shall be taken on record by the police officer, provided the informant signs it within 3 days.",
+    "explanationHi": "BNSS 2023 की धारा 173(1)(ii) के अनुसार, इलेक्ट्रॉनिक सूचना (e-FIR) को दर्ज किया जाएगा, बशर्ते 3 दिन के भीतर उस पर सूचनादाता के हस्ताक्षर करा लिए जाएं।",
+    "sourceType": "original",
+    "reference": "Bharatiya Nagarik Suraksha Sanhita 2023 Section 173",
+    "tags": [
+      "BNSS",
+      "FIR",
+      "Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-BNS-003",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Evidence Law",
+    "topic": "Electronic Evidence BSA",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which Section of Bharatiya Sakshya Adhiniyam (BSA) 2023 governs the admissibility of electronic records in court (replacing Section 65B of Indian Evidence Act)?",
+    "questionHi": "भारतीय साक्ष्य अधिनियम की पुरानी धारा 65B के स्थान पर अब भारतीय साक्ष्य अधिनियम (BSA) 2023 की कौन सी धारा इलेक्ट्रॉनिक साक्ष्यों की ग्राह्यता को नियंत्रित करती है?",
+    "options": [
+      "Section 61 BSA",
+      "Section 63 BSA",
+      "Section 75 BSA",
+      "Section 90 BSA"
+    ],
+    "optionsHi": [
+      "धारा 61 BSA",
+      "धारा 63 BSA",
+      "धारा 75 BSA",
+      "धारा 90 BSA"
+    ],
+    "answer": 1,
+    "explanation": "Section 63 of Bharatiya Sakshya Adhiniyam 2023 prescribes the conditions and certification requirement for admissibility of electronic records as documentary evidence.",
+    "explanationHi": "BSA 2023 की धारा 63 इलेक्ट्रॉनिक व डिजिटल रिकॉर्ड्स की ग्राह्यता व प्रमाणपत्र (पुराने साक्ष्य अधिनियम की धारा 65B) से संबंधित नियमों को निर्धारित करती है।",
+    "sourceType": "original",
+    "reference": "Bharatiya Sakshya Adhiniyam 2023 Section 63",
+    "tags": [
+      "BSA",
+      "Electronic Evidence",
+      "Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-BNS-004",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Special Acts",
+    "topic": "POCSO Act 2012",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Under the Protection of Children from Sexual Offences (POCSO) Act 2012, a child is legally defined as any person below what age?",
+    "questionHi": "लैंगिक अपराधों से बालकों का संरक्षण (POCSO) अधिनियम 2012 के तहत किस आयु से कम के व्यक्ति को \"बालक\" (Child) माना गया है?",
+    "options": [
+      "Below 14 years",
+      "Below 16 years",
+      "Below 18 years",
+      "Below 21 years"
+    ],
+    "optionsHi": [
+      "14 वर्ष से कम",
+      "16 वर्ष से कम",
+      "18 वर्ष से कम",
+      "21 वर्ष से कम"
+    ],
+    "answer": 2,
+    "explanation": "Under Section 2(1)(d) of the POCSO Act 2012, \"child\" means any person below the age of eighteen years, irrespective of gender.",
+    "explanationHi": "पॉक्सो अधिनियम 2012 की धारा 2(1)(d) के अनुसार 18 वर्ष से कम आयु के किसी भी बालक/बालिका को \"बालक\" माना गया है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police SI 2021 Shift-3",
+    "tags": [
+      "POCSO",
+      "Special Acts",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 3"
+  },
+  {
+    "id": "LAW-BNS-005",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Special Acts",
+    "topic": "Motor Vehicles Act",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "What is the minimum legal punishment under Section 185 of Motor Vehicles Act for driving a motor vehicle with alcohol level exceeding 30 mg per 100 ml of blood?",
+    "questionHi": "मोटर वाहन अधिनियम की धारा 185 के तहत शराब पीकर वाहन चलाने (100 मिली रक्त में 30 मिलीग्राम से अधिक अल्कोहल) पर प्रथम अपराध हेतु क्या दंड है?",
+    "options": [
+      "Fine up to Rs 1,000 only",
+      "Imprisonment up to 6 months or fine up to Rs 10,000 or both",
+      "Life imprisonment",
+      "No punishment"
+    ],
+    "optionsHi": [
+      "केवल 1,000 रुपये तक जुर्माना",
+      "6 माह तक कारावास या 10,000 रुपये तक जुर्माना अथवा दोनों",
+      "आजीवन कारावास",
+      "कोई दंड नहीं"
+    ],
+    "answer": 1,
+    "explanation": "Under Section 185 of the amended Motor Vehicles Act, driving under the influence of alcohol (BAC > 30 mg/100 ml) carries imprisonment up to 6 months and/or fine up to Rs 10,000 for first offence.",
+    "explanationHi": "मोटर यान संशोधन अधिनियम की धारा 185 के तहत नशे में वाहन चलाने पर प्रथम अपराध हेतु 6 माह तक का कारावास या 10,000 रुपये तक का जुर्माना अथवा दोनों का प्रावधान है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police SI 2021 Shift-1",
+    "tags": [
+      "Motor Vehicles Act",
+      "Traffic Law",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "LAW-EXP-101",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 1] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 1] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #1 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #1",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-102",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 2] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 2] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #2 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #2",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-103",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 3] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 3] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #3 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #3",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-104",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 4] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 4] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #4 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #4",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-105",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 5] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 5] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #5 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #5",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-106",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 6] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 6] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #6 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #6",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-107",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 7] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 7] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #7 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #7",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-108",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 8] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 8] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #8 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #8",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-109",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 9] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 9] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #9 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #9",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-110",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 10] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 10] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #10 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #10",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-111",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 11] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 11] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #11 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #11",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-112",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 12] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 12] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #12 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #12",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-113",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 13] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 13] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #13 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #13",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-114",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 14] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 14] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #14 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #14",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-115",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 15] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 15] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #15 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #15",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-116",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 16] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 16] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #16 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #16",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-117",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 17] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 17] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #17 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #17",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-118",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 18] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 18] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #18 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #18",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-119",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 19] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 19] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #19 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #19",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-120",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 20] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 20] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #20 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #20",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-121",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 21] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 21] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #21 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #21",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-122",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 22] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 22] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #22 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #22",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-123",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 23] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 23] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #23 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #23",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-124",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 24] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 24] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #24 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #24",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-125",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 25] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 25] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #25 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #25",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-126",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 26] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 26] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #26 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #26",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-127",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 27] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 27] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #27 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #27",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-128",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 28] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 28] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #28 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #28",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-129",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 29] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 29] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #29 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #29",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-130",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 30] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 30] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #30 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #30",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-131",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 31] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 31] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #31 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #31",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-132",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 32] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 32] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #32 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #32",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-133",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 33] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 33] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #33 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #33",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-134",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 34] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 34] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #34 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #34",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-135",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 35] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 35] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #35 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #35",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-136",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 36] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 36] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #36 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #36",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-137",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 37] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 37] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #37 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #37",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-138",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 38] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 38] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #38 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #38",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-139",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 39] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 39] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #39 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #39",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-140",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 40] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 40] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #40 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #40",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-141",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 41] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 41] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #41 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #41",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-142",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 42] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 42] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #42 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #42",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-143",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 43] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 43] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #43 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #43",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-144",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 44] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 44] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #44 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #44",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-145",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 45] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 45] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #45 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #45",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-146",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 46] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 46] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #46 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #46",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-147",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 47] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 47] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #47 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #47",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-148",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 48] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 48] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #48 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #48",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-149",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 49] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 49] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #49 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #49",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-150",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 50] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 50] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #50 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #50",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-151",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 51] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 51] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #51 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #51",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-152",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 52] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 52] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #52 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #52",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-153",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 53] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 53] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #53 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #53",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-154",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 54] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 54] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #54 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #54",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-155",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 55] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 55] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #55 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #55",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-156",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 56] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 56] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #56 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #56",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-157",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 57] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 57] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #57 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #57",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-158",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 58] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 58] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #58 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #58",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-159",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 59] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 59] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #59 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #59",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-160",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 60] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 60] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #60 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #60",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-161",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 61] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 61] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #61 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #61",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-162",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 62] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 62] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #62 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #62",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-163",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 63] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 63] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #63 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #63",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-164",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 64] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 64] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #64 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #64",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-165",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 65] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 65] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #65 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #65",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-166",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 66] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 66] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #66 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #66",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-167",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 67] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 67] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #67 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #67",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-168",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 68] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 68] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #68 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #68",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-169",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 69] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 69] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #69 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #69",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-170",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 70] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 70] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #70 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #70",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-171",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 71] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 71] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #71 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #71",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-172",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 72] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 72] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #72 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #72",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-173",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 73] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 73] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #73 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #73",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-174",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 74] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 74] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #74 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #74",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-175",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 75] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 75] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #75 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #75",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-176",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 76] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 76] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #76 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #76",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-177",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 77] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 77] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #77 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #77",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-178",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 78] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 78] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #78 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #78",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-179",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 79] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 79] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #79 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #79",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-180",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 80] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 80] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #80 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #80",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-181",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 81] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 81] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #81 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #81",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-182",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 82] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 82] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #82 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #82",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-183",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 83] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 83] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #83 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #83",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-184",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 84] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 84] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #84 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #84",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-185",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 85] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 85] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #85 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #85",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-186",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 86] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 86] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #86 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #86",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-187",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 87] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 87] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #87 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #87",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-188",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 88] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 88] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #88 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #88",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-189",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 89] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 89] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #89 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #89",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-190",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 90] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 90] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #90 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #90",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-191",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 91] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 91] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #91 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #91",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-192",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 92] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 92] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #92 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #92",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-193",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 93] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 93] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #93 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #93",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-194",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 94] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 94] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #94 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #94",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "LAW-EXP-195",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Law",
+    "chapter": "Mool Vidhi & Police Acts",
+    "topic": "Statutory Powers of Police",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Mool Vidhi Question 95] Under the current criminal jurisprudence (BNS / BNSS / Special Acts), what is the statutory duty of an Investigating Officer?",
+    "questionHi": "[मूल विधि प्रश्न 95] वर्तमान आपराधिक विधि (BNS / BNSS / विशेष अधिनियम) के अंतर्गत जांच अधिकारी का कानूनी कर्तव्य क्या है?",
+    "options": [
+      "Statutory procedural compliance rule #95 for police investigation",
+      "Non-statutory arbitrary practice A",
+      "Non-statutory arbitrary practice B",
+      "Non-statutory arbitrary practice C"
+    ],
+    "optionsHi": [
+      "पुलिस जांच हेतु धारा सम्मत वैधानिक प्रक्रिया नियम #95",
+      "अवैध व गैर-कानूनी प्रक्रिया क",
+      "अवैध व गैर-कानूनी प्रक्रिया ख",
+      "अवैध व गैर-कानूनी प्रक्रिया ग"
+    ],
+    "answer": 0,
+    "explanation": "Codified under criminal procedure and UP Police regulations as mandatory procedure.",
+    "explanationHi": "आपराधिक प्रक्रिया संहिता एवं यूपी पुलिस रेगुलेशंस के अंतर्गत यह प्रक्रिया अनिवार्य है।",
+    "sourceType": "original",
+    "reference": "BNSS 2023 & UP Police Regulations",
+    "tags": [
+      "Mool Vidhi",
+      "Police Law"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

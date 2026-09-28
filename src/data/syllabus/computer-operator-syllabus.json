@@ -1,0 +1,138 @@
+{
+  "exam": "UP Police Computer Operator Grade-A & Programmer Grade-2",
+  "examHi": "उत्तर प्रदेश पुलिस कंप्यूटर ऑपरेटर ग्रेड-ए एवं प्रोग्रामर",
+  "officialReference": "UPPRPB Computer Cadre Official Syllabus",
+  "totalSections": 4,
+  "totalMarks": 200,
+  "subjects": [
+    {
+      "id": "comp-core",
+      "name": "Computer Science (Core - 80 Questions / 100 Marks)",
+      "nameHi": "कंप्यूटर विज्ञान (मुख्य विषय - 80 प्रश्न / 100 अंक)",
+      "marksWeightage": 100,
+      "questionCount": 80,
+      "chapters": [
+        {
+          "id": "cs-fundamentals",
+          "name": "Computer Fundamentals & Architecture",
+          "nameHi": "कंप्यूटर का इतिहास, संरचना एवं हार्डवेयर",
+          "topics": [
+            {
+              "id": "cs-hist-arch",
+              "name": "Evolution of Computers, Generations, CPU, RAM/ROM, Buses, I/O Devices",
+              "nameHi": "कंप्यूटर का विकास, पीढ़ियां, सीपीयू, मेमोरी संरचना एवं इनपुट/आउटपुट युक्तियां",
+              "importance": "high"
+            },
+            {
+              "id": "cs-boolean-number",
+              "name": "Number Systems (Binary, Octal, Hex) & Boolean Algebra Logic Gates",
+              "nameHi": "संख्या पद्धतियां (बाइनरी, ऑक्टल, हेक्सा) एवं बूलियन बीजगणित व लॉजिक गेट्स",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "cs-os-office",
+          "name": "Operating Systems & Office Automation",
+          "nameHi": "ऑपरेटिंग सिस्टम एवं ऑफिस ऑटोमेशन",
+          "topics": [
+            {
+              "id": "cs-os",
+              "name": "OS Architecture (Windows, Linux/Unix commands, Process Management)",
+              "nameHi": "विंडोज, लिनक्स एवं यूनिक्स कमांड्स, प्रोसेस शेड्यूलिंग व फाइल सिस्टम",
+              "importance": "high"
+            },
+            {
+              "id": "cs-office-tools",
+              "name": "MS Word, MS Excel Formulas, MS PowerPoint & Access Shortcuts",
+              "nameHi": "एमएस वर्ड, एक्सेल फॉर्मूले, पावरपॉइंट एवं एक्सेस शॉर्टकट कीज",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "cs-networking-security",
+          "name": "Computer Networks, Internet & Cyber Security",
+          "nameHi": "कंप्यूटर नेटवर्क, इंटरनेट एवं साइबर सुरक्षा",
+          "topics": [
+            {
+              "id": "cs-networks",
+              "name": "LAN, MAN, WAN, Topologies, OSI 7-Layer & TCP/IP Protocol Stack, IP Addressing",
+              "nameHi": "नेटवर्क टोपोलॉजी, ओएसआई 7-लेयर, टीसीपी/आईपी मॉडल एवं आईपी एड्रेसिंग (IPv4/IPv6)",
+              "importance": "high"
+            },
+            {
+              "id": "cs-cyber-sec",
+              "name": "Viruses, Worms, Trojan, Firewalls, Cryptography, IT Act 2000 & Cyber Crimes",
+              "nameHi": "वायरस, फ़ायरवॉल, एन्क्रिप्शन, आईटी एक्ट 2000 एवं साइबर अपराध",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "cs-dbms-prog",
+          "name": "DBMS & Programming Basics",
+          "nameHi": "डेटाबेस मैनेजमेंट सिस्टम एवं प्रोग्रामिंग अवधारणाएं",
+          "topics": [
+            {
+              "id": "cs-dbms",
+              "name": "Relational Model, SQL Queries (SELECT, INSERT, UPDATE, JOINs), Keys, Normalization",
+              "nameHi": "आरडीबीएमएस, एसक्यूएल क्वेरीज, प्राइमरी/फॉरेन कीज एवं नॉर्मलाइजेशन",
+              "importance": "high"
+            },
+            {
+              "id": "cs-data-structures",
+              "name": "Data Structures (Arrays, Stacks, Queues, Trees) & OOP Concepts",
+              "nameHi": "डेटा स्ट्रक्चर्स (ऐरे, स्टैक, क्यू) एवं ऑब्जेक्ट ओरिएंटेड प्रोग्रामिंग (OOPs)",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comp-gk-reas",
+      "name": "Reasoning & Mental Aptitude",
+      "nameHi": "तर्कशक्ति एवं मानसिक अभिरुचि",
+      "marksWeightage": 75,
+      "questionCount": 60,
+      "chapters": [
+        {
+          "id": "comp-reas",
+          "name": "Verbal & Non-Verbal Reasoning",
+          "nameHi": "तर्कशक्ति परीक्षण",
+          "topics": [
+            {
+              "id": "comp-reas-topics",
+              "name": "Coding-Decoding, Direction Sense, Series, Syllogism, Blood Relations",
+              "nameHi": "कोडिंग-डिकोडिंग, दिशा परीक्षण, श्रृंखला, रक्त संबंध",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comp-gen-gk",
+      "name": "General Knowledge",
+      "nameHi": "सामान्य ज्ञान",
+      "marksWeightage": 25,
+      "questionCount": 20,
+      "chapters": [
+        {
+          "id": "comp-gk",
+          "name": "General Awareness & UP Special",
+          "nameHi": "सामान्य ज्ञान एवं उत्तर प्रदेश",
+          "topics": [
+            {
+              "id": "comp-gk-topics",
+              "name": "Current Affairs, Indian Constitution, General Science & UP GK",
+              "nameHi": "समसामयिकी, भारतीय संविधान, सामान्य विज्ञान एवं यूपी ज्ञान",
+              "importance": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

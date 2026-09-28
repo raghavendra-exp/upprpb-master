@@ -1,0 +1,211 @@
+{
+  "exam": "UP Police Sub-Inspector (Civil Police) & Platoon Commander (PAC)",
+  "examHi": "उत्तर प्रदेश पुलिस उप-निरीक्षक (नागरिक पुलिस) एवं प्लाटून कमांडर (PAC)",
+  "officialReference": "UPPRPB SI Recruitment Notification & Service Manual Rules",
+  "totalSections": 4,
+  "totalMarks": 400,
+  "subjects": [
+    {
+      "id": "si-hindi",
+      "name": "General Hindi",
+      "nameHi": "सामान्य हिन्दी",
+      "marksWeightage": 100,
+      "questionCount": 40,
+      "chapters": [
+        {
+          "id": "si-hin-grammar",
+          "name": "Hindi Grammar, Vocabulary & Structure",
+          "nameHi": "हिन्दी व्याकरण, शब्दावली एवं रचना",
+          "topics": [
+            {
+              "id": "si-hin-tatsam",
+              "name": "Tatsam-Tadbhav, Deshaj, Videshi, Prefix & Suffix",
+              "nameHi": "तत्सम-तद्भव, देशज-विदेशज, उपसर्ग एवं प्रत्यय",
+              "importance": "high"
+            },
+            {
+              "id": "si-hin-sandhi",
+              "name": "Sandhi, Samas & Punctuation Marks",
+              "nameHi": "सन्धि, समास एवं विराम चिन्ह",
+              "importance": "high"
+            },
+            {
+              "id": "si-hin-karak",
+              "name": "Karak, Ling, Vachan, Sarvanam, Visheshan, Kriya & Kaal",
+              "nameHi": "कारक, लिंग, वचन, सर्वनाम, विशेषण, क्रिया एवं काल",
+              "importance": "high"
+            },
+            {
+              "id": "si-hin-alankar",
+              "name": "Rasa, Chhanda, Alankar & Poetic Devices",
+              "nameHi": "रस, छन्द एवं अलंकार का गहन अध्ययन",
+              "importance": "high"
+            },
+            {
+              "id": "si-hin-sahitya",
+              "name": "Hindi Literature, Eminent Poets, Authors & Prestigious Awards",
+              "nameHi": "हिन्दी साहित्य का इतिहास, प्रमुख रचनाएं एवं ज्ञानपीठ/साहित्य अकादमी पुरस्कार",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "si-law-const-gk",
+      "name": "Basic Law, Constitution & General Knowledge",
+      "nameHi": "मूल विधि / संविधान / सामान्य ज्ञान",
+      "marksWeightage": 100,
+      "questionCount": 40,
+      "chapters": [
+        {
+          "id": "si-mool-vidhi",
+          "name": "Basic Law (Mool Vidhi - मूल विधि)",
+          "nameHi": "मूल विधि (Basic Law)",
+          "topics": [
+            {
+              "id": "law-bns-ipc",
+              "name": "Criminal Law & Offences: Bharatiya Nyaya Sanhita (BNS) & IPC Historical Continuity",
+              "nameHi": "आपराधिक कानून: भारतीय न्याय संहिता (BNS) एवं भा.दं.सं. के प्रमुख अपराध व दंड",
+              "importance": "high",
+              "description": "General exceptions, right of private defence, murder, culpable homicide, sexual offences, theft, robbery, dacoity, cheating, cyber fraud."
+            },
+            {
+              "id": "law-bnss-crpc",
+              "name": "Criminal Procedure: BNSS & CrPC (FIR, Arrest, Search, Seizure & Remand)",
+              "nameHi": "आपराधिक प्रक्रिया संहिता (BNSS / CrPC): एफआईआर, बिना वारंट गिरफ्तारी, तलाशी, जब्ती व रिमांड",
+              "importance": "high",
+              "description": "Zero FIR, e-FIR, arrest guidelines under Section 35 BNSS, police remand rules."
+            },
+            {
+              "id": "law-special-acts",
+              "name": "Special & Local Acts for Police Officers",
+              "nameHi": "पुलिस अधिकारियों से संबंधित विशेष अधिनियम",
+              "importance": "high",
+              "description": "POCSO Act 2012, SC/ST Prevention of Atrocities Act 1989, Motor Vehicles Amendment Act, Protection of Human Rights Act 1993, Information Technology Act 2000, Dowry Prohibition Act 1961, Domestic Violence Act 2005, Wildlife Protection Act 1972, Environmental Protection Act 1986, Right to Information Act 2005 (RTI)."
+            }
+          ]
+        },
+        {
+          "id": "si-constitution",
+          "name": "Constitution of India (संविधान)",
+          "nameHi": "भारत का संविधान",
+          "topics": [
+            {
+              "id": "const-preamble-fr",
+              "name": "Constitutional Philosophy, Preamble & Fundamental Rights (Arts 12-35)",
+              "nameHi": "संविधान की उद्देशिका एवं मौलिक अधिकार (अनुच्छेद 12 से 35) तथा रिट अधिकारिता",
+              "importance": "high",
+              "ncertRef": "NCERT Class 11 Indian Constitution at Work"
+            },
+            {
+              "id": "const-dpsp-duties",
+              "name": "Directive Principles of State Policy (Arts 36-51) & Fundamental Duties (Art 51A)",
+              "nameHi": "राज्य के नीति निदेशक तत्व एवं मूल कर्तव्य",
+              "importance": "high"
+            },
+            {
+              "id": "const-exec-jud",
+              "name": "Union & State Executive, Parliament, Supreme Court & High Courts",
+              "nameHi": "संघीय व राज्य कार्यपालिका, संसद, उच्चतम न्यायालय एवं उच्च न्यायालय",
+              "importance": "high"
+            },
+            {
+              "id": "const-emergency-services",
+              "name": "Emergency Provisions (Arts 352-360), Amendments (Art 368) & All India Services",
+              "nameHi": "आपातकालीन उपबंध, संविधान संशोधन प्रक्रिया एवं अखिल भारतीय सेवाएं",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "si-general-gk",
+          "name": "General Knowledge & UP Special",
+          "nameHi": "सामान्य ज्ञान एवं उत्तर प्रदेश ज्ञान",
+          "topics": [
+            {
+              "id": "si-gk-eco-env",
+              "name": "Indian Economy, Agriculture, Trade, Environment & Urbanization",
+              "nameHi": "भारतीय अर्थव्यवस्था, कृषि, व्यापार, पर्यावरण एवं नगरीकरण",
+              "importance": "medium"
+            },
+            {
+              "id": "si-gk-up-spec",
+              "name": "Uttar Pradesh History, Culture, Police System & Revenue Administration",
+              "nameHi": "उत्तर प्रदेश का इतिहास, संस्कृति, पुलिस व्यवस्था एवं राजस्व प्रशासन",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "si-maths",
+      "name": "Numerical & Mental Ability Test",
+      "nameHi": "संख्यात्मक एवं मानसिक योग्यता परीक्षा",
+      "marksWeightage": 100,
+      "questionCount": 40,
+      "chapters": [
+        {
+          "id": "si-math-core",
+          "name": "Advanced Numerical Applications",
+          "nameHi": "संख्यात्मक अनुप्रयोग एवं अंकगणित",
+          "topics": [
+            {
+              "id": "si-num-arithmetic",
+              "name": "Percentage, Profit/Loss, SI/CI, Ratio & Proportion, Average",
+              "nameHi": "प्रतिशत, लाभ-हानि, साधारण व चक्रवृद्धि ब्याज, अनुपात व औसत",
+              "importance": "high"
+            },
+            {
+              "id": "si-num-time-work-dist",
+              "name": "Time & Work, Pipes, Time Speed & Distance, Relative Velocity",
+              "nameHi": "समय-कार्य, नल-टंकी, चाल-समय-दूरी एवं सापेक्ष चाल",
+              "importance": "high"
+            },
+            {
+              "id": "si-num-mensuration-di",
+              "name": "2D/3D Mensuration & Advanced Data Interpretation",
+              "nameHi": "क्षेत्रमिति एवं उच्च स्तरीय डेटा इंटरप्रिटेशन (DI)",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "si-reasoning",
+      "name": "Mental Aptitude, IQ & Reasoning Test",
+      "nameHi": "मानसिक अभिरुचि, बुद्धिलब्धि एवं तार्किक परीक्षा",
+      "marksWeightage": 100,
+      "questionCount": 40,
+      "chapters": [
+        {
+          "id": "si-reas-core",
+          "name": "Analytical Reasoning & Decision Making",
+          "nameHi": "विश्लेषणात्मक तर्कशक्ति एवं निर्णय क्षमता",
+          "topics": [
+            {
+              "id": "si-reas-police-apt",
+              "name": "Police Professionalism, Law & Order Management, Crime Prevention Mindset",
+              "nameHi": "पुलिस व्यावसायिकता, कानून-व्यवस्था प्रबंधन एवं अपराध निवारक सोच",
+              "importance": "high"
+            },
+            {
+              "id": "si-reas-logic-deduction",
+              "name": "Syllogisms, Statement-Inferences, Course of Action & Critical Reasoning",
+              "nameHi": "न्याय निगमन, कथन-निष्कर्ष, कार्यवाही के निर्णय एवं विश्लेषणात्मक तर्क",
+              "importance": "high"
+            },
+            {
+              "id": "si-reas-analytical",
+              "name": "Puzzles, Seating Arrangement, Machine Input-Output & Data Sufficiency",
+              "nameHi": "पहेलियां, बैठक व्यवस्था, मशीन इनपुट-आउटपुट एवं आंकड़ा पर्याप्तता",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

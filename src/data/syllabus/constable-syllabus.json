@@ -1,0 +1,427 @@
+{
+  "exam": "UP Police Constable (Civil Police & PAC)",
+  "examHi": "उत्तर प्रदेश पुलिस आरक्षी (नागरिक पुलिस एवं पीएसी)",
+  "officialReference": "UPPRPB Direct Recruitment Notice 2023-2024 / Syllabus Annexure-1",
+  "totalSections": 4,
+  "totalMarks": 300,
+  "subjects": [
+    {
+      "id": "gk",
+      "name": "General Knowledge",
+      "nameHi": "सामान्य ज्ञान",
+      "marksWeightage": 76,
+      "questionCount": 38,
+      "chapters": [
+        {
+          "id": "gk-science",
+          "name": "General Science",
+          "nameHi": "सामान्य विज्ञान",
+          "topics": [
+            {
+              "id": "sci-physics",
+              "name": "Basic Physics (Motion, Force, Energy, Light)",
+              "nameHi": "भौतिक विज्ञान (गति, बल, ऊर्जा, प्रकाश व ध्वनि)",
+              "importance": "high",
+              "ncertRef": "NCERT Class 9-10 Science (Chapters 8, 9, 10, 11)"
+            },
+            {
+              "id": "sci-bio",
+              "name": "Human Physiology, Health, Diseases & Vitamins",
+              "nameHi": "मानव शरीर क्रिया विज्ञान, पोषण, विटामिन एवं प्रमुख रोग",
+              "importance": "high",
+              "ncertRef": "NCERT Class 9-10 Biology"
+            },
+            {
+              "id": "sci-chem",
+              "name": "Everyday Chemistry, Acids, Bases & Metals",
+              "nameHi": "दैनिक जीवन में रसायन, अम्ल, क्षार व धातुएं",
+              "importance": "medium",
+              "ncertRef": "NCERT Class 10 Chemistry"
+            }
+          ]
+        },
+        {
+          "id": "gk-history",
+          "name": "History of India",
+          "nameHi": "भारत का इतिहास",
+          "topics": [
+            {
+              "id": "hist-ancient",
+              "name": "Indus Valley Civilization, Vedic Period & Buddhism/Jainism",
+              "nameHi": "सिंधु घाटी सभ्यता, वैदिक काल एवं बौद्ध/जैन धर्म",
+              "importance": "high",
+              "ncertRef": "NCERT Class 6 & 11 Our Pasts / Themes in Indian History I"
+            },
+            {
+              "id": "hist-medieval",
+              "name": "Delhi Sultanate, Mughal Empire & Architecture",
+              "nameHi": "दिल्ली सल्तनत, मुगल साम्राज्य एवं मध्यकालीन स्थापत्य",
+              "importance": "medium",
+              "ncertRef": "NCERT Class 7 & 12 Themes in Indian History II"
+            },
+            {
+              "id": "hist-modern",
+              "name": "Revolt of 1857 (Special focus on Meerut, Jhansi, Awadh)",
+              "nameHi": "1857 का प्रथम स्वतंत्रता संग्राम (मेरठ, झांसी, अवध केंद्र)",
+              "importance": "high",
+              "ncertRef": "NCERT Class 8 & 12 (Revolt of 1857)"
+            },
+            {
+              "id": "hist-freedom",
+              "name": "Indian National Movement (Gandhian Era & Revolutionaries)",
+              "nameHi": "भारतीय राष्ट्रीय आन्दोलन (गांधीवादी युग एवं प्रमुख क्रांतिकारी)",
+              "importance": "high",
+              "ncertRef": "NCERT Class 10 & 12 National Movement"
+            }
+          ]
+        },
+        {
+          "id": "gk-polity",
+          "name": "Indian Constitution & Polity",
+          "nameHi": "भारतीय संविधान एवं राज्यव्यवस्था",
+          "topics": [
+            {
+              "id": "pol-preamble-fr",
+              "name": "Preamble, Fundamental Rights, DPSP & Fundamental Duties",
+              "nameHi": "प्रस्तावना, मौलिक अधिकार, राज्य के नीति निदेशक तत्व व मूल कर्तव्य",
+              "importance": "high",
+              "ncertRef": "NCERT Class 11 Indian Constitution at Work (Chapters 1-3)"
+            },
+            {
+              "id": "pol-judiciary-exec",
+              "name": "President, Parliament, Governor, High Court & Supreme Court",
+              "nameHi": "राष्ट्रपति, संसद, राज्यपाल, उच्च न्यायालय व सर्वोच्च न्यायालय",
+              "importance": "high",
+              "ncertRef": "NCERT Class 11 Indian Constitution at Work (Chapters 4, 5, 6)"
+            },
+            {
+              "id": "pol-panchayat",
+              "name": "Panchayati Raj & 73rd/74th Constitutional Amendments",
+              "nameHi": "पंचायती राज व्यवस्था एवं 73वां/74वां संविधान संशोधन",
+              "importance": "high",
+              "ncertRef": "NCERT Class 11 Local Governments"
+            }
+          ]
+        },
+        {
+          "id": "gk-up",
+          "name": "Uttar Pradesh Special GK",
+          "nameHi": "उत्तर प्रदेश विशेष सामान्य ज्ञान",
+          "topics": [
+            {
+              "id": "up-geo",
+              "name": "UP Geography, Rivers, Canals, Soils, Wildlife & Dudhwa NP",
+              "nameHi": "उ.प्र. का भूगोल, प्रमुख नदियां, नहरें, मिट्टियां एवं दुधवा राष्ट्रीय उद्यान",
+              "importance": "high"
+            },
+            {
+              "id": "up-culture",
+              "name": "UP Culture, Folk Dances (Charkula, Nautanki, Raslila) & Fairs",
+              "nameHi": "उ.प्र. की कला-संस्कृति, लोकनृत्य (चरकुला, नौटंकी, रासलीला) व मेले (कुंभ, बटेश्वर)",
+              "importance": "high"
+            },
+            {
+              "id": "up-polity-admin",
+              "name": "UP Police & General Administrative System (Districts, Ranges, Zones)",
+              "nameHi": "उत्तर प्रदेश पुलिस एवं सामान्य प्रशासनिक व्यवस्था (जिले, रेंज, जोन संरचना)",
+              "importance": "high"
+            },
+            {
+              "id": "up-economy",
+              "name": "UP Agriculture, One District One Product (ODOP), Major Projects & Schemes",
+              "nameHi": "उ.प्र. कृषि, एक जिला एक उत्पाद (ODOP), एक्सप्रेसवे एवं प्रमुख योजनाएं",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "gk-security",
+          "name": "Internal Security, Cyber Crime & GST",
+          "nameHi": "आंतरिक सुरक्षा, साइबर अपराध एवं वस्तु व सेवा कर (GST)",
+          "topics": [
+            {
+              "id": "sec-cyber",
+              "name": "Cyber Crime, Social Media Communication & Digital Security",
+              "nameHi": "साइबर अपराध, सोशल मीडिया संचार एवं डिजिटल सुरक्षा उपाय",
+              "importance": "high"
+            },
+            {
+              "id": "sec-gst",
+              "name": "Goods and Services Tax (GST) & Demonetization Impact",
+              "nameHi": "वस्तु एवं सेवा कर (GST), ढांचा एवं विमुद्रीकरण और उसका प्रभाव",
+              "importance": "high"
+            },
+            {
+              "id": "sec-humanrights",
+              "name": "Human Rights & Police Ethics",
+              "nameHi": "मानवाधिकार एवं पुलिस नैतिकता",
+              "importance": "medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hindi",
+      "name": "General Hindi",
+      "nameHi": "सामान्य हिन्दी",
+      "marksWeightage": 74,
+      "questionCount": 37,
+      "chapters": [
+        {
+          "id": "hin-grammar",
+          "name": "Hindi Grammar Basics",
+          "nameHi": "हिन्दी व्याकरण का मौलिक ज्ञान",
+          "topics": [
+            {
+              "id": "hin-varnamala",
+              "name": "Hindi Varnamala, Vowels & Consonants (Swar/Vyanjan)",
+              "nameHi": "हिन्दी वर्णमाला, स्वर, व्यंजन एवं उच्चारण स्थान",
+              "importance": "high"
+            },
+            {
+              "id": "hin-shabd",
+              "name": "Tatsam-Tadbhav, Deshaj & Videshi Words",
+              "nameHi": "तद्भव-तत्सम, देशज एवं विदेशज शब्द",
+              "importance": "high"
+            },
+            {
+              "id": "hin-vocab",
+              "name": "Paryayvachi (Synonyms) & Vilom (Antonyms)",
+              "nameHi": "पर्यायवाची शब्द एवं विलोम शब्द",
+              "importance": "high"
+            },
+            {
+              "id": "hin-sandhi-samas",
+              "name": "Sandhi (Swara, Vyanjan, Visarga) & Samas",
+              "nameHi": "सन्धि (स्वर, व्यंजन, विसर्ग) एवं समास (षड्विध)",
+              "importance": "high"
+            },
+            {
+              "id": "hin-kriya-kal",
+              "name": "Kriya, Kaal, Vachya, Karak, Ling & Vachan",
+              "nameHi": "क्रिया, काल, वाच्य, कारक (8 प्रकार), लिंग एवं वचन",
+              "importance": "high"
+            },
+            {
+              "id": "hin-muhavare",
+              "name": "Muhavare एवं Lokoktiyan (Idioms & Proverbs)",
+              "nameHi": "मुहावरे एवं लोकोक्तियां तथा लोकोक्तियों का अर्थ",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "hin-kavya",
+          "name": "Rasa, Chhanda, Alankar & Literature",
+          "nameHi": "रस, छन्द, अलंकार एवं हिन्दी साहित्य",
+          "topics": [
+            {
+              "id": "hin-alankar",
+              "name": "Alankar (Shabdalankar & Arthalankar)",
+              "nameHi": "अलंकार (अनुप्रास, यमक, श्लेष, उपमा, रूपक, उत्प्रेक्षा आदि)",
+              "importance": "high"
+            },
+            {
+              "id": "hin-ras-chhand",
+              "name": "Rasa (9/11 types & Sthayibhav) & Chhanda (Doha, Chaupai, Rola)",
+              "nameHi": "रस (स्थायी भाव, विभाव, अनुभाव, संचारी भाव) एवं छन्द (दोहा, चौपाई, सोरठा)",
+              "importance": "high"
+            },
+            {
+              "id": "hin-sahitya",
+              "name": "Famous Authors, Poets, Works & Sahitya Akademi/Gyanpith Awards",
+              "nameHi": "प्रसिद्ध कवि, लेखक, रचनाएं एवं साहित्य अकादमी / ज्ञानपीठ पुरस्कार",
+              "importance": "high"
+            },
+            {
+              "id": "hin-gadyansh",
+              "name": "Unseen Passage (Apatith Bodh)",
+              "nameHi": "अपठित गद्यांश बोध एवं प्रश्नोत्तर",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths",
+      "name": "Numerical & Mental Ability",
+      "nameHi": "संख्यात्मक एवं मानसिक योग्यता",
+      "marksWeightage": 76,
+      "questionCount": 38,
+      "chapters": [
+        {
+          "id": "math-num",
+          "name": "Numerical Ability",
+          "nameHi": "संख्यात्मक योग्यता",
+          "topics": [
+            {
+              "id": "num-system",
+              "name": "Number System, Divisibility Rules & Remainder Theorem",
+              "nameHi": "संख्या पद्धति, विभाज्यता के नियम एवं इकाई अंक",
+              "importance": "high",
+              "ncertRef": "NCERT Class 9 Chapter 1 (Number Systems)"
+            },
+            {
+              "id": "num-simplification",
+              "name": "Simplification, BODMAS, Decimals & Fractions",
+              "nameHi": "सरलीकरण, बॉडमास नियम, दशमलव एवं भिन्न",
+              "importance": "high"
+            },
+            {
+              "id": "num-hcf-lcm",
+              "name": "HCF & LCM Applications",
+              "nameHi": "महत्तम समापवर्तक (HCF) एवं लघुत्तम समापवर्त्य (LCM)",
+              "importance": "high"
+            },
+            {
+              "id": "num-percentage",
+              "name": "Percentage (प्रतिशतता)",
+              "nameHi": "प्रतिशतता एवं उसके दैनिक अनुप्रयोग",
+              "importance": "high"
+            },
+            {
+              "id": "num-profit-loss",
+              "name": "Profit, Loss & Discount (लाभ, हानि एवं छूट)",
+              "nameHi": "लाभ, हानि, बट्टा एवं समतुल्य बट्टा",
+              "importance": "high"
+            },
+            {
+              "id": "num-interest",
+              "name": "Simple Interest (SI) & Compound Interest (CI)",
+              "nameHi": "साधारण ब्याज एवं चक्रवृद्धि ब्याज (अंतर सूत्र व किश्त)",
+              "importance": "high"
+            },
+            {
+              "id": "num-ratio-average",
+              "name": "Ratio, Proportion, Partnership & Average",
+              "nameHi": "अनुपात-समानुपात, साझेदारी एवं औसत",
+              "importance": "high"
+            },
+            {
+              "id": "num-time-work",
+              "name": "Time & Work, Pipes & Cisterns",
+              "nameHi": "समय और कार्य, नल और टंकी",
+              "importance": "high"
+            },
+            {
+              "id": "num-speed-distance",
+              "name": "Speed, Time, Distance, Trains & Boats/Streams",
+              "nameHi": "चाल, समय एवं दूरी, रेलगाड़ी तथा नाव-धारा",
+              "importance": "high"
+            },
+            {
+              "id": "num-mensuration",
+              "name": "Mensuration 2D & 3D (Area, Perimeter & Volume)",
+              "nameHi": "क्षेत्रमिति (त्रिभुज, आयत, वृत्त, बेलन, शंकु, गोला का क्षेत्रफल व आयतन)",
+              "importance": "high"
+            },
+            {
+              "id": "num-di",
+              "name": "Data Interpretation (Tables, Bar Graphs, Pie Charts)",
+              "nameHi": "सारणी और ग्राफ का प्रयोग (DI)",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Mental Aptitude, IQ & Reasoning Ability",
+      "nameHi": "मानसिक अभिरुचि, बुद्धिलब्धि एवं तार्किक क्षमता",
+      "marksWeightage": 74,
+      "questionCount": 37,
+      "chapters": [
+        {
+          "id": "reas-aptitude",
+          "name": "Mental Aptitude (Police Temperament)",
+          "nameHi": "मानसिक अभिरुचि (पुलिस स्वभाव एवं जन-हित)",
+          "topics": [
+            {
+              "id": "apt-law-order",
+              "name": "Public Interest, Law & Order, Communal Harmony",
+              "nameHi": "जनहित, कानून एवं शांति व्यवस्था, सांप्रदायिक सौहार्द",
+              "importance": "high"
+            },
+            {
+              "id": "apt-crime-control",
+              "name": "Crime Control, Rule of Law & Police System Structure",
+              "nameHi": "अपराध नियंत्रण, विधि का शासन एवं पुलिस प्रणाली",
+              "importance": "high"
+            },
+            {
+              "id": "apt-sensitivity",
+              "name": "Sensitivity towards Minorities, Underprivileged & Gender Sensitivity",
+              "nameHi": "अल्पसंख्यकों एवं वंचितों के प्रति संवेदनशीलता व लैंगिक संवेदनशीलता",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "reas-iq",
+          "name": "Intelligence Quotient (IQ)",
+          "nameHi": "बुद्धिलब्धि (IQ) परीक्षा",
+          "topics": [
+            {
+              "id": "iq-blood-rel",
+              "name": "Blood Relations (रक्त संबंध)",
+              "nameHi": "रक्त संबंध एवं पहेलियां",
+              "importance": "high"
+            },
+            {
+              "id": "iq-direction",
+              "name": "Direction Sense Test (दिशा ज्ञान परीक्षण)",
+              "nameHi": "दिशा एवं दूरी परीक्षण",
+              "importance": "high"
+            },
+            {
+              "id": "iq-coding",
+              "name": "Coding-Decoding & Alphabet Test",
+              "nameHi": "कोडिंग-डिकोडिंग एवं वर्णमाला परीक्षण",
+              "importance": "high"
+            },
+            {
+              "id": "iq-series",
+              "name": "Number Series, Letter Series & Missing Terms",
+              "nameHi": "संख्या श्रृंखला, अक्षर श्रृंखला एवं लुप्त पद",
+              "importance": "high"
+            },
+            {
+              "id": "iq-venn",
+              "name": "Venn Diagrams & Chart Type Tests",
+              "nameHi": "वेन आरेख एवं चार्ट सदृश परीक्षण",
+              "importance": "high"
+            }
+          ]
+        },
+        {
+          "id": "reas-logical",
+          "name": "Reasoning Ability (Verbal & Non-Verbal)",
+          "nameHi": "तार्किक क्षमता (भाषिक एवं अभाषिक)",
+          "topics": [
+            {
+              "id": "reas-syllogism",
+              "name": "Statement & Assumptions, Syllogisms & Arguments",
+              "nameHi": "कथन और तर्क, पूर्वधारणाएं एवं न्याय निगमन",
+              "importance": "high"
+            },
+            {
+              "id": "reas-analogy",
+              "name": "Analogy, Classification & Odd One Out",
+              "nameHi": "सादृश्यता, वर्गीकरण एवं विषम का चयन",
+              "importance": "high"
+            },
+            {
+              "id": "reas-nonverbal",
+              "name": "Mirror Image, Water Image, Paper Folding & Pattern Completion",
+              "nameHi": "दर्पण छवि, जल प्रतिबिम्ब, कागज मोड़ना-काटना एवं सन्निहित आकृतियां",
+              "importance": "high"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

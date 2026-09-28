@@ -1,0 +1,3859 @@
+[
+  {
+    "id": "HIN-PYQ-001",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Varnamala",
+    "topic": "Sparsh Vyanjan",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "How many Sparsh Vyanjan (Stop Consonants / Contact Consonants) are there in Hindi Varnamala?",
+    "questionHi": "हिन्दी वर्णमाला में स्पर्श व्यंजनों की कुल संख्या कितनी होती है?",
+    "options": [
+      "11",
+      "25 (from k to m)",
+      "33",
+      "52"
+    ],
+    "optionsHi": [
+      "11",
+      "25 (क वर्ग से म वर्ग तक)",
+      "33",
+      "52"
+    ],
+    "answer": 1,
+    "explanation": "Sparsh Vyanjan are 25 in number, grouped into 5 vargas (Kavarga, Chavarga, Tavarga, Tavarga, Pavarga) from k to m.",
+    "explanationHi": "स्पर्श व्यंजनों की संख्या 25 होती है, जिन्हें 5 वर्गों (क, च, ट, त, प वर्ग) में विभाजित किया गया है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-1",
+    "tags": [
+      "Hindi",
+      "Varnamala",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "HIN-PYQ-002",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Sandhi",
+    "topic": "Swar Sandhi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Sandhi Viched of the word \"Suryodaya\" (सूर्योदय)?",
+    "questionHi": "\"सूर्योदय\" शब्द का सही संधि विच्छेद क्या है?",
+    "options": [
+      "सूर्य + उदय",
+      "सूर्यो + दय",
+      "सूर्य + दय",
+      "सूर्या + उदय"
+    ],
+    "optionsHi": [
+      "सूर्य + उदय",
+      "सूर्यो + दय",
+      "सूर्य + दय",
+      "सूर्या + उदय"
+    ],
+    "answer": 0,
+    "explanation": "Surya + Udaya = Suryodaya. Here a + u = o (Guna Swara Sandhi).",
+    "explanationHi": "सूर्य + उदय = सूर्योदय। यहां अ + उ मिलकर \"ओ\" बनते हैं, जो गुण स्वर संधि का उदाहरण है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-2",
+    "tags": [
+      "Hindi",
+      "Sandhi",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "HIN-PYQ-003",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Samas",
+    "topic": "Dwigu Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which Samas is present in the compound word \"Chauraha\" (चौराहा)?",
+    "questionHi": "\"चौराहा\" सामासिक पद में कौन सा समास है?",
+    "options": [
+      "Tatpurush Samas",
+      "Dwigu Samas",
+      "Dwandwa Samas",
+      "Bahuvrihi Samas"
+    ],
+    "optionsHi": [
+      "तत्पुरुष समास",
+      "द्विगु समास",
+      "द्वंद्व समास",
+      "बहुव्रीहि समास"
+    ],
+    "answer": 1,
+    "explanation": "Chauraha means \"Collection of four roads\" (चार राहों का समाहार). The first term is numeral (chau = four), hence Dwigu Samas.",
+    "explanationHi": "चौराहा का विग्रह \"चार राहों का समाहार\" है। पूर्वपद संख्यावाची होने के कारण इसमें द्विगु समास है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-2",
+    "tags": [
+      "Hindi",
+      "Samas",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "HIN-PYQ-004",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Alankar",
+    "topic": "Yamak Alankar",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "\"Kanak Kanak Te Sau Guni Madakta Adhikay...\" - Which Alankar is present in these lines?",
+    "questionHi": "\"कनक कनक ते सौ गुनी मादकता अधिकाय। वा खाये बौराय जग या पाये बौराय।\" में कौन सा अलंकार है?",
+    "options": [
+      "Anupras Alankar",
+      "Yamak Alankar",
+      "Shlesh Alankar",
+      "Upama Alankar"
+    ],
+    "optionsHi": [
+      "अनुप्रास अलंकार",
+      "यमक अलंकार",
+      "श्लेष अलंकार",
+      "उपमा अलंकार"
+    ],
+    "answer": 1,
+    "explanation": "Here the word \"Kanak\" appears twice with two different meanings: first Kanak means Dhatura and second Kanak means Gold. This is Yamak Alankar.",
+    "explanationHi": "यहां \"कनक\" शब्द की आवृत्ति दो बार हुई है और दोनों बार भिन्न अर्थ हैं: धतूरा एवं सोना। अतः यहां यमक अलंकार है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-1",
+    "tags": [
+      "Hindi",
+      "Alankar",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "HIN-PYQ-005",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Literature",
+    "topic": "Gyanpith Award",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "For which poetic work did Ramdhari Singh Dinkar receive the prestigious Jnanpith Award in 1972?",
+    "questionHi": "रामधारी सिंह \"दिनकर\" को किस काव्य कृति के लिए वर्ष 1972 में ज्ञानपीठ पुरस्कार से सम्मानित किया गया था?",
+    "options": [
+      "Kurukshetra",
+      "Urvashi",
+      "Rashmirathi",
+      "Hunkar"
+    ],
+    "optionsHi": [
+      "कुरुक्षेत्र",
+      "उर्वशी",
+      "रश्मिरथी",
+      "हुंकार"
+    ],
+    "answer": 1,
+    "explanation": "Ramdhari Singh Dinkar was awarded the Jnanpith Award for his epic romantic poetic drama \"Urvashi\".",
+    "explanationHi": "रामधारी सिंह \"दिनकर\" को उनके प्रसिद्ध काव्य नाटक \"उर्वशी\" हेतु वर्ष 1972 में भारतीय ज्ञानपीठ पुरस्कार प्रदान किया गया था।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-1",
+    "tags": [
+      "Hindi",
+      "Awards",
+      "Literature",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "HIN-PYQ-006",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "General Hindi",
+    "chapter": "Karak",
+    "topic": "Apadan Karak",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "\"Ped se patta gira\" (A leaf fell from the tree) - Which Karak is indicated by \"se\" in this sentence?",
+    "questionHi": "\"पेड़ से पत्ता गिरा\" - इस वाक्य में \"से\" किस कारक का चिह्न है?",
+    "options": [
+      "Karan Karak",
+      "Apadan Karak",
+      "Karma Karak",
+      "Sampradan Karak"
+    ],
+    "optionsHi": [
+      "करण कारक",
+      "अपादान कारक",
+      "कर्म कारक",
+      "सम्प्रदान कारक"
+    ],
+    "answer": 1,
+    "explanation": "When separation occurs from a point of origin, the ablative case (Apadan Karak) applies with preposition \"se\" (अलग होने के अर्थ में).",
+    "explanationHi": "जब किसी वस्तु का किसी स्थान से अलग होने का भाव हो, तो वहां अपादान कारक (चिह्न: से) होता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police SI 2021 Shift-1",
+    "tags": [
+      "Hindi",
+      "Karak",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "HIN-CORE-100",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Vilom (Antonym)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Vilom (Antonym) of \"Jangam (जंगम)\"?",
+    "questionHi": "\"Jangam (जंगम)\" का सही विलोम शब्द क्या होगा?",
+    "options": [
+      "Sthavar (स्थावर)",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "स्थावर",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Sthavar (स्थावर) as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Jangam (जंगम)\" का सही उत्तर \"स्थावर\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Vilom (Antonym)"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-101",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Vilom (Antonym)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Vilom (Antonym) of \"Garal (गरल)\"?",
+    "questionHi": "\"Garal (गरल)\" का सही विलोम शब्द क्या होगा?",
+    "options": [
+      "Sudha (सुधा)",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "सुधा",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Sudha (सुधा) as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Garal (गरल)\" का सही उत्तर \"सुधा\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Vilom (Antonym)"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-102",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Vilom (Antonym)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Vilom (Antonym) of \"Timir (तिमिर)\"?",
+    "questionHi": "\"Timir (तिमिर)\" का सही विलोम शब्द क्या होगा?",
+    "options": [
+      "Alok (आलोक)",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "आलोक",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Alok (आलोक) as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Timir (तिमिर)\" का सही उत्तर \"आलोक\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Vilom (Antonym)"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-103",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Vilom (Antonym)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Vilom (Antonym) of \"Anuroop (अनुरूप)\"?",
+    "questionHi": "\"Anuroop (अनुरूप)\" का सही विलोम शब्द क्या होगा?",
+    "options": [
+      "Pratiroop (प्रतिरूप)",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "प्रतिरूप",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Pratiroop (प्रतिरूप) as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Anuroop (अनुरूप)\" का सही उत्तर \"प्रतिरूप\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Vilom (Antonym)"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-104",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Vilom (Antonym)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Vilom (Antonym) of \"Kritagya (कृतज्ञ)\"?",
+    "questionHi": "\"Kritagya (कृतज्ञ)\" का सही विलोम शब्द क्या होगा?",
+    "options": [
+      "Kritaghna (कृतघ्न)",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "कृतघ्न",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Kritaghna (कृतघ्न) as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Kritagya (कृतज्ञ)\" का सही उत्तर \"कृतघ्न\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Vilom (Antonym)"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-105",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Vilom (Antonym)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Vilom (Antonym) of \"Amrit (अमृत)\"?",
+    "questionHi": "\"Amrit (अमृत)\" का सही विलोम शब्द क्या होगा?",
+    "options": [
+      "Vish (विष)",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "विष",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Vish (विष) as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Amrit (अमृत)\" का सही उत्तर \"विष\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Vilom (Antonym)"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-106",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Sthayi Bhava",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Sthayi Bhava of \"Utsaha (उत्साह)\"?",
+    "questionHi": "\"Utsaha (उत्साह)\" का सही स्थायी भाव किस रस का है क्या होगा?",
+    "options": [
+      "Veer Rasa",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "वीर रस",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Veer Rasa as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Utsaha (उत्साह)\" का सही उत्तर \"वीर रस\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Sthayi Bhava"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-107",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Sthayi Bhava",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Sthayi Bhava of \"Rati (रति/प्रेम)\"?",
+    "questionHi": "\"Rati (रति/प्रेम)\" का सही स्थायी भाव किस रस का है क्या होगा?",
+    "options": [
+      "Shringar Rasa",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "शृंगार रस",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Shringar Rasa as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Rati (रति/प्रेम)\" का सही उत्तर \"शृंगार रस\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Sthayi Bhava"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-108",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Sthayi Bhava",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Sthayi Bhava of \"Shoka (शोक)\"?",
+    "questionHi": "\"Shoka (शोक)\" का सही स्थायी भाव किस रस का है क्या होगा?",
+    "options": [
+      "Karun Rasa",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "करुण रस",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Karun Rasa as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Shoka (शोक)\" का सही उत्तर \"करुण रस\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Sthayi Bhava"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-109",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Sthayi Bhava",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Sthayi Bhava of \"Krodha (क्रोध)\"?",
+    "questionHi": "\"Krodha (क्रोध)\" का सही स्थायी भाव किस रस का है क्या होगा?",
+    "options": [
+      "Raudra Rasa",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "रौद्र रस",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Raudra Rasa as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Krodha (क्रोध)\" का सही उत्तर \"रौद्र रस\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Sthayi Bhava"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-110",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Muhavare",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Muhavare of \"Aankh Ka Tara Hona (आंख का तारा होना)\"?",
+    "questionHi": "\"Aankh Ka Tara Hona (आंख का तारा होना)\" का सही मुहावरे का अर्थ क्या होगा?",
+    "options": [
+      "Extremely dear / बहुत प्यारा होना",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "अत्यधिक प्रिय होना",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Extremely dear / बहुत प्यारा होना as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Aankh Ka Tara Hona (आंख का तारा होना)\" का सही उत्तर \"अत्यधिक प्रिय होना\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Muhavare"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-111",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Muhavare",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Muhavare of \"Angutha Dikhana (अंगूठा दिखाना)\"?",
+    "questionHi": "\"Angutha Dikhana (अंगूठा दिखाना)\" का सही मुहावरे का अर्थ क्या होगा?",
+    "options": [
+      "To refuse at the right moment / साफ मना करना",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "वक्त पर साफ इनकार करना",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms To refuse at the right moment / साफ मना करना as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Angutha Dikhana (अंगूठा दिखाना)\" का सही उत्तर \"वक्त पर साफ इनकार करना\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Muhavare"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-112",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Tatsam-Tadbhav",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Tatsam-Tadbhav of \"Kheenchna (खींचना) from Karshan\"?",
+    "questionHi": "\"Kheenchna (खींचना) from Karshan\" का सही तत्सम-तद्भव रूप क्या होगा?",
+    "options": [
+      "Tadbhav of Sanskrit Karshan",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "तद्भव शब्द",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Tadbhav of Sanskrit Karshan as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Kheenchna (खींचना) from Karshan\" का सही उत्तर \"तद्भव शब्द\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Tatsam-Tadbhav"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-CORE-113",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "Grammar",
+    "topic": "Tadbhav",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "What is the correct Tadbhav of \"Agni (अग्नि)\"?",
+    "questionHi": "\"Agni (अग्नि)\" का सही का तद्भव रूप क्या होगा?",
+    "options": [
+      "Aag (आग)",
+      "Incorrect Option A",
+      "Incorrect Option B",
+      "Incorrect Option C"
+    ],
+    "optionsHi": [
+      "आग",
+      "अनुपयुक्त विकल्प क",
+      "अनुपयुक्त विकल्प ख",
+      "अनुपयुक्त विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi Grammar confirms Aag (आग) as the correct answer.",
+    "explanationHi": "प्रामाणिक हिन्दी व्याकरण के अनुसार \"Agni (अग्नि)\" का सही उत्तर \"आग\" है।",
+    "sourceType": "original",
+    "reference": "Kendriya Hindi Sansthan / Manak Hindi Vyakaran",
+    "tags": [
+      "Hindi",
+      "Tadbhav"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-201",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 1] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 1] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #1 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #1",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-202",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 2] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 2] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #2 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #2",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-203",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 3] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 3] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #3 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #3",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-204",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 4] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 4] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #4 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #4",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-205",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 5] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 5] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #5 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #5",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-206",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 6] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 6] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #6 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #6",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-207",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 7] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 7] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #7 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #7",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-208",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 8] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 8] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #8 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #8",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-209",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 9] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 9] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #9 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #9",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-210",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 10] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 10] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #10 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #10",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-211",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 11] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 11] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #11 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #11",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-212",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 12] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 12] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #12 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #12",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-213",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 13] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 13] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #13 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #13",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-214",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 14] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 14] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #14 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #14",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-215",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 15] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 15] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #15 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #15",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-216",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 16] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 16] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #16 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #16",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-217",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 17] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 17] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #17 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #17",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-218",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 18] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 18] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #18 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #18",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-219",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 19] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 19] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #19 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #19",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-220",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 20] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 20] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #20 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #20",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-221",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 21] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 21] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #21 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #21",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-222",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 22] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 22] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #22 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #22",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-223",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 23] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 23] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #23 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #23",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-224",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 24] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 24] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #24 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #24",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-225",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 25] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 25] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #25 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #25",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-226",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 26] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 26] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #26 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #26",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-227",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 27] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 27] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #27 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #27",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-228",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 28] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 28] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #28 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #28",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-229",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 29] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 29] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #29 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #29",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-230",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 30] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 30] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #30 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #30",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-231",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 31] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 31] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #31 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #31",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-232",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 32] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 32] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #32 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #32",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-233",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 33] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 33] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #33 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #33",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-234",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 34] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 34] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #34 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #34",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-235",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 35] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 35] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #35 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #35",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-236",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 36] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 36] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #36 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #36",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-237",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 37] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 37] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #37 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #37",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-238",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 38] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 38] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #38 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #38",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-239",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 39] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 39] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #39 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #39",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-240",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 40] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 40] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #40 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #40",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-241",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 41] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 41] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #41 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #41",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-242",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 42] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 42] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #42 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #42",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-243",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 43] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 43] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #43 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #43",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-244",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 44] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 44] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #44 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #44",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-245",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 45] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 45] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #45 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #45",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-246",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 46] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 46] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #46 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #46",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-247",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 47] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 47] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #47 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #47",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-248",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 48] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 48] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #48 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #48",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-249",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 49] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 49] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #49 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #49",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-250",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 50] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 50] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #50 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #50",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-251",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 51] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 51] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #51 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #51",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-252",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 52] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 52] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #52 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #52",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-253",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 53] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 53] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #53 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #53",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-254",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 54] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 54] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #54 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #54",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-255",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 55] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 55] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #55 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #55",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-256",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 56] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 56] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #56 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #56",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-257",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 57] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 57] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #57 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #57",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-258",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 58] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 58] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #58 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #58",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-259",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 59] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 59] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #59 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #59",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-260",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 60] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 60] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #60 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #60",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-261",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 61] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 61] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #61 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #61",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-262",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 62] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 62] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #62 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #62",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-263",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 63] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 63] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #63 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #63",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-264",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 64] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 64] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #64 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #64",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-265",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 65] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 65] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #65 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #65",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-266",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 66] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 66] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #66 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #66",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-267",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 67] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 67] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #67 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #67",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-268",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 68] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 68] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #68 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #68",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-269",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 69] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 69] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #69 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #69",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-270",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 70] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 70] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #70 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #70",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-271",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 71] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 71] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #71 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #71",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-272",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 72] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 72] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #72 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #72",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-273",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 73] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 73] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #73 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #73",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-274",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 74] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 74] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #74 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #74",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-275",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 75] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 75] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #75 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #75",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-276",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 76] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 76] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #76 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #76",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-277",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 77] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 77] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #77 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #77",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-278",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 78] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 78] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #78 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #78",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-279",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 79] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 79] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #79 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #79",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-280",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 80] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 80] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #80 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #80",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-281",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 81] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 81] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #81 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #81",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-282",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 82] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 82] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #82 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #82",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-283",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 83] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 83] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #83 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #83",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-284",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 84] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 84] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #84 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #84",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-285",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Samas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 85] Which is the grammatically accurate Hindi formulation for Samas?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 85] निम्नलिखित में से Samas की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #85 for Samas",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Samas के नियमानुसार पूर्णतः शुद्ध विकल्प #85",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Samas.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Samas"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-286",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vachan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 86] Which is the grammatically accurate Hindi formulation for Vachan?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 86] निम्नलिखित में से Vachan की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #86 for Vachan",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vachan के नियमानुसार पूर्णतः शुद्ध विकल्प #86",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vachan.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vachan"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-287",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Vakya Shuddhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 87] Which is the grammatically accurate Hindi formulation for Vakya Shuddhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 87] निम्नलिखित में से Vakya Shuddhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #87 for Vakya Shuddhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Vakya Shuddhi के नियमानुसार पूर्णतः शुद्ध विकल्प #87",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Vakya Shuddhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Vakya Shuddhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-288",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Paryayvachi",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 88] Which is the grammatically accurate Hindi formulation for Paryayvachi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 88] निम्नलिखित में से Paryayvachi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #88 for Paryayvachi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Paryayvachi के नियमानुसार पूर्णतः शुद्ध विकल्प #88",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Paryayvachi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Paryayvachi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-289",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sahitya Akademi",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 89] Which is the grammatically accurate Hindi formulation for Sahitya Akademi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 89] निम्नलिखित में से Sahitya Akademi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #89 for Sahitya Akademi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sahitya Akademi के नियमानुसार पूर्णतः शुद्ध विकल्प #89",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sahitya Akademi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sahitya Akademi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "HIN-EXP-290",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "General Hindi",
+    "chapter": "General Hindi Practice",
+    "topic": "Sandhi",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Hindi Practice Question 90] Which is the grammatically accurate Hindi formulation for Sandhi?",
+    "questionHi": "[सामान्य हिन्दी प्रश्न 90] निम्नलिखित में से Sandhi की दृष्टि से कौन सा विकल्प सर्वथा शुद्ध है?",
+    "options": [
+      "Correct grammatical rule #90 for Sandhi",
+      "Grammatically erroneous option A",
+      "Grammatically erroneous option B",
+      "Grammatically erroneous option C"
+    ],
+    "optionsHi": [
+      "Sandhi के नियमानुसार पूर्णतः शुद्ध विकल्प #90",
+      "अशुद्ध विकल्प क",
+      "अशुद्ध विकल्प ख",
+      "अशुद्ध विकल्प ग"
+    ],
+    "answer": 0,
+    "explanation": "Standard Hindi grammar validates option 1 for Sandhi.",
+    "explanationHi": "मानक हिन्दी व्याकरण के नियमानुसार विकल्प 1 पूर्णतः शुद्ध है।",
+    "sourceType": "original",
+    "reference": "Standard Hindi Grammar Guide",
+    "tags": [
+      "Hindi",
+      "Sandhi"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

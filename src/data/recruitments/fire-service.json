@@ -1,0 +1,114 @@
+{
+  "id": "UPPRPB-FIRE-SERVICE-2025",
+  "postKey": "fire-service",
+  "post": "Fireman (अग्निशमन विभाग)",
+  "postHi": "अग्निशामक (उत्तर प्रदेश अग्निशमन सेवा)",
+  "cycle": "2025-2026",
+  "vacancies": 2060,
+  "status": "UPCOMING",
+  "currentStage": "Notification Preparation & Service Rules Alignment",
+  "currentStageHi": "विज्ञप्ति प्रारूप एवं सेवा नियमावली समन्वय",
+  "officialSource": "https://uppbpb.gov.in/",
+  "notificationDate": "2025-11-01",
+  "lastVerified": "2026-09-24",
+  "version": "2026.1",
+  "stages": [
+    {
+      "id": "stage-notif",
+      "name": "Notification Release",
+      "nameHi": "विस्तृत विज्ञापन",
+      "status": "upcoming",
+      "dateText": "Late 2026"
+    },
+    {
+      "id": "stage-written",
+      "name": "Written Examination (OMR)",
+      "nameHi": "लिखित परीक्षा (ओएमआर)",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-pet",
+      "name": "Physical Efficiency Test",
+      "nameHi": "शारीरिक दक्षता परीक्षा (दौड़)",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-final",
+      "name": "Final Selection",
+      "nameHi": "अंतिम चयन",
+      "status": "upcoming"
+    }
+  ],
+  "eligibility": {
+    "ageLimit": {
+      "min": 18,
+      "max": 22,
+      "relaxation": "5 years relaxation for SC/ST/OBC of UP",
+      "relaxationHi": "उत्तर प्रदेश के आरक्षित वर्ग हेतु 5 वर्ष की छूट"
+    },
+    "qualification": "Passed 10+2 (Intermediate) examination from recognized Board.",
+    "qualificationHi": "मान्यता प्राप्त बोर्ड से 10+2 (इंटरमीडिएट) उत्तीर्ण।",
+    "nationality": "Citizen of India"
+  },
+  "examPattern": {
+    "mode": "Offline (OMR)",
+    "totalQuestions": 150,
+    "totalMarks": 300,
+    "durationMinutes": 120,
+    "marksPerQuestion": 2,
+    "negativeMarking": 0.5,
+    "sections": [
+      {
+        "id": "sec-gk",
+        "name": "General Knowledge & Disaster Safety",
+        "nameHi": "सामान्य ज्ञान एवं आपदा सुरक्षा",
+        "questions": 38,
+        "marks": 76
+      },
+      {
+        "id": "sec-hindi",
+        "name": "General Hindi",
+        "nameHi": "सामान्य हिन्दी",
+        "questions": 37,
+        "marks": 74
+      },
+      {
+        "id": "sec-maths",
+        "name": "Numerical & Mental Ability",
+        "nameHi": "संख्यात्मक एवं मानसिक योग्यता",
+        "questions": 38,
+        "marks": 76
+      },
+      {
+        "id": "sec-reasoning",
+        "name": "Mental Aptitude & Reasoning",
+        "nameHi": "मानसिक अभिरुचि एवं तार्किक क्षमता",
+        "questions": 37,
+        "marks": 74
+      }
+    ]
+  },
+  "physical": [
+    {
+      "category": "PST",
+      "title": "Height (ऊंचाई) - Male",
+      "titleHi": "ऊंचाई (केवल पुरुष)",
+      "maleGenObcSc": "168 cm",
+      "maleSt": "160 cm",
+      "femaleGenObcSc": "Not Applicable (Fireman posts typically male)",
+      "femaleSt": "Not Applicable"
+    },
+    {
+      "category": "PET",
+      "title": "Running (दौड़)",
+      "titleHi": "दौड़ (PET)",
+      "maleGenObcSc": "4.8 km in 25 minutes",
+      "maleSt": "4.8 km in 25 minutes",
+      "femaleGenObcSc": "Not Applicable",
+      "femaleSt": "Not Applicable"
+    }
+  ],
+  "links": {
+    "officialNotification": "https://uppbpb.gov.in/"
+  }
+}

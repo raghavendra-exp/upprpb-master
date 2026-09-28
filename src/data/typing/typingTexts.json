@@ -1,0 +1,57 @@
+{
+  "qualifyingCriteria": {
+    "asiClerk": {
+      "hindiWpm": 25,
+      "hindiFont": "Inscript / Unicode (Mangal)",
+      "englishWpm": 30,
+      "minAccuracy": 85
+    },
+    "asiAccounts": {
+      "hindiWpm": 15,
+      "hindiFont": "Inscript / Unicode (Mangal)",
+      "englishWpm": 0,
+      "minAccuracy": 85
+    },
+    "computerOperator": {
+      "hindiWpm": 25,
+      "hindiFont": "Inscript / Unicode (Mangal)",
+      "englishWpm": 30,
+      "minAccuracy": 85
+    },
+    "siConfidential": {
+      "hindiShorthandWpm": 80,
+      "hindiTypingWpm": 25,
+      "englishTypingWpm": 30
+    }
+  },
+  "passages": [
+    {
+      "id": "type-hi-01",
+      "language": "hindi",
+      "title": "उत्तर प्रदेश पुलिस एवं आंतरिक सुरक्षा (अभ्यास 1)",
+      "difficulty": "medium",
+      "text": "उत्तर प्रदेश पुलिस देश का सबसे बड़ा नागरिक पुलिस बल है। राज्य की विशाल जनसंख्या और विविधता के बीच शांति एवं कानून व्यवस्था बनाए रखना इसका प्रमुख ध्येय है। आधुनिक तकनीक, डायल 112 आपातकालीन सेवा, महिला सुरक्षा दल तथा साइबर अपराध रोकथाम इकाइयों के माध्यम से पुलिस बल नागरिकों की सेवा में निरंतर तत्पर रहता है। निष्पक्ष अन्वेषण और त्वरित न्याय सुनिश्चित करना प्रत्येक पुलिस अधिकारी का वैधानिक उत्तरदायित्व है।"
+    },
+    {
+      "id": "type-hi-02",
+      "language": "hindi",
+      "title": "डिजिटल साक्ष्य एवं नवीन आपराधिक विधियां (अभ्यास 2)",
+      "difficulty": "hard",
+      "text": "भारतीय नागरिक सुरक्षा संहिता तथा भारतीय साक्ष्य अधिनियम के अंतर्गत अन्वेषण प्रक्रिया में वैज्ञानिक विधियों का समावेशन अनिवार्य किया गया है। गंभीर अपराधों में घटनास्थल पर फोरेंसिक विशेषज्ञों की उपस्थिति एवं तलाशी व जब्ती के समय ऑडियो-वीडियो रिकॉर्डिंग साक्ष्य की विश्वसनीयता को सुदृढ़ करती है। पारदर्शी कार्यप्रणाली से न्याय व्यवस्था के प्रति जनमानस का विश्वास और अधिक प्रगाढ़ होता है।"
+    },
+    {
+      "id": "type-en-01",
+      "language": "english",
+      "title": "Modern Police Administration in Uttar Pradesh (Practice 1)",
+      "difficulty": "medium",
+      "text": "The primary objective of the Uttar Pradesh Police is to protect life, liberty, and property of all citizens through professional and ethical law enforcement. With the implementation of integrated computerized dispatch systems, state-of-the-art forensic laboratories, and dedicated cyber crime stations across every district, policing has transitioned into an intelligence-led scientific framework."
+    },
+    {
+      "id": "type-en-02",
+      "language": "english",
+      "title": "Role of Police in Disaster and Emergency Management (Practice 2)",
+      "difficulty": "hard",
+      "text": "Emergency preparedness requires relentless training, swift coordination between civic agencies, and instant mobilization of response units. During natural calamities, large public gatherings, and highway emergencies, trained police personnel demonstrate exemplary courage and organizational resilience to minimize human casualty and secure public infrastructure."
+    }
+  ]
+}

@@ -1,0 +1,3683 @@
+[
+  {
+    "id": "POL-PYQ-001",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Fundamental Rights",
+    "topic": "Right to Constitutional Remedies",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which Article of the Indian Constitution was termed by Dr. B.R. Ambedkar as the \"Heart and Soul of the Constitution\"?",
+    "questionHi": "डॉ. बी.आर. अम्बेडकर ने भारतीय संविधान के किस अनुच्छेद को \"संविधान का हृदय और आत्मा\" कहा था?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    "optionsHi": [
+      "अनुच्छेद 14",
+      "अनुच्छेद 19",
+      "अनुच्छेद 21",
+      "अनुच्छेद 32"
+    ],
+    "answer": 3,
+    "explanation": "Dr. Ambedkar called Article 32 (Right to Constitutional Remedies) the heart and soul because it empowers citizens to directly approach the Supreme Court for enforcement of fundamental rights.",
+    "explanationHi": "डॉ. अम्बेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को संविधान का हृदय और आत्मा कहा क्योंकि यह मूल अधिकारों के संरक्षण हेतु शीर्ष अदालत का दरवाजा खटखटाने की शक्ति देता है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-1",
+    "tags": [
+      "Constitution",
+      "Fundamental Rights",
+      "Article 32",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "POL-PYQ-002",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Writs",
+    "topic": "Habeas Corpus",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which writ literally means \"To have the body of\" and is issued against illegal detention of a person?",
+    "questionHi": "किस रिट (Writ) का शाब्दिक अर्थ \"सशरीर प्रस्तुत किया जाए\" होता है, जो किसी व्यक्ति को अवैध हिरासत से मुक्त कराने हेतु जारी की जाती है?",
+    "options": [
+      "Mandamus (परमादेश)",
+      "Habeas Corpus (बंदी प्रत्यक्षीकरण)",
+      "Quo-Warranto (अधिकार पृच्छा)",
+      "Certiorari (उत्प्रेषण)"
+    ],
+    "optionsHi": [
+      "परमादेश",
+      "बंदी प्रत्यक्षीकरण",
+      "अधिकार पृच्छा",
+      "उत्प्रेषण"
+    ],
+    "answer": 1,
+    "explanation": "Habeas Corpus is a Latin term meaning \"You may have the body\". It protects individual liberty against unlawful detention by the State or private individuals.",
+    "explanationHi": "बंदी प्रत्यक्षीकरण (Habeas Corpus) का अर्थ है \"व्यक्ति को सशरीर न्यायालय के समक्ष प्रस्तुत किया जाए\"। यह गैर-कानूनी गिरफ्तारी से रक्षा करती है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police SI 2021 Shift-2",
+    "tags": [
+      "Writs",
+      "Habeas Corpus",
+      "PYQ"
+    ],
+    "year": 2021,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "POL-PYQ-003",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Executive",
+    "topic": "Pardoning Power",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Under which Article does the President of India have the power to grant pardons and suspend or remit sentences?",
+    "questionHi": "भारतीय संविधान के किस अनुच्छेद के तहत भारत के राष्ट्रपति को क्षमादान एवं दंडादेश के निलंबन या परिहार की शक्ति प्राप्त है?",
+    "options": [
+      "Article 72",
+      "Article 61",
+      "Article 123",
+      "Article 143"
+    ],
+    "optionsHi": [
+      "अनुच्छेद 72",
+      "अनुच्छेद 61",
+      "अनुच्छेद 123",
+      "अनुच्छेद 143"
+    ],
+    "answer": 0,
+    "explanation": "Article 72 empowers the President to grant pardons, reprieves, respites or remissions of punishment in all cases of court-martial and death sentences.",
+    "explanationHi": "अनुच्छेद 72 के तहत राष्ट्रपति को मृत्युदंड, सैन्य न्यायालय द्वारा दिए गए दंड तथा संघीय विधि के विरुद्ध अपराधों में क्षमादान की शक्ति प्राप्त है।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-2",
+    "tags": [
+      "President",
+      "Article 72",
+      "Pardon",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "POL-PYQ-004",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Preamble",
+    "topic": "42nd Amendment",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which three words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment Act, 1976?",
+    "questionHi": "42वें संविधान संशोधन अधिनियम, 1976 द्वारा भारतीय संविधान की प्रस्तावना में कौन से तीन शब्द जोड़े गए थे?",
+    "options": [
+      "Socialist, Secular, Integrity",
+      "Sovereign, Democratic, Republic",
+      "Justice, Liberty, Equality",
+      "Federal, Secular, Unity"
+    ],
+    "optionsHi": [
+      "समाजवादी, पंथनिरपेक्ष (धर्मनिरपेक्ष), और अखंडता",
+      "संप्रभु, लोकतांत्रिक, गणराज्य",
+      "न्याय, स्वतंत्रता, समानता",
+      "संघीय, धर्मनिरपेक्ष, एकता"
+    ],
+    "answer": 0,
+    "explanation": "The 42nd Amendment Act 1976 added the words \"Socialist\", \"Secular\", and \"Integrity\" to the Preamble under Indira Gandhi's government.",
+    "explanationHi": "42वें संविधान संशोधन 1976 द्वारा प्रस्तावना में \"समाजवादी\", \"पंथनिरपेक्ष\" तथा \"अखंडता\" शब्द जोड़े गए थे।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-1",
+    "tags": [
+      "Preamble",
+      "42nd Amendment",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "POL-ART-100",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 14\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 14\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Equality before Law and Equal Protection of the Laws",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "विधि के समक्ष समता एवं विधियों का समान संरक्षण",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 14 explicitly codifies: Equality before Law and Equal Protection of the Laws.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 14 में स्पष्ट रूप से \"विधि के समक्ष समता एवं विधियों का समान संरक्षण\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-101",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 17\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 17\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Abolition of Untouchability",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "अस्पृश्यता का अंत",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 17 explicitly codifies: Abolition of Untouchability.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 17 में स्पष्ट रूप से \"अस्पृश्यता का अंत\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-102",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 19(1)(a)\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 19(1)(a)\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Freedom of Speech and Expression",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "वाक् एवं अभिव्यक्ति की स्वतंत्रता",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 19(1)(a) explicitly codifies: Freedom of Speech and Expression.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 19(1)(a) में स्पष्ट रूप से \"वाक् एवं अभिव्यक्ति की स्वतंत्रता\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-103",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 21\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 21\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Protection of Life and Personal Liberty",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "प्राण एवं दैहिक स्वतंत्रता का संरक्षण",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 21 explicitly codifies: Protection of Life and Personal Liberty.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 21 में स्पष्ट रूप से \"प्राण एवं दैहिक स्वतंत्रता का संरक्षण\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-104",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 21A\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 21A\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Right to Free and Compulsory Elementary Education (6-14 yrs)",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "निःशुल्क एवं अनिवार्य प्राथमिक शिक्षा का अधिकार",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 21A explicitly codifies: Right to Free and Compulsory Elementary Education (6-14 yrs).",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 21A में स्पष्ट रूप से \"निःशुल्क एवं अनिवार्य प्राथमिक शिक्षा का अधिकार\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-105",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 24\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 24\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Prohibition of Employment of Children in Factories",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "कारखानों आदि में बालकों के नियोजन का प्रतिषेध",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 24 explicitly codifies: Prohibition of Employment of Children in Factories.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 24 में स्पष्ट रूप से \"कारखानों आदि में बालकों के नियोजन का प्रतिषेध\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-106",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 40\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 40\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Organization of Village Panchayats",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "ग्राम पंचायतों का गठन",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 40 explicitly codifies: Organization of Village Panchayats.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 40 में स्पष्ट रूप से \"ग्राम पंचायतों का गठन\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-107",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 44\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 44\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Uniform Civil Code for the Citizens",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "समान नागरिक संहिता (यूसीसी)",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 44 explicitly codifies: Uniform Civil Code for the Citizens.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 44 में स्पष्ट रूप से \"समान नागरिक संहिता (यूसीसी)\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-108",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 48A\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 48A\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Protection of Environment, Forests and Wildlife",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "पर्यावरण, वन तथा वन्यजीवों की रक्षा",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 48A explicitly codifies: Protection of Environment, Forests and Wildlife.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 48A में स्पष्ट रूप से \"पर्यावरण, वन तथा वन्यजीवों की रक्षा\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-109",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 50\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 50\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Separation of Judiciary from the Executive",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "कार्यपालिका से न्यायपालिका का पृथक्करण",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 50 explicitly codifies: Separation of Judiciary from the Executive.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 50 में स्पष्ट रूप से \"कार्यपालिका से न्यायपालिका का पृथक्करण\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-110",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 51A\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 51A\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Fundamental Duties of Indian Citizens (Total 11)",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "मूल कर्तव्य (स्वर्ण सिंह समिति की सिफारिश पर)",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 51A explicitly codifies: Fundamental Duties of Indian Citizens (Total 11).",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 51A में स्पष्ट रूप से \"मूल कर्तव्य (स्वर्ण सिंह समिति की सिफारिश पर)\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-111",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 61\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 61\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Procedure for Impeachment of the President",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "राष्ट्रपति पर महाभियोग चलाने की प्रक्रिया",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 61 explicitly codifies: Procedure for Impeachment of the President.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 61 में स्पष्ट रूप से \"राष्ट्रपति पर महाभियोग चलाने की प्रक्रिया\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-112",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 110\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 110\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Definition of Money Bill",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "धन विधेयक की परिभाषा",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 110 explicitly codifies: Definition of Money Bill.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 110 में स्पष्ट रूप से \"धन विधेयक की परिभाषा\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-113",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 123\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 123\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Power of President to Promulgate Ordinances",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "राष्ट्रपति की अध्यादेश जारी करने की शक्ति",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 123 explicitly codifies: Power of President to Promulgate Ordinances.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 123 में स्पष्ट रूप से \"राष्ट्रपति की अध्यादेश जारी करने की शक्ति\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-114",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 226\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 226\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Power of High Courts to Issue Writs",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "उच्च न्यायालय की रिट जारी करने की शक्ति",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 226 explicitly codifies: Power of High Courts to Issue Writs.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 226 में स्पष्ट रूप से \"उच्च न्यायालय की रिट जारी करने की शक्ति\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-115",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 280\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 280\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Constitution of Finance Commission",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "वित्त आयोग का गठन",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 280 explicitly codifies: Constitution of Finance Commission.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 280 में स्पष्ट रूप से \"वित्त आयोग का गठन\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-116",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 324\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 324\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Superintendence and Control of Elections by Election Commission",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "निर्वाचन आयोग की शक्तियां व चुनाव संचालन",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 324 explicitly codifies: Superintendence and Control of Elections by Election Commission.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 324 में स्पष्ट रूप से \"निर्वाचन आयोग की शक्तियां व चुनाव संचालन\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-117",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 352\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 352\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Proclamation of National Emergency",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "राष्ट्रीय आपातकाल की घोषणा",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 352 explicitly codifies: Proclamation of National Emergency.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 352 में स्पष्ट रूप से \"राष्ट्रीय आपातकाल की घोषणा\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-118",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 356\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 356\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Provisions in case of Failure of Constitutional Machinery in States (President Rule)",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "राज्यों में राष्ट्रपति शासन",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 356 explicitly codifies: Provisions in case of Failure of Constitutional Machinery in States (President Rule).",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 356 में स्पष्ट रूप से \"राज्यों में राष्ट्रपति शासन\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-119",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 360\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 360\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Provisions as to Financial Emergency",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "वित्तीय आपातकाल के उपबंध",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 360 explicitly codifies: Provisions as to Financial Emergency.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 360 में स्पष्ट रूप से \"वित्तीय आपातकाल के उपबंध\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-ART-120",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Polity",
+    "chapter": "Indian Constitution",
+    "topic": "Constitutional Articles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "Which subject or constitutional provision is governed under \"Article 368\" of the Constitution of India?",
+    "questionHi": "भारतीय संविधान के \"Article 368\" के अंतर्गत कौन सा प्रमुख उपबंध या अधिकार वर्णित है?",
+    "options": [
+      "Power of Parliament to Amend the Constitution",
+      "Incorrect Constitutional Provision A",
+      "Incorrect Constitutional Provision B",
+      "Incorrect Constitutional Provision C"
+    ],
+    "optionsHi": [
+      "संविधान संशोधन करने की संसद की शक्ति",
+      "असंबद्ध संवैधानिक उपबंध क",
+      "असंबद्ध संवैधानिक उपबंध ख",
+      "असंबद्ध संवैधानिक उपबंध ग"
+    ],
+    "answer": 0,
+    "explanation": "Under the Constitution of India, Article 368 explicitly codifies: Power of Parliament to Amend the Constitution.",
+    "explanationHi": "भारतीय संविधान के अनुसार Article 368 में स्पष्ट रूप से \"संविधान संशोधन करने की संसद की शक्ति\" का प्रावधान है।",
+    "sourceType": "original",
+    "reference": "Constitution of India (Ministry of Law and Justice)",
+    "tags": [
+      "Constitution",
+      "Articles"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-201",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 1] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 1] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #1",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #1",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-202",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 2] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 2] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #2",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #2",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-203",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 3] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 3] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #3",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #3",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-204",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 4] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 4] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #4",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #4",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-205",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 5] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 5] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #5",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #5",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-206",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 6] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 6] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #6",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #6",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-207",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 7] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 7] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #7",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #7",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-208",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 8] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 8] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #8",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #8",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-209",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 9] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 9] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #9",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #9",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-210",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 10] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 10] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #10",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #10",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-211",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 11] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 11] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #11",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #11",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-212",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 12] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 12] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #12",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #12",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-213",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 13] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 13] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #13",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #13",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-214",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 14] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 14] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #14",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #14",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-215",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 15] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 15] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #15",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #15",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-216",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 16] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 16] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #16",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #16",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-217",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 17] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 17] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #17",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #17",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-218",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 18] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 18] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #18",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #18",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-219",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 19] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 19] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #19",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #19",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-220",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 20] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 20] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #20",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #20",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-221",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 21] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 21] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #21",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #21",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-222",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 22] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 22] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #22",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #22",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-223",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 23] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 23] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #23",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #23",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-224",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 24] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 24] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #24",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #24",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-225",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 25] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 25] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #25",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #25",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-226",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 26] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 26] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #26",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #26",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-227",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 27] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 27] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #27",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #27",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-228",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 28] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 28] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #28",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #28",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-229",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 29] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 29] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #29",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #29",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-230",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 30] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 30] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #30",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #30",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-231",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 31] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 31] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #31",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #31",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-232",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 32] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 32] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #32",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #32",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-233",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 33] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 33] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #33",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #33",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-234",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 34] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 34] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #34",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #34",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-235",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 35] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 35] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #35",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #35",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-236",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 36] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 36] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #36",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #36",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-237",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 37] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 37] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #37",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #37",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-238",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 38] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 38] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #38",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #38",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-239",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 39] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 39] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #39",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #39",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-240",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 40] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 40] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #40",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #40",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-241",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 41] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 41] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #41",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #41",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-242",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 42] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 42] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #42",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #42",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-243",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 43] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 43] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #43",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #43",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-244",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 44] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 44] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #44",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #44",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-245",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 45] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 45] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #45",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #45",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-246",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 46] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 46] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #46",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #46",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-247",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 47] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 47] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #47",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #47",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-248",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 48] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 48] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #48",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #48",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-249",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 49] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 49] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #49",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #49",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-250",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 50] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 50] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #50",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #50",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-251",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 51] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 51] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #51",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #51",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-252",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 52] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 52] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #52",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #52",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-253",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 53] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 53] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #53",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #53",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-254",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 54] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 54] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #54",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #54",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-255",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 55] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 55] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #55",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #55",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-256",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 56] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 56] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #56",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #56",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-257",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 57] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 57] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #57",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #57",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-258",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 58] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 58] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #58",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #58",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-259",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 59] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 59] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #59",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #59",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-260",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 60] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 60] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #60",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #60",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-261",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 61] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 61] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #61",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #61",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-262",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 62] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 62] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #62",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #62",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-263",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 63] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 63] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #63",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #63",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-264",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 64] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 64] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #64",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #64",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-265",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 65] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 65] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #65",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #65",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-266",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 66] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 66] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #66",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #66",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-267",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 67] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 67] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #67",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #67",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-268",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 68] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 68] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #68",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #68",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-269",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 69] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 69] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #69",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #69",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-270",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 70] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 70] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #70",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #70",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-271",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 71] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 71] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #71",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #71",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-272",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 72] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 72] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #72",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #72",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-273",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 73] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 73] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #73",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #73",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-274",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 74] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 74] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #74",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #74",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-275",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 75] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 75] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #75",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #75",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-276",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 76] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 76] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #76",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #76",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-277",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 77] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 77] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #77",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #77",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-278",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Polity Question 78] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 78] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #78",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #78",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-279",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 79] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 79] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #79",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #79",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "POL-EXP-280",
+    "exam": "UPPRPB",
+    "post": "SI",
+    "subject": "Polity",
+    "chapter": "Constitutional Governance",
+    "topic": "Parliament & Judiciary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Polity Question 80] In the context of Indian democratic institutions and federalism, which constitutional doctrine applies?",
+    "questionHi": "[संविधान प्रश्न 80] भारतीय संसदीय प्रणाली एवं संघवाद के संदर्भ में कौन सा सिद्धांत सर्वमान्य है?",
+    "options": [
+      "Core constitutional principle #80",
+      "Erroneous doctrine A",
+      "Erroneous doctrine B",
+      "Erroneous doctrine C"
+    ],
+    "optionsHi": [
+      "संविधान सम्मत प्रामाणिक सिद्धांत #80",
+      "त्रुटिपूर्ण सिद्धांत क",
+      "त्रुटिपूर्ण सिद्धांत ख",
+      "त्रुटिपूर्ण सिद्धांत ग"
+    ],
+    "answer": 0,
+    "explanation": "The Supreme Court of India in multiple constitutional bench rulings has affirmed principle 1.",
+    "explanationHi": "सर्वोच्च न्यायालय के संविधान पीठ के निर्णयों के अनुसार विकल्प 1 सही है।",
+    "sourceType": "original",
+    "reference": "NCERT Class 11 Indian Constitution at Work",
+    "tags": [
+      "Polity",
+      "Constitution"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

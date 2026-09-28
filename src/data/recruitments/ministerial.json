@@ -1,0 +1,144 @@
+{
+  "id": "UPPRPB-MINISTERIAL-2025",
+  "postKey": "ministerial",
+  "post": "Police Sub-Inspector (Confidential) & Assistant Sub-Inspector (Clerk / Accounts)",
+  "postHi": "पुलिस उप-निरीक्षक (गोपनीय) एवं सहायक उप-निरीक्षक (लिपिक / लेखा)",
+  "cycle": "2024-2025",
+  "vacancies": 921,
+  "status": "WRITTEN EXAM",
+  "currentStage": "Written CBT Exam Preparation & Typing Guidelines",
+  "currentStageHi": "लिखित परीक्षा (सीबीटी) एवं टंकण / आशुलिपि मानक",
+  "officialSource": "https://uppbpb.gov.in/",
+  "notificationDate": "2023-12-28",
+  "lastVerified": "2026-09-24",
+  "version": "2026.1",
+  "stages": [
+    {
+      "id": "stage-notif",
+      "name": "Notification Announcement",
+      "nameHi": "विज्ञप्ति जारी",
+      "status": "completed",
+      "dateText": "Dec 2023"
+    },
+    {
+      "id": "stage-app",
+      "name": "Application Window",
+      "nameHi": "ऑनलाइन आवेदन",
+      "status": "completed",
+      "dateText": "Jan-Feb 2024"
+    },
+    {
+      "id": "stage-written",
+      "name": "Written Exam (CBT)",
+      "nameHi": "लिखित परीक्षा (सीबीटी)",
+      "status": "current",
+      "dateText": "Scheduled 2026"
+    },
+    {
+      "id": "stage-dvpst",
+      "name": "DV & Physical Standard Test (PST)",
+      "nameHi": "दस्तावेज सत्यापन एवं शारीरिक मानक परीक्षण",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-skill",
+      "name": "Typing & Shorthand Test",
+      "nameHi": "कंप्यूटर टंकण एवं आशुलिपि परीक्षा",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-final",
+      "name": "Final Merit & Medical",
+      "nameHi": "अंतिम चयन सूची",
+      "status": "upcoming"
+    }
+  ],
+  "eligibility": {
+    "ageLimit": {
+      "min": 21,
+      "max": 28,
+      "relaxation": "5 years relaxation for SC/ST/OBC of UP",
+      "relaxationHi": "उत्तर प्रदेश के आरक्षित श्रेणियों हेतु 5 वर्ष की छूट"
+    },
+    "qualification": "Graduation Degree in any stream (Commerce graduation for Accounts post) + DOEACC/NIELIT 'O' Level certificate or equivalent.",
+    "qualificationHi": "किसी भी विषय में स्नातक (लेखा पद हेतु वाणिज्य में स्नातक) + NIELIT से 'O' लेवल प्रमाण पत्र अथवा समकक्ष।",
+    "nationality": "Citizen of India",
+    "specialRequirements": [
+      "Clerk Post: Hindi typing 25 wpm (Inscript) + English typing 30 wpm (85% accuracy)",
+      "Accounts Post: Hindi typing 15 wpm (Inscript)",
+      "Confidential Post: Hindi Shorthand 80 wpm + Hindi typing 25 wpm + English 30 wpm"
+    ],
+    "specialRequirementsHi": [
+      "लिपिक पद: हिन्दी टंकण 25 शब्द/मि (इनस्क्रिप्ट) + अंग्रेजी टंकण 30 शब्द/मि (85% शुद्धता)",
+      "लेखा पद: हिन्दी टंकण 15 शब्द/मि (इनस्क्रिप्ट)",
+      "गोपनीय पद: हिन्दी आशुलिपि 80 शब्द/मि + टंकण"
+    ]
+  },
+  "examPattern": {
+    "mode": "Online (CBT)",
+    "totalQuestions": 200,
+    "totalMarks": 400,
+    "durationMinutes": 150,
+    "marksPerQuestion": 2,
+    "negativeMarking": 0,
+    "qualifyingCriteria": "Minimum 35% in each subject and 40% aggregate required.",
+    "qualifyingCriteriaHi": "प्रत्येक विषय में 35% तथा कुल 40% अंक प्राप्त करना अनिवार्य।",
+    "sections": [
+      {
+        "id": "sec-hindi-comp",
+        "name": "General Hindi & Computer Knowledge",
+        "nameHi": "सामान्य हिन्दी एवं कंप्यूटर ज्ञान",
+        "questions": 50,
+        "marks": 100
+      },
+      {
+        "id": "sec-gk-ca",
+        "name": "General Awareness & Current Affairs",
+        "nameHi": "सामान्य जागरूकता एवं समसामयिकी",
+        "questions": 50,
+        "marks": 100
+      },
+      {
+        "id": "sec-numerical",
+        "name": "Numerical & Mental Ability Test",
+        "nameHi": "संख्यात्मक एवं मानसिक योग्यता परीक्षा",
+        "questions": 50,
+        "marks": 100
+      },
+      {
+        "id": "sec-reasoning",
+        "name": "Mental Aptitude, IQ & Reasoning Test",
+        "nameHi": "मानसिक अभिरुचि, बुद्धिलब्धि एवं तार्किक परीक्षा",
+        "questions": 50,
+        "marks": 100
+      }
+    ]
+  },
+  "physical": [
+    {
+      "category": "PST",
+      "title": "Height (ऊंचाई)",
+      "titleHi": "ऊंचाई (Height)",
+      "maleGenObcSc": "163 cm (Relaxed for clerical)",
+      "maleSt": "156 cm",
+      "femaleGenObcSc": "150 cm",
+      "femaleSt": "145 cm",
+      "details": "Height criteria is relaxed for Ministerial cadre compared to executive policing.",
+      "detailsHi": "लिपिक संवर्ग हेतु ऊंचाई मानक कार्यकारी पुलिस से शिथिल हैं।"
+    },
+    {
+      "category": "PST",
+      "title": "Chest (सीना) - Male only",
+      "titleHi": "सीना - केवल पुरुष",
+      "maleGenObcSc": "77 cm unexpanded / 82 cm expanded",
+      "maleSt": "75 cm unexpanded / 80 cm expanded",
+      "femaleGenObcSc": "Not Applicable",
+      "femaleSt": "Not Applicable"
+    }
+  ],
+  "links": {
+    "officialNotification": "https://uppbpb.gov.in/",
+    "applyUrl": "https://uppbpb.gov.in/",
+    "syllabusPdf": "https://uppbpb.gov.in/"
+  }
+}

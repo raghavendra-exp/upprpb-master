@@ -1,0 +1,70 @@
+{
+  "board": {
+    "name": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+    "nameHi": "उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (उ.प्र.पु.भ.एवं.प्रो.बो.)",
+    "address": "Tulsi Ganga Complex, 19-C, Vidhan Sabha Marg, Lucknow, Uttar Pradesh - 226001",
+    "officialWebsite": "https://uppbpb.gov.in/",
+    "helpline": "0522-2235752",
+    "otrPortal": "https://uppbpb.gov.in/",
+    "lastVerified": "2026-09-24",
+    "verificationNote": "Sourced and verified directly against official notifications and notice board at uppbpb.gov.in"
+  },
+  "activeRecruitments": [
+    "UPPRPB-CONSTABLE-2025",
+    "UPPRPB-SI-2025",
+    "UPPRPB-COMPUTER-OPERATOR-2025",
+    "UPPRPB-RADIO-POLICE-2025",
+    "UPPRPB-MINISTERIAL-2025",
+    "UPPRPB-JAIL-WARDER-2025",
+    "UPPRPB-FIRE-SERVICE-2025",
+    "UPPRPB-MOTOR-TRANSPORT-2025"
+  ],
+  "totalTrackedVacancies": 73473,
+  "topNotices": [
+    {
+      "id": "notice-2026-09-24-01",
+      "date": "2026-09-24",
+      "post": "Constable Civil Police & PAC",
+      "title": "Direct Recruitment 2025 - Physical Efficiency Test (PET) Schedule & Center-wise Instructions (Oct 1 to Oct 8, 2026)",
+      "titleHi": "आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती 2025 - शारीरिक दक्षता परीक्षा (PET) एवं प्रवेश पत्र सूचना",
+      "pdfUrl": "https://uppbpb.gov.in/",
+      "isImportant": true
+    },
+    {
+      "id": "notice-2026-09-18-02",
+      "date": "2026-09-18",
+      "post": "Sub-Inspector (Civil Police)",
+      "title": "Sub-Inspector Direct Recruitment 2025 - Update regarding Computer Based Test (CBT) Center Allotment & Normalization Formula",
+      "titleHi": "उप-निरीक्षक (नागरिक पुलिस) सीधी भर्ती 2025 - सीबीटी परीक्षा केंद्र आवंटन एवं प्रसामान्यीकरण (Normalization) पद्धति",
+      "pdfUrl": "https://uppbpb.gov.in/",
+      "isImportant": true
+    },
+    {
+      "id": "notice-2026-08-30-03",
+      "date": "2026-08-30",
+      "post": "Computer Operator & Programmer",
+      "title": "Computer Operator Grade-A & Programmer Grade-2 - Written Exam & Typing Guideline Notification",
+      "titleHi": "कंप्यूटर ऑपरेटर ग्रेड-ए व प्रोग्रामर ग्रेड-2 लिखित परीक्षा एवं टंकण मानक दिशा-निर्देश",
+      "pdfUrl": "https://uppbpb.gov.in/",
+      "isImportant": false
+    },
+    {
+      "id": "notice-2026-08-15-04",
+      "date": "2026-08-15",
+      "post": "Radio Police",
+      "title": "Radio Cadre (Head Operator, Assistant Operator, Workshop Hand) - DV/PST Schedule and Instructions",
+      "titleHi": "रेडियो संवर्ग (प्रधान परिचालक/सहायक परिचालक) अभिलेख संवीक्षा एवं शारीरिक मानक परीक्षण सूचना",
+      "pdfUrl": "https://uppbpb.gov.in/",
+      "isImportant": false
+    },
+    {
+      "id": "notice-2026-07-28-05",
+      "date": "2026-07-28",
+      "post": "General / All Aspirants",
+      "title": "Advisory regarding One Time Registration (OTR) and Fraud Alert against Unofficial Job Portals",
+      "titleHi": "वन टाइम रजिस्ट्रेशन (OTR) एवं अनाधिकृत भर्ती वेबसाइटों से बचाव हेतु सार्वजनिक चेतावनी",
+      "pdfUrl": "https://uppbpb.gov.in/",
+      "isImportant": true
+    }
+  ]
+}

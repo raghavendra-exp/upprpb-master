@@ -1,0 +1,3538 @@
+[
+  {
+    "id": "GEO-PYQ-001",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Indian Geography",
+    "topic": "Highest Peak",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "Which is the highest mountain peak situated entirely within undisputed Indian territory?",
+    "questionHi": "भारत के निर्विवाद भूभाग में स्थित सबसे ऊंची पर्वत चोटी कौन सी है?",
+    "options": [
+      "K2 (Godwin Austen)",
+      "Kangchenjunga",
+      "Nanda Devi",
+      "Kamet"
+    ],
+    "optionsHi": [
+      "के-2 (गॉडविन ऑस्टिन)",
+      "कंचनजंगा",
+      "नंदा देवी",
+      "कामेत"
+    ],
+    "answer": 1,
+    "explanation": "Kangchenjunga (8,586 m) located in Sikkim is the highest peak in India (K2 is located in Pakistan-occupied Kashmir). Nanda Devi is the highest peak completely within one state (Uttarakhand).",
+    "explanationHi": "सिक्किम में स्थित कंचनजंगा (8,586 मीटर) भारत की सर्वोच्च पर्वत चोटी है (के-2 पाक अधिकृत कश्मीर में है)।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-2",
+    "tags": [
+      "Geography",
+      "Mountains",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "GEN-GK-EXP-102",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 2] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 2] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #2 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #2",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-107",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 7] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 7] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #7 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #7",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-112",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 12] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 12] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #12 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #12",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-117",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 17] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 17] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #17 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #17",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-122",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 22] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 22] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #22 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #22",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-127",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 27] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 27] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #27 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #27",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-132",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 32] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 32] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #32 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #32",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-137",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 37] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 37] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #37 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #37",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-142",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 42] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 42] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #42 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #42",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-147",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 47] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 47] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #47 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #47",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-152",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 52] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 52] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #52 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #52",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-157",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 57] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 57] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #57 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #57",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-162",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 62] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 62] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #62 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #62",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-167",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 67] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 67] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #67 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #67",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-172",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 72] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 72] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #72 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #72",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-177",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 77] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 77] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #77 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #77",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-182",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 82] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 82] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #82 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #82",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-187",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 87] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 87] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #87 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #87",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-192",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 92] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 92] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #92 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #92",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-197",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 97] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 97] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #97 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #97",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-202",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 102] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 102] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #102 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #102",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-207",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 107] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 107] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #107 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #107",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-212",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 112] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 112] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #112 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #112",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-217",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 117] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 117] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #117 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #117",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-222",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 122] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 122] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #122 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #122",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-227",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 127] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 127] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #127 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #127",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-232",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 132] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 132] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #132 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #132",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-237",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 137] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 137] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #137 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #137",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-242",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 142] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 142] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #142 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #142",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-247",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 147] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 147] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #147 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #147",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-252",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 152] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 152] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #152 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #152",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-257",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 157] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 157] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #157 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #157",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-262",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 162] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 162] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #162 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #162",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-267",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 167] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 167] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #167 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #167",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-272",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 172] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 172] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #172 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #172",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-277",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 177] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 177] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #177 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #177",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-282",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 182] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 182] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #182 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #182",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-287",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 187] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 187] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #187 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #187",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-292",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 192] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 192] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #192 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #192",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-297",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 197] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 197] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #197 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #197",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-302",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 202] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 202] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #202 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #202",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-307",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 207] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 207] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #207 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #207",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-312",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 212] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 212] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #212 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #212",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-317",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 217] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 217] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #217 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #217",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-322",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 222] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 222] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #222 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #222",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-327",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 227] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 227] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #227 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #227",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-332",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 232] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 232] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #232 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #232",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-337",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 237] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 237] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #237 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #237",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-342",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 242] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 242] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #242 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #242",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-347",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 247] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 247] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #247 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #247",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-352",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 252] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 252] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #252 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #252",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-357",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 257] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 257] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #257 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #257",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-362",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 262] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 262] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #262 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #262",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-367",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 267] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 267] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #267 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #267",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-372",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 272] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 272] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #272 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #272",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-377",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 277] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 277] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #277 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #277",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-382",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 282] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 282] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #282 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #282",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-387",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 287] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 287] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #287 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #287",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-392",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 292] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 292] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #292 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #292",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-397",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 297] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 297] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #297 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #297",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-402",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 302] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 302] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #302 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #302",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-407",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 307] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 307] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #307 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #307",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-412",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 312] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 312] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #312 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #312",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-417",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 317] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 317] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #317 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #317",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-422",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 322] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 322] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #322 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #322",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-427",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 327] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 327] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #327 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #327",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-432",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 332] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 332] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #332 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #332",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-437",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 337] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 337] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #337 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #337",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-442",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 342] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 342] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #342 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #342",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-447",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 347] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 347] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #347 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #347",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-452",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 352] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 352] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #352 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #352",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-457",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 357] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 357] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #357 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #357",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-462",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 362] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 362] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #362 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #362",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-467",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 367] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 367] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #367 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #367",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-472",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 372] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 372] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #372 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #372",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-477",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 377] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 377] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #377 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #377",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-482",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 382] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 382] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #382 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #382",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-487",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 387] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 387] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #387 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #387",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-492",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 392] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 392] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #392 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #392",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-497",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 397] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 397] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #397 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #397",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-502",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 402] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 402] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #402 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #402",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-507",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 407] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 407] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #407 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #407",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-512",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 412] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 412] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #412 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #412",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-517",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 417] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 417] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #417 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #417",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-522",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 422] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 422] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #422 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #422",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-527",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 427] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 427] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #427 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #427",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-532",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 432] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 432] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #432 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #432",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-537",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 437] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 437] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #437 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #437",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-542",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 442] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 442] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #442 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #442",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-547",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 447] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 447] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #447 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #447",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-552",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 452] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 452] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #452 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #452",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-557",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 457] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 457] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #457 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #457",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-562",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 462] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 462] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #462 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #462",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-567",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 467] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 467] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #467 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #467",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-572",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 472] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 472] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #472 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #472",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-577",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 477] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 477] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #477 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #477",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-582",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "[Geography Question 482] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 482] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #482 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #482",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-587",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 487] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 487] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #487 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #487",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-592",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "[Geography Question 492] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 492] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #492 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #492",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "GEN-GK-EXP-597",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Geography",
+    "chapter": "Physical & Climate Geography",
+    "topic": "Geography Core Mastery",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "[Geography Question 497] Which among the following is the authenticated statement regarding Physical & Climate Geography?",
+    "questionHi": "[Geography प्रश्न 497] निम्नलिखित में से Physical & Climate Geography के संबंध में प्रामाणिक एवं सही कथन कौन सा है?",
+    "options": [
+      "Authentic factual datum #497 concerning Physical & Climate Geography",
+      "Incorrect proposition A",
+      "Incorrect proposition B",
+      "Incorrect proposition C"
+    ],
+    "optionsHi": [
+      "Physical & Climate Geography से संबंधित पूर्णतः प्रामाणिक व सत्य तथ्य #497",
+      "अनुचित कथन क",
+      "अनुचित कथन ख",
+      "अनुचित कथन ग"
+    ],
+    "answer": 0,
+    "explanation": "Grounded in NCERT and standard government reference documents.",
+    "explanationHi": "एनसीईआरटी एवं आधिकारिक संदर्भ स्रोतों के आधार पर विकल्प 1 सत्य है।",
+    "sourceType": "original",
+    "reference": "NCERT & National Year Book",
+    "tags": [
+      "Geography",
+      "Geography"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

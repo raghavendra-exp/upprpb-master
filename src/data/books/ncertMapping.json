@@ -1,0 +1,69 @@
+[
+  {
+    "id": "ncert-hist-01",
+    "subject": "History",
+    "topic": "Revolt of 1857 (Meerut, Awadh, Jhansi)",
+    "topicHi": "1857 का विद्रोह एवं उत्तर प्रदेश",
+    "class": "Class 8 / Class 12",
+    "bookTitle": "Our Pasts - III / Themes in Indian History Part III",
+    "chapter": "When People Rebel: 1857 and After / Rebels and the Raj",
+    "officialUrl": "https://ncert.nic.in/textbook.php",
+    "keyTakeaways": [
+      "Started on 10 May 1857 at Meerut cantonment by 3rd Native Cavalry",
+      "Begum Hazrat Mahal led the uprising in Lucknow (Awadh)",
+      "Rani Lakshmibai led the revolt in Jhansi",
+      "Maulvi Ahmadullah Shah fought in Faizabad",
+      "Kunwar Singh led in Jagdishpur and Eastern UP (Azamgarh)"
+    ]
+  },
+  {
+    "id": "ncert-pol-01",
+    "subject": "Polity",
+    "topic": "Fundamental Rights and Directive Principles",
+    "topicHi": "मौलिक अधिकार एवं राज्य के नीति निदेशक तत्व",
+    "class": "Class 11",
+    "bookTitle": "Indian Constitution at Work (भारत का संविधान: सिद्धांत और व्यवहार)",
+    "chapter": "Chapter 2: Rights in the Indian Constitution (भारतीय संविधान में अधिकार)",
+    "officialUrl": "https://ncert.nic.in/textbook.php",
+    "keyTakeaways": [
+      "Articles 14-18: Right to Equality",
+      "Articles 19-22: Right to Freedom",
+      "Articles 23-24: Right against Exploitation",
+      "Articles 25-28: Right to Freedom of Religion",
+      "Articles 29-30: Cultural and Educational Rights",
+      "Article 32: Right to Constitutional Remedies (5 Writs: Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari)"
+    ]
+  },
+  {
+    "id": "ncert-geo-01",
+    "subject": "Geography",
+    "topic": "Drainage System of India & UP Rivers",
+    "topicHi": "अपवाह तंत्र एवं उत्तर प्रदेश की नदियां",
+    "class": "Class 9 & 11",
+    "bookTitle": "Contemporary India - I / India: Physical Environment",
+    "chapter": "Chapter 3: Drainage (अपवाह)",
+    "officialUrl": "https://ncert.nic.in/textbook.php",
+    "keyTakeaways": [
+      "Ganga river enters UP at Bijnor district and exits UP at Ballia district",
+      "Yamuna river enters UP at Saharanpur and merges with Ganga at Prayagraj (Sangam)",
+      "Gomti river originates from Gomat Taal (Phulhar Lake) in Pilibhit district and flows entirely through UP",
+      "Betwa, Ken, Chambal are major right-bank tributaries of Yamuna in Bundelkhand region"
+    ]
+  },
+  {
+    "id": "ncert-sci-01",
+    "subject": "Science",
+    "topic": "Motion, Work, Energy & Sound",
+    "topicHi": "गति, कार्य, ऊर्जा एवं ध्वनि",
+    "class": "Class 9",
+    "bookTitle": "Science (विज्ञान)",
+    "chapter": "Chapters 8, 9, 10, 11, 12",
+    "officialUrl": "https://ncert.nic.in/textbook.php",
+    "keyTakeaways": [
+      "Newton's First Law: Inertia; Second Law: F = ma; Third Law: Action-Reaction",
+      "Kinetic Energy = 1/2 m v^2; Potential Energy = mgh",
+      "Speed of sound is maximum in solids (steel/iron) and zero in vacuum",
+      "Ultrasound frequency > 20,000 Hz, used in SONAR and medical echocardiography"
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "id": "UPPRPB-JAIL-WARDER-2025",
+  "postKey": "jail-warder",
+  "post": "Jail Warder (कारागार वार्डर)",
+  "postHi": "कारागार वार्डर (पुरुष एवं महिला)",
+  "cycle": "2025-2026",
+  "vacancies": 2833,
+  "status": "UPCOMING",
+  "currentStage": "Upcoming Recruitment Notification & Service Manual Revision",
+  "currentStageHi": "आगामी विज्ञप्ति एवं अधियाचन प्रक्रिया",
+  "officialSource": "https://uppbpb.gov.in/",
+  "notificationDate": "2025-10-01",
+  "lastVerified": "2026-09-24",
+  "version": "2026.1",
+  "stages": [
+    {
+      "id": "stage-requisition",
+      "name": "Departmental Requisition Received",
+      "nameHi": "कारागार विभाग से अधियाचन प्राप्त",
+      "status": "completed",
+      "dateText": "2025"
+    },
+    {
+      "id": "stage-notif",
+      "name": "Detailed Advertisement",
+      "nameHi": "विस्तृत विज्ञापन",
+      "status": "upcoming",
+      "dateText": "Late 2026"
+    },
+    {
+      "id": "stage-app",
+      "name": "OTR & Online Application",
+      "nameHi": "ओटीआर एवं ऑनलाइन आवेदन",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-written",
+      "name": "Written Examination (OMR)",
+      "nameHi": "लिखित परीक्षा (ओएमआर)",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-dvpst",
+      "name": "Document Verification & PST",
+      "nameHi": "दस्तावेज सत्यापन एवं शारीरिक मानक",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-pet",
+      "name": "Physical Efficiency Test (Running)",
+      "nameHi": "शारीरिक दक्षता परीक्षा (दौड़)",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-final",
+      "name": "Final Selection List",
+      "nameHi": "अंतिम चयन सूची",
+      "status": "upcoming"
+    }
+  ],
+  "eligibility": {
+    "ageLimit": {
+      "min": 18,
+      "max": 22,
+      "relaxation": "5 years relaxation for SC/ST/OBC of UP + applicable government age relaxations",
+      "relaxationHi": "उत्तर प्रदेश के आरक्षित वर्ग हेतु 5 वर्ष की छूट"
+    },
+    "qualification": "Passed 10+2 (Intermediate) examination from a recognized Board or equivalent.",
+    "qualificationHi": "मान्यता प्राप्त बोर्ड से इंटरमीडिएट (10+2) उत्तीर्ण अथवा समकक्ष।",
+    "nationality": "Citizen of India"
+  },
+  "examPattern": {
+    "mode": "Offline (OMR)",
+    "totalQuestions": 150,
+    "totalMarks": 300,
+    "durationMinutes": 120,
+    "marksPerQuestion": 2,
+    "negativeMarking": 0.5,
+    "qualifyingCriteria": "Merit based on written score followed by qualifying PST/PET",
+    "qualifyingCriteriaHi": "लिखित परीक्षा मेरिट + अर्हकारी शारीरिक मानक एवं दक्षता परीक्षा",
+    "sections": [
+      {
+        "id": "sec-gk",
+        "name": "General Knowledge (with Prison Admin & Police GK)",
+        "nameHi": "सामान्य ज्ञान (कारागार प्रशासन एवं पुलिस अभिरुचि)",
+        "questions": 38,
+        "marks": 76
+      },
+      {
+        "id": "sec-hindi",
+        "name": "General Hindi",
+        "nameHi": "सामान्य हिन्दी",
+        "questions": 37,
+        "marks": 74
+      },
+      {
+        "id": "sec-maths",
+        "name": "Numerical & Mental Ability",
+        "nameHi": "संख्यात्मक एवं मानसिक योग्यता",
+        "questions": 38,
+        "marks": 76
+      },
+      {
+        "id": "sec-reasoning",
+        "name": "Mental Aptitude, IQ & Reasoning",
+        "nameHi": "मानसिक अभिरुचि, बुद्धिलब्धि एवं तार्किक क्षमता",
+        "questions": 37,
+        "marks": 74
+      }
+    ]
+  },
+  "physical": [
+    {
+      "category": "PST",
+      "title": "Height (ऊंचाई)",
+      "titleHi": "ऊंचाई (Height)",
+      "maleGenObcSc": "168 cm",
+      "maleSt": "160 cm",
+      "femaleGenObcSc": "152 cm",
+      "femaleSt": "147 cm"
+    },
+    {
+      "category": "PET",
+      "title": "Running (दौड़)",
+      "titleHi": "दौड़ (PET)",
+      "maleGenObcSc": "4.8 km in 25 minutes",
+      "maleSt": "4.8 km in 25 minutes",
+      "femaleGenObcSc": "2.4 km in 14 minutes",
+      "femaleSt": "2.4 km in 14 minutes"
+    }
+  ],
+  "links": {
+    "officialNotification": "https://uppbpb.gov.in/",
+    "applyUrl": "https://uppbpb.gov.in/"
+  }
+}

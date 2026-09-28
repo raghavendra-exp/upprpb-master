@@ -1,0 +1,109 @@
+{
+  "id": "UPPRPB-MOTOR-TRANSPORT-2025",
+  "postKey": "motor-transport",
+  "post": "Police Motor Transport (Driver / MT)",
+  "postHi": "पुलिस मोटर परिवहन (चालक / एम.टी. शाखा)",
+  "cycle": "2025-2026",
+  "vacancies": 1500,
+  "status": "UPCOMING",
+  "currentStage": "Cadre Restructuring & Driver Service Rules Notification",
+  "currentStageHi": "संवर्ग पुनर्गठन एवं चालक सेवा नियमावली अधिसूचना",
+  "officialSource": "https://uppbpb.gov.in/",
+  "notificationDate": "2025-12-01",
+  "lastVerified": "2026-09-24",
+  "version": "2026.1",
+  "stages": [
+    {
+      "id": "stage-notif",
+      "name": "Notification Release",
+      "nameHi": "विस्तृत विज्ञापन",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-written",
+      "name": "Written Exam (Traffic Rules & GK)",
+      "nameHi": "लिखित परीक्षा (यातायात नियम एवं सामान्य ज्ञान)",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-trade",
+      "name": "Driving Skill & Technical Trade Test",
+      "nameHi": "ड्राइविंग दक्षता एवं तकनीकी ट्रेड टेस्ट",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-dvpst",
+      "name": "PST & DV",
+      "nameHi": "शारीरिक मानक एवं अभिलेख संवीक्षा",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-final",
+      "name": "Final Selection",
+      "nameHi": "अंतिम चयन",
+      "status": "upcoming"
+    }
+  ],
+  "eligibility": {
+    "ageLimit": {
+      "min": 21,
+      "max": 28,
+      "relaxation": "5 years relaxation for SC/ST/OBC of UP",
+      "relaxationHi": "उत्तर प्रदेश के आरक्षित वर्ग हेतु 5 वर्ष की छूट"
+    },
+    "qualification": "Passed 10th or 12th standard + Valid Heavy Motor Vehicle (HMV) / Light Motor Vehicle (LMV) Driving License with minimum 2-3 years clean driving record.",
+    "qualificationHi": "हाईस्कूल/इंटरमीडिएट उत्तीर्ण + वैध भारी/हल्के मोटर वाहन (HMV/LMV) का ड्राइविंग लाइसेंस एवं न्यूनतम 2-3 वर्ष का अनुभव।",
+    "nationality": "Citizen of India",
+    "specialRequirements": [
+      "Technical knowledge of vehicle mechanics, road signs, traffic laws, and preventive maintenance"
+    ],
+    "specialRequirementsHi": [
+      "वाहन यांत्रिकी, यातायात संकेत, मोटर वाहन अधिनियम एवं निवारक रख-रखाव का व्यावहारिक ज्ञान"
+    ]
+  },
+  "examPattern": {
+    "mode": "Offline (OMR)",
+    "totalQuestions": 100,
+    "totalMarks": 200,
+    "durationMinutes": 90,
+    "marksPerQuestion": 2,
+    "negativeMarking": 0.5,
+    "sections": [
+      {
+        "id": "sec-traffic-motor",
+        "name": "Traffic Rules, Motor Vehicles Act & Mechanical Knowledge",
+        "nameHi": "यातायात नियम, मोटर यान अधिनियम एवं यांत्रिक ज्ञान",
+        "questions": 50,
+        "marks": 100
+      },
+      {
+        "id": "sec-gk",
+        "name": "General Knowledge & UP GK",
+        "nameHi": "सामान्य ज्ञान एवं उत्तर प्रदेश ज्ञान",
+        "questions": 25,
+        "marks": 50
+      },
+      {
+        "id": "sec-reasoning",
+        "name": "Elementary Maths & Reasoning",
+        "nameHi": "प्रारंभिक गणित एवं तार्किक क्षमता",
+        "questions": 25,
+        "marks": 50
+      }
+    ]
+  },
+  "physical": [
+    {
+      "category": "PST",
+      "title": "Height (ऊंचाई)",
+      "titleHi": "ऊंचाई (Height)",
+      "maleGenObcSc": "168 cm",
+      "maleSt": "160 cm",
+      "femaleGenObcSc": "Not Applicable",
+      "femaleSt": "Not Applicable"
+    }
+  ],
+  "links": {
+    "officialNotification": "https://uppbpb.gov.in/"
+  }
+}

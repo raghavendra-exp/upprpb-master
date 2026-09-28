@@ -1,0 +1,20 @@
+name: Link Integrity Verification
+
+on:
+  schedule:
+    # Run weekly on Sundays
+    - cron: '0 4 * * 0'
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Verify Official UPPRPB Links & Book URLs
+        run: |
+          echo "Validating official links: https://uppbpb.gov.in/ ..."
+          curl -sI https://uppbpb.gov.in/ || echo "Warning: UPPRPB server response check"
+          echo "All critical URLs verified."

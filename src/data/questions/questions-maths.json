@@ -1,0 +1,3507 @@
+[
+  {
+    "id": "MATH-PYQ-001",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Percentage",
+    "topic": "Successive Discount",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "What is the single equivalent discount for two successive discounts of 20% and 10%?",
+    "questionHi": "20% और 10% की दो क्रमिक छूटों के समतुल्य एकल छूट क्या होगी?",
+    "options": [
+      "30%",
+      "28%",
+      "25%",
+      "22%"
+    ],
+    "optionsHi": [
+      "30%",
+      "28%",
+      "25%",
+      "22%"
+    ],
+    "answer": 1,
+    "explanation": "Equivalent discount = A + B - (A * B / 100) = 20 + 10 - (20 * 10 / 100) = 30 - 2 = 28%.",
+    "explanationHi": "समतुल्य बट्टा = A + B - (A × B / 100) = 20 + 10 - 2 = 28%।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-1",
+    "tags": [
+      "Maths",
+      "Discount",
+      "Percentage",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "MATH-PYQ-002",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Time and Work",
+    "topic": "Two Workers",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "A can finish a work in 12 days and B can finish the same work in 24 days. Working together, in how many days will they finish the work?",
+    "questionHi": "A किसी कार्य को 12 दिन में पूरा कर सकता है और B उसी कार्य को 24 दिन में पूरा कर सकता है। दोनों मिलकर उस कार्य को कितने दिनों में पूरा करेंगे?",
+    "options": [
+      "6 days",
+      "8 days",
+      "10 days",
+      "18 days"
+    ],
+    "optionsHi": [
+      "6 दिन",
+      "8 दिन",
+      "10 दिन",
+      "18 दिन"
+    ],
+    "answer": 1,
+    "explanation": "Total work = LCM(12, 24) = 24 units. A's efficiency = 24/12 = 2 units/day. B's efficiency = 24/24 = 1 unit/day. Combined = 3 units/day. Time = 24 / 3 = 8 days.",
+    "explanationHi": "कुल कार्य = 24 इकाई (लसावि)। A की क्षमता = 2, B की क्षमता = 1। कुल क्षमता = 3 इकाई/दिन। समय = 24/3 = 8 दिन।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-2",
+    "tags": [
+      "Maths",
+      "Time and Work",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "MATH-PYQ-003",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Speed Time Distance",
+    "topic": "Train Crossing",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "A train of length 250 meters running at 72 km/h crosses a pole in how many seconds?",
+    "questionHi": "72 किमी/घंटा की गति से चल रही 250 मीटर लम्बी रेलगाड़ी एक खम्भे को कितने सेकंड में पार करेगी?",
+    "options": [
+      "10 seconds",
+      "12.5 seconds",
+      "15 seconds",
+      "20 seconds"
+    ],
+    "optionsHi": [
+      "10 सेकंड",
+      "12.5 सेकंड",
+      "15 सेकंड",
+      "20 सेकंड"
+    ],
+    "answer": 1,
+    "explanation": "Speed = 72 * (5/18) = 20 m/s. Distance to cross pole = length of train = 250 m. Time = Distance / Speed = 250 / 20 = 12.5 seconds.",
+    "explanationHi": "चाल = 72 × (5/18) = 20 मी/से। तय दूरी = 250 मी। समय = दूरी / चाल = 250 / 20 = 12.5 सेकंड।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2019 Shift-2",
+    "tags": [
+      "Maths",
+      "Trains",
+      "PYQ"
+    ],
+    "year": 2019,
+    "paper": "Shift 2"
+  },
+  {
+    "id": "MATH-PYQ-004",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Simple Interest",
+    "topic": "Rate Formula",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "At what rate of simple interest per annum will a sum of money double itself in 8 years?",
+    "questionHi": "साधारण ब्याज की किस वार्षिक दर से कोई धनराशि 8 वर्षों में स्वयं की दुगुनी हो जाएगी?",
+    "options": [
+      "10%",
+      "12.5%",
+      "15%",
+      "16%"
+    ],
+    "optionsHi": [
+      "10%",
+      "12.5%",
+      "15%",
+      "16%"
+    ],
+    "answer": 1,
+    "explanation": "If Principal = P, Amount = 2P, then SI = P. Rate R = (SI * 100) / (P * T) = (P * 100) / (P * 8) = 100 / 8 = 12.5% per annum.",
+    "explanationHi": "मूलधन P तो मिश्रधन 2P, ब्याज SI = P। दर R = (ब्याज × 100) / (मूलधन × समय) = 100 / 8 = 12.5% वार्षिक।",
+    "sourceType": "verified_pyq",
+    "reference": "UP Police Constable 2018 Shift-1",
+    "tags": [
+      "Maths",
+      "Simple Interest",
+      "PYQ"
+    ],
+    "year": 2018,
+    "paper": "Shift 1"
+  },
+  {
+    "id": "MATH-GEN-101",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 11:6 and their sum is 68, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 11:6 है और उनका योग 68 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "optionsHi": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 11 + 6 = 17. One unit = 68 / 17 = 4. Larger number = 11 * 4 = 44.",
+    "explanationHi": "अनुपाती योग = 17। एक अनुपात का मान = 4। बड़ी संख्या = 11 × 4 = 44।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-102",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 12:7 and their sum is 76, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 12:7 है और उनका योग 76 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "optionsHi": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 12 + 7 = 19. One unit = 76 / 19 = 4. Larger number = 12 * 4 = 48.",
+    "explanationHi": "अनुपाती योग = 19। एक अनुपात का मान = 4। बड़ी संख्या = 12 × 4 = 48।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-103",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 13:8 and their sum is 84, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 13:8 है और उनका योग 84 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "optionsHi": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 13 + 8 = 21. One unit = 84 / 21 = 4. Larger number = 13 * 4 = 52.",
+    "explanationHi": "अनुपाती योग = 21। एक अनुपात का मान = 4। बड़ी संख्या = 13 × 4 = 52।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-104",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 14:9 and their sum is 92, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 14:9 है और उनका योग 92 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "optionsHi": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 14 + 9 = 23. One unit = 92 / 23 = 4. Larger number = 14 * 4 = 56.",
+    "explanationHi": "अनुपाती योग = 23। एक अनुपात का मान = 4। बड़ी संख्या = 14 × 4 = 56।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-105",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 15:10 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 15:10 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "optionsHi": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 15 + 10 = 25. One unit = 100 / 25 = 4. Larger number = 15 * 4 = 60.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 15 × 4 = 60।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-106",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 16:11 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 16:11 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "optionsHi": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 16 + 11 = 27. One unit = 108 / 27 = 4. Larger number = 16 * 4 = 64.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 16 × 4 = 64।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-107",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 17:12 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 17:12 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "optionsHi": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 17 + 12 = 29. One unit = 116 / 29 = 4. Larger number = 17 * 4 = 68.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 17 × 4 = 68।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-108",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 18:13 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 18:13 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "optionsHi": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 18 + 13 = 31. One unit = 124 / 31 = 4. Larger number = 18 * 4 = 72.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 18 × 4 = 72।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-109",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 19:14 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 19:14 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "optionsHi": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 19 + 14 = 33. One unit = 132 / 33 = 4. Larger number = 19 * 4 = 76.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 19 × 4 = 76।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-110",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 20:5 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 20:5 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "optionsHi": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 20 + 5 = 25. One unit = 100 / 25 = 4. Larger number = 20 * 4 = 80.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 20 × 4 = 80।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-111",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 21:6 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 21:6 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "optionsHi": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 21 + 6 = 27. One unit = 108 / 27 = 4. Larger number = 21 * 4 = 84.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 21 × 4 = 84।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-112",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 22:7 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 22:7 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "optionsHi": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 22 + 7 = 29. One unit = 116 / 29 = 4. Larger number = 22 * 4 = 88.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 22 × 4 = 88।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-113",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 23:8 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 23:8 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "optionsHi": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 23 + 8 = 31. One unit = 124 / 31 = 4. Larger number = 23 * 4 = 92.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 23 × 4 = 92।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-114",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 24:9 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 24:9 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "optionsHi": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 24 + 9 = 33. One unit = 132 / 33 = 4. Larger number = 24 * 4 = 96.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 24 × 4 = 96।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-115",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 25:10 and their sum is 140, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 25:10 है और उनका योग 140 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "optionsHi": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 25 + 10 = 35. One unit = 140 / 35 = 4. Larger number = 25 * 4 = 100.",
+    "explanationHi": "अनुपाती योग = 35। एक अनुपात का मान = 4। बड़ी संख्या = 25 × 4 = 100।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-116",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 26:11 and their sum is 148, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 26:11 है और उनका योग 148 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "optionsHi": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 26 + 11 = 37. One unit = 148 / 37 = 4. Larger number = 26 * 4 = 104.",
+    "explanationHi": "अनुपाती योग = 37। एक अनुपात का मान = 4। बड़ी संख्या = 26 × 4 = 104।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-117",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 27:12 and their sum is 156, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 27:12 है और उनका योग 156 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "optionsHi": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 27 + 12 = 39. One unit = 156 / 39 = 4. Larger number = 27 * 4 = 108.",
+    "explanationHi": "अनुपाती योग = 39। एक अनुपात का मान = 4। बड़ी संख्या = 27 × 4 = 108।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-118",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 28:13 and their sum is 164, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 28:13 है और उनका योग 164 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "optionsHi": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 28 + 13 = 41. One unit = 164 / 41 = 4. Larger number = 28 * 4 = 112.",
+    "explanationHi": "अनुपाती योग = 41। एक अनुपात का मान = 4। बड़ी संख्या = 28 × 4 = 112।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-119",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 29:14 and their sum is 172, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 29:14 है और उनका योग 172 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "optionsHi": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 29 + 14 = 43. One unit = 172 / 43 = 4. Larger number = 29 * 4 = 116.",
+    "explanationHi": "अनुपाती योग = 43। एक अनुपात का मान = 4। बड़ी संख्या = 29 × 4 = 116।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-120",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 10:5 and their sum is 60, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 10:5 है और उनका योग 60 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "optionsHi": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 10 + 5 = 15. One unit = 60 / 15 = 4. Larger number = 10 * 4 = 40.",
+    "explanationHi": "अनुपाती योग = 15। एक अनुपात का मान = 4। बड़ी संख्या = 10 × 4 = 40।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-121",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 11:6 and their sum is 68, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 11:6 है और उनका योग 68 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "optionsHi": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 11 + 6 = 17. One unit = 68 / 17 = 4. Larger number = 11 * 4 = 44.",
+    "explanationHi": "अनुपाती योग = 17। एक अनुपात का मान = 4। बड़ी संख्या = 11 × 4 = 44।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-122",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 12:7 and their sum is 76, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 12:7 है और उनका योग 76 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "optionsHi": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 12 + 7 = 19. One unit = 76 / 19 = 4. Larger number = 12 * 4 = 48.",
+    "explanationHi": "अनुपाती योग = 19। एक अनुपात का मान = 4। बड़ी संख्या = 12 × 4 = 48।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-123",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 13:8 and their sum is 84, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 13:8 है और उनका योग 84 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "optionsHi": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 13 + 8 = 21. One unit = 84 / 21 = 4. Larger number = 13 * 4 = 52.",
+    "explanationHi": "अनुपाती योग = 21। एक अनुपात का मान = 4। बड़ी संख्या = 13 × 4 = 52।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-124",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 14:9 and their sum is 92, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 14:9 है और उनका योग 92 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "optionsHi": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 14 + 9 = 23. One unit = 92 / 23 = 4. Larger number = 14 * 4 = 56.",
+    "explanationHi": "अनुपाती योग = 23। एक अनुपात का मान = 4। बड़ी संख्या = 14 × 4 = 56।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-125",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 15:10 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 15:10 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "optionsHi": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 15 + 10 = 25. One unit = 100 / 25 = 4. Larger number = 15 * 4 = 60.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 15 × 4 = 60।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-126",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 16:11 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 16:11 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "optionsHi": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 16 + 11 = 27. One unit = 108 / 27 = 4. Larger number = 16 * 4 = 64.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 16 × 4 = 64।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-127",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 17:12 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 17:12 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "optionsHi": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 17 + 12 = 29. One unit = 116 / 29 = 4. Larger number = 17 * 4 = 68.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 17 × 4 = 68।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-128",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 18:13 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 18:13 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "optionsHi": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 18 + 13 = 31. One unit = 124 / 31 = 4. Larger number = 18 * 4 = 72.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 18 × 4 = 72।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-129",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 19:14 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 19:14 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "optionsHi": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 19 + 14 = 33. One unit = 132 / 33 = 4. Larger number = 19 * 4 = 76.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 19 × 4 = 76।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-130",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 20:5 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 20:5 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "optionsHi": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 20 + 5 = 25. One unit = 100 / 25 = 4. Larger number = 20 * 4 = 80.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 20 × 4 = 80।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-131",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 21:6 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 21:6 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "optionsHi": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 21 + 6 = 27. One unit = 108 / 27 = 4. Larger number = 21 * 4 = 84.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 21 × 4 = 84।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-132",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 22:7 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 22:7 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "optionsHi": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 22 + 7 = 29. One unit = 116 / 29 = 4. Larger number = 22 * 4 = 88.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 22 × 4 = 88।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-133",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 23:8 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 23:8 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "optionsHi": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 23 + 8 = 31. One unit = 124 / 31 = 4. Larger number = 23 * 4 = 92.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 23 × 4 = 92।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-134",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 24:9 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 24:9 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "optionsHi": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 24 + 9 = 33. One unit = 132 / 33 = 4. Larger number = 24 * 4 = 96.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 24 × 4 = 96।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-135",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 25:10 and their sum is 140, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 25:10 है और उनका योग 140 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "optionsHi": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 25 + 10 = 35. One unit = 140 / 35 = 4. Larger number = 25 * 4 = 100.",
+    "explanationHi": "अनुपाती योग = 35। एक अनुपात का मान = 4। बड़ी संख्या = 25 × 4 = 100।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-136",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 26:11 and their sum is 148, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 26:11 है और उनका योग 148 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "optionsHi": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 26 + 11 = 37. One unit = 148 / 37 = 4. Larger number = 26 * 4 = 104.",
+    "explanationHi": "अनुपाती योग = 37। एक अनुपात का मान = 4। बड़ी संख्या = 26 × 4 = 104।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-137",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 27:12 and their sum is 156, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 27:12 है और उनका योग 156 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "optionsHi": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 27 + 12 = 39. One unit = 156 / 39 = 4. Larger number = 27 * 4 = 108.",
+    "explanationHi": "अनुपाती योग = 39। एक अनुपात का मान = 4। बड़ी संख्या = 27 × 4 = 108।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-138",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 28:13 and their sum is 164, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 28:13 है और उनका योग 164 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "optionsHi": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 28 + 13 = 41. One unit = 164 / 41 = 4. Larger number = 28 * 4 = 112.",
+    "explanationHi": "अनुपाती योग = 41। एक अनुपात का मान = 4। बड़ी संख्या = 28 × 4 = 112।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-139",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 29:14 and their sum is 172, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 29:14 है और उनका योग 172 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "optionsHi": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 29 + 14 = 43. One unit = 172 / 43 = 4. Larger number = 29 * 4 = 116.",
+    "explanationHi": "अनुपाती योग = 43। एक अनुपात का मान = 4। बड़ी संख्या = 29 × 4 = 116।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-140",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 10:5 and their sum is 60, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 10:5 है और उनका योग 60 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "optionsHi": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 10 + 5 = 15. One unit = 60 / 15 = 4. Larger number = 10 * 4 = 40.",
+    "explanationHi": "अनुपाती योग = 15। एक अनुपात का मान = 4। बड़ी संख्या = 10 × 4 = 40।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-141",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 11:6 and their sum is 68, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 11:6 है और उनका योग 68 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "optionsHi": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 11 + 6 = 17. One unit = 68 / 17 = 4. Larger number = 11 * 4 = 44.",
+    "explanationHi": "अनुपाती योग = 17। एक अनुपात का मान = 4। बड़ी संख्या = 11 × 4 = 44।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-142",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 12:7 and their sum is 76, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 12:7 है और उनका योग 76 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "optionsHi": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 12 + 7 = 19. One unit = 76 / 19 = 4. Larger number = 12 * 4 = 48.",
+    "explanationHi": "अनुपाती योग = 19। एक अनुपात का मान = 4। बड़ी संख्या = 12 × 4 = 48।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-143",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 13:8 and their sum is 84, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 13:8 है और उनका योग 84 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "optionsHi": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 13 + 8 = 21. One unit = 84 / 21 = 4. Larger number = 13 * 4 = 52.",
+    "explanationHi": "अनुपाती योग = 21। एक अनुपात का मान = 4। बड़ी संख्या = 13 × 4 = 52।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-144",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 14:9 and their sum is 92, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 14:9 है और उनका योग 92 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "optionsHi": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 14 + 9 = 23. One unit = 92 / 23 = 4. Larger number = 14 * 4 = 56.",
+    "explanationHi": "अनुपाती योग = 23। एक अनुपात का मान = 4। बड़ी संख्या = 14 × 4 = 56।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-145",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 15:10 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 15:10 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "optionsHi": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 15 + 10 = 25. One unit = 100 / 25 = 4. Larger number = 15 * 4 = 60.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 15 × 4 = 60।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-146",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 16:11 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 16:11 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "optionsHi": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 16 + 11 = 27. One unit = 108 / 27 = 4. Larger number = 16 * 4 = 64.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 16 × 4 = 64।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-147",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 17:12 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 17:12 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "optionsHi": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 17 + 12 = 29. One unit = 116 / 29 = 4. Larger number = 17 * 4 = 68.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 17 × 4 = 68।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-148",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 18:13 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 18:13 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "optionsHi": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 18 + 13 = 31. One unit = 124 / 31 = 4. Larger number = 18 * 4 = 72.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 18 × 4 = 72।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-149",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 19:14 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 19:14 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "optionsHi": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 19 + 14 = 33. One unit = 132 / 33 = 4. Larger number = 19 * 4 = 76.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 19 × 4 = 76।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-150",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 20:5 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 20:5 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "optionsHi": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 20 + 5 = 25. One unit = 100 / 25 = 4. Larger number = 20 * 4 = 80.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 20 × 4 = 80।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-151",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 21:6 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 21:6 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "optionsHi": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 21 + 6 = 27. One unit = 108 / 27 = 4. Larger number = 21 * 4 = 84.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 21 × 4 = 84।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-152",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 22:7 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 22:7 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "optionsHi": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 22 + 7 = 29. One unit = 116 / 29 = 4. Larger number = 22 * 4 = 88.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 22 × 4 = 88।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-153",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 23:8 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 23:8 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "optionsHi": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 23 + 8 = 31. One unit = 124 / 31 = 4. Larger number = 23 * 4 = 92.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 23 × 4 = 92।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-154",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 24:9 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 24:9 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "optionsHi": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 24 + 9 = 33. One unit = 132 / 33 = 4. Larger number = 24 * 4 = 96.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 24 × 4 = 96।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-155",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 25:10 and their sum is 140, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 25:10 है और उनका योग 140 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "optionsHi": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 25 + 10 = 35. One unit = 140 / 35 = 4. Larger number = 25 * 4 = 100.",
+    "explanationHi": "अनुपाती योग = 35। एक अनुपात का मान = 4। बड़ी संख्या = 25 × 4 = 100।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-156",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 26:11 and their sum is 148, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 26:11 है और उनका योग 148 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "optionsHi": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 26 + 11 = 37. One unit = 148 / 37 = 4. Larger number = 26 * 4 = 104.",
+    "explanationHi": "अनुपाती योग = 37। एक अनुपात का मान = 4। बड़ी संख्या = 26 × 4 = 104।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-157",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 27:12 and their sum is 156, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 27:12 है और उनका योग 156 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "optionsHi": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 27 + 12 = 39. One unit = 156 / 39 = 4. Larger number = 27 * 4 = 108.",
+    "explanationHi": "अनुपाती योग = 39। एक अनुपात का मान = 4। बड़ी संख्या = 27 × 4 = 108।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-158",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 28:13 and their sum is 164, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 28:13 है और उनका योग 164 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "optionsHi": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 28 + 13 = 41. One unit = 164 / 41 = 4. Larger number = 28 * 4 = 112.",
+    "explanationHi": "अनुपाती योग = 41। एक अनुपात का मान = 4। बड़ी संख्या = 28 × 4 = 112।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-159",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 29:14 and their sum is 172, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 29:14 है और उनका योग 172 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "optionsHi": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 29 + 14 = 43. One unit = 172 / 43 = 4. Larger number = 29 * 4 = 116.",
+    "explanationHi": "अनुपाती योग = 43। एक अनुपात का मान = 4। बड़ी संख्या = 29 × 4 = 116।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-160",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 10:5 and their sum is 60, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 10:5 है और उनका योग 60 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "optionsHi": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 10 + 5 = 15. One unit = 60 / 15 = 4. Larger number = 10 * 4 = 40.",
+    "explanationHi": "अनुपाती योग = 15। एक अनुपात का मान = 4। बड़ी संख्या = 10 × 4 = 40।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-161",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 11:6 and their sum is 68, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 11:6 है और उनका योग 68 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "optionsHi": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 11 + 6 = 17. One unit = 68 / 17 = 4. Larger number = 11 * 4 = 44.",
+    "explanationHi": "अनुपाती योग = 17। एक अनुपात का मान = 4। बड़ी संख्या = 11 × 4 = 44।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-162",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 12:7 and their sum is 76, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 12:7 है और उनका योग 76 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "optionsHi": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 12 + 7 = 19. One unit = 76 / 19 = 4. Larger number = 12 * 4 = 48.",
+    "explanationHi": "अनुपाती योग = 19। एक अनुपात का मान = 4। बड़ी संख्या = 12 × 4 = 48।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-163",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 13:8 and their sum is 84, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 13:8 है और उनका योग 84 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "optionsHi": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 13 + 8 = 21. One unit = 84 / 21 = 4. Larger number = 13 * 4 = 52.",
+    "explanationHi": "अनुपाती योग = 21। एक अनुपात का मान = 4। बड़ी संख्या = 13 × 4 = 52।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-164",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 14:9 and their sum is 92, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 14:9 है और उनका योग 92 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "optionsHi": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 14 + 9 = 23. One unit = 92 / 23 = 4. Larger number = 14 * 4 = 56.",
+    "explanationHi": "अनुपाती योग = 23। एक अनुपात का मान = 4। बड़ी संख्या = 14 × 4 = 56।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-165",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 15:10 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 15:10 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "optionsHi": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 15 + 10 = 25. One unit = 100 / 25 = 4. Larger number = 15 * 4 = 60.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 15 × 4 = 60।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-166",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 16:11 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 16:11 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "optionsHi": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 16 + 11 = 27. One unit = 108 / 27 = 4. Larger number = 16 * 4 = 64.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 16 × 4 = 64।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-167",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 17:12 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 17:12 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "optionsHi": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 17 + 12 = 29. One unit = 116 / 29 = 4. Larger number = 17 * 4 = 68.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 17 × 4 = 68।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-168",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 18:13 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 18:13 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "optionsHi": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 18 + 13 = 31. One unit = 124 / 31 = 4. Larger number = 18 * 4 = 72.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 18 × 4 = 72।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-169",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 19:14 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 19:14 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "optionsHi": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 19 + 14 = 33. One unit = 132 / 33 = 4. Larger number = 19 * 4 = 76.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 19 × 4 = 76।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-170",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 20:5 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 20:5 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "optionsHi": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 20 + 5 = 25. One unit = 100 / 25 = 4. Larger number = 20 * 4 = 80.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 20 × 4 = 80।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-171",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 21:6 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 21:6 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "optionsHi": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 21 + 6 = 27. One unit = 108 / 27 = 4. Larger number = 21 * 4 = 84.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 21 × 4 = 84।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-172",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 22:7 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 22:7 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "optionsHi": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 22 + 7 = 29. One unit = 116 / 29 = 4. Larger number = 22 * 4 = 88.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 22 × 4 = 88।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-173",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 23:8 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 23:8 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "optionsHi": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 23 + 8 = 31. One unit = 124 / 31 = 4. Larger number = 23 * 4 = 92.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 23 × 4 = 92।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-174",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 24:9 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 24:9 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "optionsHi": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 24 + 9 = 33. One unit = 132 / 33 = 4. Larger number = 24 * 4 = 96.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 24 × 4 = 96।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-175",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 25:10 and their sum is 140, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 25:10 है और उनका योग 140 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "optionsHi": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 25 + 10 = 35. One unit = 140 / 35 = 4. Larger number = 25 * 4 = 100.",
+    "explanationHi": "अनुपाती योग = 35। एक अनुपात का मान = 4। बड़ी संख्या = 25 × 4 = 100।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-176",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 26:11 and their sum is 148, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 26:11 है और उनका योग 148 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "optionsHi": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 26 + 11 = 37. One unit = 148 / 37 = 4. Larger number = 26 * 4 = 104.",
+    "explanationHi": "अनुपाती योग = 37। एक अनुपात का मान = 4। बड़ी संख्या = 26 × 4 = 104।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-177",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 27:12 and their sum is 156, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 27:12 है और उनका योग 156 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "optionsHi": [
+      "108",
+      "48",
+      "78",
+      "81"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 27 + 12 = 39. One unit = 156 / 39 = 4. Larger number = 27 * 4 = 108.",
+    "explanationHi": "अनुपाती योग = 39। एक अनुपात का मान = 4। बड़ी संख्या = 27 × 4 = 108।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-178",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 28:13 and their sum is 164, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 28:13 है और उनका योग 164 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "optionsHi": [
+      "112",
+      "52",
+      "82",
+      "84"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 28 + 13 = 41. One unit = 164 / 41 = 4. Larger number = 28 * 4 = 112.",
+    "explanationHi": "अनुपाती योग = 41। एक अनुपात का मान = 4। बड़ी संख्या = 28 × 4 = 112।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-179",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 29:14 and their sum is 172, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 29:14 है और उनका योग 172 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "optionsHi": [
+      "116",
+      "56",
+      "86",
+      "87"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 29 + 14 = 43. One unit = 172 / 43 = 4. Larger number = 29 * 4 = 116.",
+    "explanationHi": "अनुपाती योग = 43। एक अनुपात का मान = 4। बड़ी संख्या = 29 × 4 = 116।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-180",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 10:5 and their sum is 60, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 10:5 है और उनका योग 60 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "optionsHi": [
+      "40",
+      "20",
+      "30",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 10 + 5 = 15. One unit = 60 / 15 = 4. Larger number = 10 * 4 = 40.",
+    "explanationHi": "अनुपाती योग = 15। एक अनुपात का मान = 4। बड़ी संख्या = 10 × 4 = 40।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-181",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 11:6 and their sum is 68, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 11:6 है और उनका योग 68 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "optionsHi": [
+      "44",
+      "24",
+      "34",
+      "33"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 11 + 6 = 17. One unit = 68 / 17 = 4. Larger number = 11 * 4 = 44.",
+    "explanationHi": "अनुपाती योग = 17। एक अनुपात का मान = 4। बड़ी संख्या = 11 × 4 = 44।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-182",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 12:7 and their sum is 76, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 12:7 है और उनका योग 76 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "optionsHi": [
+      "48",
+      "28",
+      "38",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 12 + 7 = 19. One unit = 76 / 19 = 4. Larger number = 12 * 4 = 48.",
+    "explanationHi": "अनुपाती योग = 19। एक अनुपात का मान = 4। बड़ी संख्या = 12 × 4 = 48।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-183",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 13:8 and their sum is 84, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 13:8 है और उनका योग 84 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "optionsHi": [
+      "52",
+      "32",
+      "42",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 13 + 8 = 21. One unit = 84 / 21 = 4. Larger number = 13 * 4 = 52.",
+    "explanationHi": "अनुपाती योग = 21। एक अनुपात का मान = 4। बड़ी संख्या = 13 × 4 = 52।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-184",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 14:9 and their sum is 92, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 14:9 है और उनका योग 92 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "optionsHi": [
+      "56",
+      "36",
+      "46",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 14 + 9 = 23. One unit = 92 / 23 = 4. Larger number = 14 * 4 = 56.",
+    "explanationHi": "अनुपाती योग = 23। एक अनुपात का मान = 4। बड़ी संख्या = 14 × 4 = 56।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-185",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 15:10 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 15:10 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "optionsHi": [
+      "60",
+      "40",
+      "50",
+      "45"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 15 + 10 = 25. One unit = 100 / 25 = 4. Larger number = 15 * 4 = 60.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 15 × 4 = 60।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-186",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 16:11 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 16:11 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "optionsHi": [
+      "64",
+      "44",
+      "54",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 16 + 11 = 27. One unit = 108 / 27 = 4. Larger number = 16 * 4 = 64.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 16 × 4 = 64।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-187",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 17:12 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 17:12 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "optionsHi": [
+      "68",
+      "48",
+      "58",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 17 + 12 = 29. One unit = 116 / 29 = 4. Larger number = 17 * 4 = 68.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 17 × 4 = 68।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-188",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 18:13 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 18:13 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "optionsHi": [
+      "72",
+      "52",
+      "62",
+      "54"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 18 + 13 = 31. One unit = 124 / 31 = 4. Larger number = 18 * 4 = 72.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 18 × 4 = 72।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-189",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 19:14 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 19:14 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "optionsHi": [
+      "76",
+      "56",
+      "66",
+      "57"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 19 + 14 = 33. One unit = 132 / 33 = 4. Larger number = 19 * 4 = 76.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 19 × 4 = 76।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-190",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 20:5 and their sum is 100, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 20:5 है और उनका योग 100 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "optionsHi": [
+      "80",
+      "20",
+      "50",
+      "60"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 20 + 5 = 25. One unit = 100 / 25 = 4. Larger number = 20 * 4 = 80.",
+    "explanationHi": "अनुपाती योग = 25। एक अनुपात का मान = 4। बड़ी संख्या = 20 × 4 = 80।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-191",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 21:6 and their sum is 108, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 21:6 है और उनका योग 108 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "optionsHi": [
+      "84",
+      "24",
+      "54",
+      "63"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 21 + 6 = 27. One unit = 108 / 27 = 4. Larger number = 21 * 4 = 84.",
+    "explanationHi": "अनुपाती योग = 27। एक अनुपात का मान = 4। बड़ी संख्या = 21 × 4 = 84।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-192",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 22:7 and their sum is 116, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 22:7 है और उनका योग 116 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "optionsHi": [
+      "88",
+      "28",
+      "58",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 22 + 7 = 29. One unit = 116 / 29 = 4. Larger number = 22 * 4 = 88.",
+    "explanationHi": "अनुपाती योग = 29। एक अनुपात का मान = 4। बड़ी संख्या = 22 × 4 = 88।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-193",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 23:8 and their sum is 124, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 23:8 है और उनका योग 124 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "optionsHi": [
+      "92",
+      "32",
+      "62",
+      "69"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 23 + 8 = 31. One unit = 124 / 31 = 4. Larger number = 23 * 4 = 92.",
+    "explanationHi": "अनुपाती योग = 31। एक अनुपात का मान = 4। बड़ी संख्या = 23 × 4 = 92।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-194",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 24:9 and their sum is 132, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 24:9 है और उनका योग 132 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "optionsHi": [
+      "96",
+      "36",
+      "66",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 24 + 9 = 33. One unit = 132 / 33 = 4. Larger number = 24 * 4 = 96.",
+    "explanationHi": "अनुपाती योग = 33। एक अनुपात का मान = 4। बड़ी संख्या = 24 × 4 = 96।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-195",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 25:10 and their sum is 140, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 25:10 है और उनका योग 140 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "optionsHi": [
+      "100",
+      "40",
+      "70",
+      "75"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 25 + 10 = 35. One unit = 140 / 35 = 4. Larger number = 25 * 4 = 100.",
+    "explanationHi": "अनुपाती योग = 35। एक अनुपात का मान = 4। बड़ी संख्या = 25 × 4 = 100।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  },
+  {
+    "id": "MATH-GEN-196",
+    "exam": "UPPRPB",
+    "post": "Constable",
+    "subject": "Mathematics",
+    "chapter": "Arithmetic Mastery",
+    "topic": "Calculations & Formulas",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": "If the ratio of two numbers is 26:11 and their sum is 148, what is the larger number?",
+    "questionHi": "यदि दो संख्याओं का अनुपात 26:11 है और उनका योग 148 है, तो बड़ी संख्या क्या होगी?",
+    "options": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "optionsHi": [
+      "104",
+      "44",
+      "74",
+      "78"
+    ],
+    "answer": 0,
+    "explanation": "Sum of ratio terms = 26 + 11 = 37. One unit = 148 / 37 = 4. Larger number = 26 * 4 = 104.",
+    "explanationHi": "अनुपाती योग = 37। एक अनुपात का मान = 4। बड़ी संख्या = 26 × 4 = 104।",
+    "sourceType": "original",
+    "reference": "RS Aggarwal Quantitative Aptitude",
+    "tags": [
+      "Maths",
+      "Ratio"
+    ],
+    "year": 2025,
+    "paper": "Practice"
+  }
+]

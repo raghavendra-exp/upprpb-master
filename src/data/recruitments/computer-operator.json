@@ -1,0 +1,122 @@
+{
+  "id": "UPPRPB-COMPUTER-OPERATOR-2025",
+  "postKey": "computer-operator",
+  "post": "Computer Operator Grade-A & Programmer Grade-2",
+  "postHi": "कंप्यूटर ऑपरेटर ग्रेड-ए एवं प्रोग्रामर ग्रेड-2",
+  "cycle": "2024-2025",
+  "vacancies": 985,
+  "status": "WRITTEN EXAM",
+  "currentStage": "Written Examination (CBT) & Typing Test Schedule",
+  "currentStageHi": "लिखित परीक्षा (सीबीटी) एवं टंकण परीक्षा की तिथि",
+  "officialSource": "https://uppbpb.gov.in/",
+  "notificationDate": "2024-01-07",
+  "lastVerified": "2026-09-24",
+  "version": "2026.1",
+  "stages": [
+    {
+      "id": "stage-notif",
+      "name": "Official Notification",
+      "nameHi": "विज्ञप्ति जारी",
+      "status": "completed",
+      "dateText": "Jan 2024"
+    },
+    {
+      "id": "stage-app",
+      "name": "Application Window",
+      "nameHi": "ऑनलाइन आवेदन",
+      "status": "completed",
+      "dateText": "Jan-Feb 2024"
+    },
+    {
+      "id": "stage-written",
+      "name": "Written Exam (CBT)",
+      "nameHi": "लिखित परीक्षा (ऑनलाइन)",
+      "status": "current",
+      "dateText": "Upcoming 2026"
+    },
+    {
+      "id": "stage-typing",
+      "name": "Computer Typing Speed Test",
+      "nameHi": "कंप्यूटर टंकण गति परीक्षा",
+      "status": "upcoming",
+      "dateText": "Following Written Exam"
+    },
+    {
+      "id": "stage-dv",
+      "name": "Document Verification",
+      "nameHi": "अभिलेखों की संवीक्षा",
+      "status": "upcoming"
+    },
+    {
+      "id": "stage-final",
+      "name": "Final Merit List",
+      "nameHi": "अंतिम चयन सूची",
+      "status": "upcoming"
+    }
+  ],
+  "eligibility": {
+    "ageLimit": {
+      "min": 18,
+      "max": 28,
+      "relaxation": "5 years relaxation for SC/ST/OBC of Uttar Pradesh",
+      "relaxationHi": "उत्तर प्रदेश के आरक्षित श्रेणियों हेतु 5 वर्ष की छूट"
+    },
+    "qualification": "Intermediate (10+2) with Physics and Mathematics from a recognized Board, along with DOEACC/NIELIT 'O' Level certificate OR 3-year Diploma in Computer Engineering/IT/Electronics.",
+    "qualificationHi": "मान्यता प्राप्त बोर्ड से भौतिक विज्ञान व गणित के साथ इंटरमीडिएट (10+2) + NIELIT से 'O' लेवल प्रमाण पत्र अथवा कंप्यूटर/आईटी/इलेक्ट्रॉनिक्स में 3 वर्षीय डिप्लोमा।",
+    "nationality": "Citizen of India",
+    "specialRequirements": [
+      "Hindi Typing speed min 25 wpm (Unicode Inscript keyboard)",
+      "English Typing speed min 30 wpm with minimum 85% accuracy"
+    ],
+    "specialRequirementsHi": [
+      "हिन्दी टंकण गति न्यूनतम 25 शब्द प्रति मिनट (यूनिकोड इनस्क्रिप्ट)",
+      "अंग्रेजी टंकण गति न्यूनतम 30 शब्द प्रति मिनट, न्यूनतम 85% शुद्धता"
+    ]
+  },
+  "examPattern": {
+    "mode": "Online (CBT)",
+    "totalQuestions": 160,
+    "totalMarks": 200,
+    "durationMinutes": 120,
+    "marksPerQuestion": 1.25,
+    "negativeMarking": 0,
+    "qualifyingCriteria": "Minimum 40% aggregate marks required to qualify for typing test",
+    "qualifyingCriteriaHi": "टंकण परीक्षा हेतु अर्ह होने के लिए कुल न्यूनतम 40% अंक अनिवार्य।",
+    "sections": [
+      {
+        "id": "sec-gk",
+        "name": "General Knowledge",
+        "nameHi": "सामान्य ज्ञान",
+        "questions": 20,
+        "marks": 25
+      },
+      {
+        "id": "sec-aptitude",
+        "name": "Mental Aptitude",
+        "nameHi": "मानसिक अभिरुचि",
+        "questions": 20,
+        "marks": 25
+      },
+      {
+        "id": "sec-reasoning",
+        "name": "Reasoning Ability",
+        "nameHi": "तर्कशक्ति परीक्षा",
+        "questions": 40,
+        "marks": 50
+      },
+      {
+        "id": "sec-cs",
+        "name": "Computer Science (Core)",
+        "nameHi": "कंप्यूटर विज्ञान (मुख्य विषय)",
+        "questions": 80,
+        "marks": 100
+      }
+    ]
+  },
+  "physical": [],
+  "links": {
+    "officialNotification": "https://uppbpb.gov.in/",
+    "applyUrl": "https://uppbpb.gov.in/",
+    "syllabusPdf": "https://uppbpb.gov.in/"
+  }
+}

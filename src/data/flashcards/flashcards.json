@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fc-upgk-01",
+    "subject": "UP GK",
+    "topic": "Administration",
+    "front": "What is the official motto and emblem of Uttar Pradesh Police?",
+    "frontHi": "उत्तर प्रदेश पुलिस का आधिकारिक ध्येय वाक्य (Motto) एवं प्रतीक चिह्न क्या है?",
+    "back": "Motto: 'सुरक्षा आपकी, संकल्प हमारा' (Security is yours, our commitment). Emblem: Two fishes (Matsya) with the Ashoka Stambh.",
+    "backHi": "ध्येय वाक्य: 'सुरक्षा आपकी, संकल्प हमारा'। प्रतीक: दो मछलियां एवं शीर्ष पर अशोक स्तम्भ।",
+    "status": "new"
+  },
+  {
+    "id": "fc-upgk-02",
+    "subject": "UP GK",
+    "topic": "Geography",
+    "front": "Which district of UP is bordered by 4 Indian states?",
+    "frontHi": "उत्तर प्रदेश का कौन सा जिला 4 भारतीय राज्यों से घिरा है?",
+    "back": "Sonbhadra (surrounded by Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar).",
+    "backHi": "सोनभद्र (मध्य प्रदेश, छत्तीसगढ़, झारखंड एवं बिहार)।",
+    "status": "new"
+  },
+  {
+    "id": "fc-law-01",
+    "subject": "Law",
+    "topic": "Criminal Law Reform",
+    "front": "What is the new Section for Murder in Bharatiya Nyaya Sanhita (BNS) replacing IPC 302?",
+    "frontHi": "भा.दं.सं. धारा 302 (हत्या) के स्थान पर भारतीय न्याय संहिता (BNS) की कौन सी धारा है?",
+    "back": "BNS Section 103 (Punishment for Murder) & Section 101 (Definition of Murder).",
+    "backHi": "BNS धारा 103 (हत्या का दंड) एवं BNS धारा 101 (हत्या की परिभाषा)।",
+    "status": "new"
+  },
+  {
+    "id": "fc-law-02",
+    "subject": "Law",
+    "topic": "BNSS Procedure",
+    "front": "Which Section of BNSS replaces Section 154 CrPC for registration of FIR and Zero FIR?",
+    "frontHi": "FIR एवं जीरो एफआईआर दर्ज करने हेतु CrPC 154 के स्थान पर BNSS की कौन सी धारा है?",
+    "back": "Section 173 BNSS (Statutory status given to Zero FIR and e-FIR).",
+    "backHi": "BNSS धारा 173 (जीरो एफआईआर और ई-एफआईआर को प्रत्यक्ष वैधानिक मान्यता)।",
+    "status": "new"
+  },
+  {
+    "id": "fc-polity-01",
+    "subject": "Polity",
+    "topic": "Writs",
+    "front": "Which 5 Writs can be issued by Supreme Court under Article 32 and High Court under Article 226?",
+    "frontHi": "अनुच्छेद 32 (सुप्रीम कोर्ट) व अनुच्छेद 226 (हाईकोर्ट) द्वारा जारी की जाने वाली 5 रिटें कौन सी हैं?",
+    "back": "1. Habeas Corpus 2. Mandamus 3. Prohibition 4. Certiorari 5. Quo-Warranto",
+    "backHi": "1. बंदी प्रत्यक्षीकरण 2. परमादेश 3. प्रतिषेध 4. उत्प्रेषण 5. अधिकार पृच्छा",
+    "status": "new"
+  },
+  {
+    "id": "fc-hindi-01",
+    "subject": "General Hindi",
+    "topic": "Varnamala",
+    "front": "Which consonants are called 'Antastha' (अन्तस्थ) and 'Ushma' (ऊष्म) in Hindi?",
+    "frontHi": "हिन्दी वर्णमाला में 'अन्तस्थ' और 'ऊष्म' व्यंजन कौन-कौन से हैं?",
+    "back": "Antastha (4): य, र, ल, व. Ushma (4): श, ष, स, ह.",
+    "backHi": "अन्तस्थ व्यंजन (4): य, र, ल, व। ऊष्म व्यंजन (4): श, ष, स, ह।",
+    "status": "new"
+  },
+  {
+    "id": "fc-computer-01",
+    "subject": "Computer",
+    "topic": "Networking",
+    "front": "What are the 7 Layers of OSI (Open Systems Interconnection) Model from bottom to top?",
+    "frontHi": "ओएसआई (OSI) मॉडल की नीचे से ऊपर तक 7 परतें (Layers) कौन सी हैं?",
+    "back": "1. Physical 2. Data Link 3. Network 4. Transport 5. Session 6. Presentation 7. Application (Mnemonic: Please Do Not Throw Sausage Pizza Away).",
+    "backHi": "1. भौतिक (Physical) 2. डेटा लिंक 3. नेटवर्क 4. ट्रांसपोर्ट 5. सेशन 6. प्रेजेंटेशन 7. एप्लिकेशन।",
+    "status": "new"
+  },
+  {
+    "id": "fc-science-01",
+    "subject": "General Science",
+    "topic": "Physics",
+    "front": "What is the speed of light in vacuum and speed of sound in air?",
+    "frontHi": "निर्वात में प्रकाश की चाल एवं वायु में ध्वनि की सामान्य चाल कितनी होती है?",
+    "back": "Speed of Light: 3 × 10^8 m/s (approx 3 lakh km/s). Speed of Sound in air: approx 343 m/s at 20°C (Sound cannot travel in vacuum).",
+    "backHi": "प्रकाश की चाल: 3 × 10^8 मी/से। ध्वनि की चाल (वायु): लगभग 343 मी/से (ध्वनि निर्वात में गमन नहीं कर सकती)।",
+    "status": "new"
+  }
+]
